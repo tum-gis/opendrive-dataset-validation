@@ -8,11 +8,13 @@
     },
     "basicDataTypePlan": [
         {
-            "type": "EmptyValueForOptionalAttribute",
-            "info": "Attribute 'name' is set with an empty value even though the attribute itself is optional.",
+            "type": "BlankStringAttributeValueForOptionalAttribute",
+            "info": "The value of the attribute 'name' is blank. The attribute is unset as it is optional.",
             "location": "Header element",
             "incidentSeverity": "WARNING",
-            "wasHealed": true,
+            "wasFixed": true,
+            "infoValues": {
+            },
             "messageSeverity": "WARNING"
         },
         {
@@ -20,7 +22,9 @@
             "info": "Unexpected value for attribute 'lateralProfile.shape'",
             "location": "Road: roadId=0",
             "incidentSeverity": "WARNING",
-            "wasHealed": true,
+            "wasFixed": true,
+            "infoValues": {
+            },
             "messageSeverity": "WARNING"
         },
         {
@@ -28,7 +32,9 @@
             "info": "Unexpected value for attribute 'lateralProfile.shape'",
             "location": "Road: roadId=4",
             "incidentSeverity": "WARNING",
-            "wasHealed": true,
+            "wasFixed": true,
+            "infoValues": {
+            },
             "messageSeverity": "WARNING"
         },
         {
@@ -36,7 +42,9 @@
             "info": "Unexpected value for attribute 'lateralProfile.shape'",
             "location": "Road: roadId=5",
             "incidentSeverity": "WARNING",
-            "wasHealed": true,
+            "wasFixed": true,
+            "infoValues": {
+            },
             "messageSeverity": "WARNING"
         },
         {
@@ -44,7 +52,9 @@
             "info": "Unexpected value for attribute 'lateralProfile.shape'",
             "location": "Road: roadId=6",
             "incidentSeverity": "WARNING",
-            "wasHealed": true,
+            "wasFixed": true,
+            "infoValues": {
+            },
             "messageSeverity": "WARNING"
         },
         {
@@ -52,7 +62,9 @@
             "info": "Unexpected value for attribute 'lateralProfile.shape'",
             "location": "Road: roadId=8",
             "incidentSeverity": "WARNING",
-            "wasHealed": true,
+            "wasFixed": true,
+            "infoValues": {
+            },
             "messageSeverity": "WARNING"
         },
         {
@@ -60,7 +72,9 @@
             "info": "Unexpected value for attribute 'lateralProfile.shape'",
             "location": "Road: roadId=9",
             "incidentSeverity": "WARNING",
-            "wasHealed": true,
+            "wasFixed": true,
+            "infoValues": {
+            },
             "messageSeverity": "WARNING"
         },
         {
@@ -68,7 +82,9 @@
             "info": "Unexpected value for attribute 'lateralProfile.shape'",
             "location": "Road: roadId=10",
             "incidentSeverity": "WARNING",
-            "wasHealed": true,
+            "wasFixed": true,
+            "infoValues": {
+            },
             "messageSeverity": "WARNING"
         },
         {
@@ -76,7 +92,9 @@
             "info": "Unexpected value for attribute 'lateralProfile.shape'",
             "location": "Road: roadId=11",
             "incidentSeverity": "WARNING",
-            "wasHealed": true,
+            "wasFixed": true,
+            "infoValues": {
+            },
             "messageSeverity": "WARNING"
         },
         {
@@ -84,7 +102,9 @@
             "info": "Unexpected value for attribute 'lateralProfile.shape'",
             "location": "Road: roadId=15",
             "incidentSeverity": "WARNING",
-            "wasHealed": true,
+            "wasFixed": true,
+            "infoValues": {
+            },
             "messageSeverity": "WARNING"
         },
         {
@@ -92,7 +112,9 @@
             "info": "Unexpected value for attribute 'lateralProfile.shape'",
             "location": "Road: roadId=30",
             "incidentSeverity": "WARNING",
-            "wasHealed": true,
+            "wasFixed": true,
+            "infoValues": {
+            },
             "messageSeverity": "WARNING"
         },
         {
@@ -100,7 +122,9 @@
             "info": "Unexpected value for attribute 'lateralProfile.shape'",
             "location": "Road: roadId=34",
             "incidentSeverity": "WARNING",
-            "wasHealed": true,
+            "wasFixed": true,
+            "infoValues": {
+            },
             "messageSeverity": "WARNING"
         },
         {
@@ -108,7 +132,9 @@
             "info": "Unexpected value for attribute 'lateralProfile.shape'",
             "location": "Road: roadId=35",
             "incidentSeverity": "WARNING",
-            "wasHealed": true,
+            "wasFixed": true,
+            "infoValues": {
+            },
             "messageSeverity": "WARNING"
         },
         {
@@ -116,7 +142,9 @@
             "info": "Unexpected value for attribute 'lateralProfile.shape'",
             "location": "Road: roadId=36",
             "incidentSeverity": "WARNING",
-            "wasHealed": true,
+            "wasFixed": true,
+            "infoValues": {
+            },
             "messageSeverity": "WARNING"
         },
         {
@@ -124,7 +152,9 @@
             "info": "Unexpected value for attribute 'lateralProfile.shape'",
             "location": "Road: roadId=37",
             "incidentSeverity": "WARNING",
-            "wasHealed": true,
+            "wasFixed": true,
+            "infoValues": {
+            },
             "messageSeverity": "WARNING"
         },
         {
@@ -132,7 +162,9 @@
             "info": "Unexpected value for attribute 'lateralProfile.shape'",
             "location": "Road: roadId=38",
             "incidentSeverity": "WARNING",
-            "wasHealed": true,
+            "wasFixed": true,
+            "infoValues": {
+            },
             "messageSeverity": "WARNING"
         },
         {
@@ -140,7 +172,9 @@
             "info": "Unexpected value for attribute 'lateralProfile.shape'",
             "location": "Road: roadId=39",
             "incidentSeverity": "WARNING",
-            "wasHealed": true,
+            "wasFixed": true,
+            "infoValues": {
+            },
             "messageSeverity": "WARNING"
         },
         {
@@ -148,7 +182,9 @@
             "info": "Unexpected value for attribute 'lateralProfile.shape'",
             "location": "Road: roadId=40",
             "incidentSeverity": "WARNING",
-            "wasHealed": true,
+            "wasFixed": true,
+            "infoValues": {
+            },
             "messageSeverity": "WARNING"
         },
         {
@@ -156,7 +192,9 @@
             "info": "Unexpected value for attribute 'lateralProfile.shape'",
             "location": "Road: roadId=41",
             "incidentSeverity": "WARNING",
-            "wasHealed": true,
+            "wasFixed": true,
+            "infoValues": {
+            },
             "messageSeverity": "WARNING"
         },
         {
@@ -164,7 +202,9 @@
             "info": "Unexpected value for attribute 'lateralProfile.shape'",
             "location": "Road: roadId=42",
             "incidentSeverity": "WARNING",
-            "wasHealed": true,
+            "wasFixed": true,
+            "infoValues": {
+            },
             "messageSeverity": "WARNING"
         },
         {
@@ -172,7 +212,9 @@
             "info": "Unexpected value for attribute 'lateralProfile.shape'",
             "location": "Road: roadId=44",
             "incidentSeverity": "WARNING",
-            "wasHealed": true,
+            "wasFixed": true,
+            "infoValues": {
+            },
             "messageSeverity": "WARNING"
         },
         {
@@ -180,7 +222,9 @@
             "info": "Unexpected value for attribute 'lateralProfile.shape'",
             "location": "Road: roadId=45",
             "incidentSeverity": "WARNING",
-            "wasHealed": true,
+            "wasFixed": true,
+            "infoValues": {
+            },
             "messageSeverity": "WARNING"
         },
         {
@@ -188,7 +232,9 @@
             "info": "Unexpected value for attribute 'lateralProfile.shape'",
             "location": "Road: roadId=46",
             "incidentSeverity": "WARNING",
-            "wasHealed": true,
+            "wasFixed": true,
+            "infoValues": {
+            },
             "messageSeverity": "WARNING"
         },
         {
@@ -196,7 +242,9 @@
             "info": "Unexpected value for attribute 'lateralProfile.shape'",
             "location": "Road: roadId=47",
             "incidentSeverity": "WARNING",
-            "wasHealed": true,
+            "wasFixed": true,
+            "infoValues": {
+            },
             "messageSeverity": "WARNING"
         },
         {
@@ -204,7 +252,9 @@
             "info": "Unexpected value for attribute 'lateralProfile.shape'",
             "location": "Road: roadId=48",
             "incidentSeverity": "WARNING",
-            "wasHealed": true,
+            "wasFixed": true,
+            "infoValues": {
+            },
             "messageSeverity": "WARNING"
         },
         {
@@ -212,7 +262,9 @@
             "info": "Unexpected value for attribute 'lateralProfile.shape'",
             "location": "Road: roadId=49",
             "incidentSeverity": "WARNING",
-            "wasHealed": true,
+            "wasFixed": true,
+            "infoValues": {
+            },
             "messageSeverity": "WARNING"
         },
         {
@@ -220,7 +272,9 @@
             "info": "Unexpected value for attribute 'lateralProfile.shape'",
             "location": "Road: roadId=50",
             "incidentSeverity": "WARNING",
-            "wasHealed": true,
+            "wasFixed": true,
+            "infoValues": {
+            },
             "messageSeverity": "WARNING"
         },
         {
@@ -228,7 +282,9 @@
             "info": "Unexpected value for attribute 'lateralProfile.shape'",
             "location": "Road: roadId=51",
             "incidentSeverity": "WARNING",
-            "wasHealed": true,
+            "wasFixed": true,
+            "infoValues": {
+            },
             "messageSeverity": "WARNING"
         },
         {
@@ -236,7 +292,9 @@
             "info": "Unexpected value for attribute 'lateralProfile.shape'",
             "location": "Road: roadId=53",
             "incidentSeverity": "WARNING",
-            "wasHealed": true,
+            "wasFixed": true,
+            "infoValues": {
+            },
             "messageSeverity": "WARNING"
         },
         {
@@ -244,7 +302,9 @@
             "info": "Unexpected value for attribute 'lateralProfile.shape'",
             "location": "Road: roadId=54",
             "incidentSeverity": "WARNING",
-            "wasHealed": true,
+            "wasFixed": true,
+            "infoValues": {
+            },
             "messageSeverity": "WARNING"
         },
         {
@@ -252,7 +312,9 @@
             "info": "Unexpected value for attribute 'lateralProfile.shape'",
             "location": "Road: roadId=55",
             "incidentSeverity": "WARNING",
-            "wasHealed": true,
+            "wasFixed": true,
+            "infoValues": {
+            },
             "messageSeverity": "WARNING"
         },
         {
@@ -260,7 +322,9 @@
             "info": "Unexpected value for attribute 'lateralProfile.shape'",
             "location": "Road: roadId=56",
             "incidentSeverity": "WARNING",
-            "wasHealed": true,
+            "wasFixed": true,
+            "infoValues": {
+            },
             "messageSeverity": "WARNING"
         },
         {
@@ -268,7 +332,9 @@
             "info": "Unexpected value for attribute 'lateralProfile.shape'",
             "location": "Road: roadId=57",
             "incidentSeverity": "WARNING",
-            "wasHealed": true,
+            "wasFixed": true,
+            "infoValues": {
+            },
             "messageSeverity": "WARNING"
         },
         {
@@ -276,7 +342,9 @@
             "info": "Unexpected value for attribute 'lateralProfile.shape'",
             "location": "Road: roadId=58",
             "incidentSeverity": "WARNING",
-            "wasHealed": true,
+            "wasFixed": true,
+            "infoValues": {
+            },
             "messageSeverity": "WARNING"
         },
         {
@@ -284,7 +352,9 @@
             "info": "Unexpected value for attribute 'lateralProfile.shape'",
             "location": "Road: roadId=59",
             "incidentSeverity": "WARNING",
-            "wasHealed": true,
+            "wasFixed": true,
+            "infoValues": {
+            },
             "messageSeverity": "WARNING"
         },
         {
@@ -292,7 +362,9 @@
             "info": "Unexpected value for attribute 'lateralProfile.shape'",
             "location": "Road: roadId=60",
             "incidentSeverity": "WARNING",
-            "wasHealed": true,
+            "wasFixed": true,
+            "infoValues": {
+            },
             "messageSeverity": "WARNING"
         },
         {
@@ -300,7 +372,9 @@
             "info": "Unexpected value for attribute 'lateralProfile.shape'",
             "location": "Road: roadId=61",
             "incidentSeverity": "WARNING",
-            "wasHealed": true,
+            "wasFixed": true,
+            "infoValues": {
+            },
             "messageSeverity": "WARNING"
         },
         {
@@ -308,7 +382,9 @@
             "info": "Unexpected value for attribute 'lateralProfile.shape'",
             "location": "Road: roadId=63",
             "incidentSeverity": "WARNING",
-            "wasHealed": true,
+            "wasFixed": true,
+            "infoValues": {
+            },
             "messageSeverity": "WARNING"
         },
         {
@@ -316,7 +392,9 @@
             "info": "Unexpected value for attribute 'lateralProfile.shape'",
             "location": "Road: roadId=64",
             "incidentSeverity": "WARNING",
-            "wasHealed": true,
+            "wasFixed": true,
+            "infoValues": {
+            },
             "messageSeverity": "WARNING"
         },
         {
@@ -324,7 +402,9 @@
             "info": "Unexpected value for attribute 'lateralProfile.shape'",
             "location": "Road: roadId=65",
             "incidentSeverity": "WARNING",
-            "wasHealed": true,
+            "wasFixed": true,
+            "infoValues": {
+            },
             "messageSeverity": "WARNING"
         },
         {
@@ -332,7 +412,9 @@
             "info": "Unexpected value for attribute 'lateralProfile.shape'",
             "location": "Road: roadId=66",
             "incidentSeverity": "WARNING",
-            "wasHealed": true,
+            "wasFixed": true,
+            "infoValues": {
+            },
             "messageSeverity": "WARNING"
         },
         {
@@ -340,7 +422,9 @@
             "info": "Unexpected value for attribute 'lateralProfile.shape'",
             "location": "Road: roadId=67",
             "incidentSeverity": "WARNING",
-            "wasHealed": true,
+            "wasFixed": true,
+            "infoValues": {
+            },
             "messageSeverity": "WARNING"
         },
         {
@@ -348,7 +432,9 @@
             "info": "Unexpected value for attribute 'lateralProfile.shape'",
             "location": "Road: roadId=68",
             "incidentSeverity": "WARNING",
-            "wasHealed": true,
+            "wasFixed": true,
+            "infoValues": {
+            },
             "messageSeverity": "WARNING"
         },
         {
@@ -356,7 +442,9 @@
             "info": "Unexpected value for attribute 'lateralProfile.shape'",
             "location": "Road: roadId=69",
             "incidentSeverity": "WARNING",
-            "wasHealed": true,
+            "wasFixed": true,
+            "infoValues": {
+            },
             "messageSeverity": "WARNING"
         },
         {
@@ -364,7 +452,9 @@
             "info": "Unexpected value for attribute 'lateralProfile.shape'",
             "location": "Road: roadId=70",
             "incidentSeverity": "WARNING",
-            "wasHealed": true,
+            "wasFixed": true,
+            "infoValues": {
+            },
             "messageSeverity": "WARNING"
         },
         {
@@ -372,7 +462,9 @@
             "info": "Unexpected value for attribute 'lateralProfile.shape'",
             "location": "Road: roadId=71",
             "incidentSeverity": "WARNING",
-            "wasHealed": true,
+            "wasFixed": true,
+            "infoValues": {
+            },
             "messageSeverity": "WARNING"
         },
         {
@@ -380,7 +472,9 @@
             "info": "Unexpected value for attribute 'lateralProfile.shape'",
             "location": "Road: roadId=72",
             "incidentSeverity": "WARNING",
-            "wasHealed": true,
+            "wasFixed": true,
+            "infoValues": {
+            },
             "messageSeverity": "WARNING"
         },
         {
@@ -388,7 +482,9 @@
             "info": "Unexpected value for attribute 'lateralProfile.shape'",
             "location": "Road: roadId=73",
             "incidentSeverity": "WARNING",
-            "wasHealed": true,
+            "wasFixed": true,
+            "infoValues": {
+            },
             "messageSeverity": "WARNING"
         },
         {
@@ -396,7 +492,9 @@
             "info": "Unexpected value for attribute 'lateralProfile.shape'",
             "location": "Road: roadId=76",
             "incidentSeverity": "WARNING",
-            "wasHealed": true,
+            "wasFixed": true,
+            "infoValues": {
+            },
             "messageSeverity": "WARNING"
         },
         {
@@ -404,7 +502,9 @@
             "info": "Unexpected value for attribute 'lateralProfile.shape'",
             "location": "Road: roadId=77",
             "incidentSeverity": "WARNING",
-            "wasHealed": true,
+            "wasFixed": true,
+            "infoValues": {
+            },
             "messageSeverity": "WARNING"
         },
         {
@@ -412,7 +512,9 @@
             "info": "Unexpected value for attribute 'lateralProfile.shape'",
             "location": "Road: roadId=79",
             "incidentSeverity": "WARNING",
-            "wasHealed": true,
+            "wasFixed": true,
+            "infoValues": {
+            },
             "messageSeverity": "WARNING"
         },
         {
@@ -420,7 +522,9 @@
             "info": "Unexpected value for attribute 'lateralProfile.shape'",
             "location": "Road: roadId=80",
             "incidentSeverity": "WARNING",
-            "wasHealed": true,
+            "wasFixed": true,
+            "infoValues": {
+            },
             "messageSeverity": "WARNING"
         },
         {
@@ -428,7 +532,9 @@
             "info": "Unexpected value for attribute 'lateralProfile.shape'",
             "location": "Road: roadId=85",
             "incidentSeverity": "WARNING",
-            "wasHealed": true,
+            "wasFixed": true,
+            "infoValues": {
+            },
             "messageSeverity": "WARNING"
         },
         {
@@ -436,7 +542,9 @@
             "info": "Unexpected value for attribute 'lateralProfile.shape'",
             "location": "Road: roadId=93",
             "incidentSeverity": "WARNING",
-            "wasHealed": true,
+            "wasFixed": true,
+            "infoValues": {
+            },
             "messageSeverity": "WARNING"
         },
         {
@@ -444,7 +552,9 @@
             "info": "Unexpected value for attribute 'lateralProfile.shape'",
             "location": "Road: roadId=94",
             "incidentSeverity": "WARNING",
-            "wasHealed": true,
+            "wasFixed": true,
+            "infoValues": {
+            },
             "messageSeverity": "WARNING"
         },
         {
@@ -452,7 +562,9 @@
             "info": "Unexpected value for attribute 'lateralProfile.shape'",
             "location": "Road: roadId=95",
             "incidentSeverity": "WARNING",
-            "wasHealed": true,
+            "wasFixed": true,
+            "infoValues": {
+            },
             "messageSeverity": "WARNING"
         },
         {
@@ -460,7 +572,9 @@
             "info": "Unexpected value for attribute 'lateralProfile.shape'",
             "location": "Road: roadId=100",
             "incidentSeverity": "WARNING",
-            "wasHealed": true,
+            "wasFixed": true,
+            "infoValues": {
+            },
             "messageSeverity": "WARNING"
         },
         {
@@ -468,7 +582,9 @@
             "info": "Unexpected value for attribute 'lateralProfile.shape'",
             "location": "Road: roadId=103",
             "incidentSeverity": "WARNING",
-            "wasHealed": true,
+            "wasFixed": true,
+            "infoValues": {
+            },
             "messageSeverity": "WARNING"
         },
         {
@@ -476,7 +592,9 @@
             "info": "Unexpected value for attribute 'lateralProfile.shape'",
             "location": "Road: roadId=106",
             "incidentSeverity": "WARNING",
-            "wasHealed": true,
+            "wasFixed": true,
+            "infoValues": {
+            },
             "messageSeverity": "WARNING"
         },
         {
@@ -484,7 +602,9 @@
             "info": "Unexpected value for attribute 'lateralProfile.shape'",
             "location": "Road: roadId=111",
             "incidentSeverity": "WARNING",
-            "wasHealed": true,
+            "wasFixed": true,
+            "infoValues": {
+            },
             "messageSeverity": "WARNING"
         },
         {
@@ -492,7 +612,9 @@
             "info": "Unexpected value for attribute 'lateralProfile.shape'",
             "location": "Road: roadId=114",
             "incidentSeverity": "WARNING",
-            "wasHealed": true,
+            "wasFixed": true,
+            "infoValues": {
+            },
             "messageSeverity": "WARNING"
         },
         {
@@ -500,7 +622,9 @@
             "info": "Unexpected value for attribute 'lateralProfile.shape'",
             "location": "Road: roadId=122",
             "incidentSeverity": "WARNING",
-            "wasHealed": true,
+            "wasFixed": true,
+            "infoValues": {
+            },
             "messageSeverity": "WARNING"
         },
         {
@@ -508,7 +632,9 @@
             "info": "Unexpected value for attribute 'lateralProfile.shape'",
             "location": "Road: roadId=123",
             "incidentSeverity": "WARNING",
-            "wasHealed": true,
+            "wasFixed": true,
+            "infoValues": {
+            },
             "messageSeverity": "WARNING"
         },
         {
@@ -516,7 +642,9 @@
             "info": "Unexpected value for attribute 'lateralProfile.shape'",
             "location": "Road: roadId=124",
             "incidentSeverity": "WARNING",
-            "wasHealed": true,
+            "wasFixed": true,
+            "infoValues": {
+            },
             "messageSeverity": "WARNING"
         },
         {
@@ -524,7 +652,9 @@
             "info": "Unexpected value for attribute 'lateralProfile.shape'",
             "location": "Road: roadId=129",
             "incidentSeverity": "WARNING",
-            "wasHealed": true,
+            "wasFixed": true,
+            "infoValues": {
+            },
             "messageSeverity": "WARNING"
         },
         {
@@ -532,7 +662,9 @@
             "info": "Unexpected value for attribute 'lateralProfile.shape'",
             "location": "Road: roadId=130",
             "incidentSeverity": "WARNING",
-            "wasHealed": true,
+            "wasFixed": true,
+            "infoValues": {
+            },
             "messageSeverity": "WARNING"
         },
         {
@@ -540,7 +672,9 @@
             "info": "Unexpected value for attribute 'lateralProfile.shape'",
             "location": "Road: roadId=132",
             "incidentSeverity": "WARNING",
-            "wasHealed": true,
+            "wasFixed": true,
+            "infoValues": {
+            },
             "messageSeverity": "WARNING"
         },
         {
@@ -548,7 +682,9 @@
             "info": "Unexpected value for attribute 'lateralProfile.shape'",
             "location": "Road: roadId=135",
             "incidentSeverity": "WARNING",
-            "wasHealed": true,
+            "wasFixed": true,
+            "infoValues": {
+            },
             "messageSeverity": "WARNING"
         },
         {
@@ -556,7 +692,9 @@
             "info": "Unexpected value for attribute 'lateralProfile.shape'",
             "location": "Road: roadId=139",
             "incidentSeverity": "WARNING",
-            "wasHealed": true,
+            "wasFixed": true,
+            "infoValues": {
+            },
             "messageSeverity": "WARNING"
         },
         {
@@ -564,7 +702,9 @@
             "info": "Unexpected value for attribute 'lateralProfile.shape'",
             "location": "Road: roadId=142",
             "incidentSeverity": "WARNING",
-            "wasHealed": true,
+            "wasFixed": true,
+            "infoValues": {
+            },
             "messageSeverity": "WARNING"
         },
         {
@@ -572,7 +712,9 @@
             "info": "Unexpected value for attribute 'lateralProfile.shape'",
             "location": "Road: roadId=147",
             "incidentSeverity": "WARNING",
-            "wasHealed": true,
+            "wasFixed": true,
+            "infoValues": {
+            },
             "messageSeverity": "WARNING"
         },
         {
@@ -580,7 +722,9 @@
             "info": "Unexpected value for attribute 'lateralProfile.shape'",
             "location": "Road: roadId=153",
             "incidentSeverity": "WARNING",
-            "wasHealed": true,
+            "wasFixed": true,
+            "infoValues": {
+            },
             "messageSeverity": "WARNING"
         },
         {
@@ -588,7 +732,9 @@
             "info": "Unexpected value for attribute 'lateralProfile.shape'",
             "location": "Road: roadId=157",
             "incidentSeverity": "WARNING",
-            "wasHealed": true,
+            "wasFixed": true,
+            "infoValues": {
+            },
             "messageSeverity": "WARNING"
         },
         {
@@ -596,7 +742,9 @@
             "info": "Unexpected value for attribute 'lateralProfile.shape'",
             "location": "Road: roadId=159",
             "incidentSeverity": "WARNING",
-            "wasHealed": true,
+            "wasFixed": true,
+            "infoValues": {
+            },
             "messageSeverity": "WARNING"
         },
         {
@@ -604,7 +752,9 @@
             "info": "Unexpected value for attribute 'lateralProfile.shape'",
             "location": "Road: roadId=161",
             "incidentSeverity": "WARNING",
-            "wasHealed": true,
+            "wasFixed": true,
+            "infoValues": {
+            },
             "messageSeverity": "WARNING"
         },
         {
@@ -612,7 +762,9 @@
             "info": "Unexpected value for attribute 'lateralProfile.shape'",
             "location": "Road: roadId=165",
             "incidentSeverity": "WARNING",
-            "wasHealed": true,
+            "wasFixed": true,
+            "infoValues": {
+            },
             "messageSeverity": "WARNING"
         },
         {
@@ -620,7 +772,9 @@
             "info": "Unexpected value for attribute 'lateralProfile.shape'",
             "location": "Road: roadId=166",
             "incidentSeverity": "WARNING",
-            "wasHealed": true,
+            "wasFixed": true,
+            "infoValues": {
+            },
             "messageSeverity": "WARNING"
         },
         {
@@ -628,7 +782,9 @@
             "info": "Unexpected value for attribute 'lateralProfile.shape'",
             "location": "Road: roadId=170",
             "incidentSeverity": "WARNING",
-            "wasHealed": true,
+            "wasFixed": true,
+            "infoValues": {
+            },
             "messageSeverity": "WARNING"
         },
         {
@@ -636,7 +792,9 @@
             "info": "Unexpected value for attribute 'lateralProfile.shape'",
             "location": "Road: roadId=171",
             "incidentSeverity": "WARNING",
-            "wasHealed": true,
+            "wasFixed": true,
+            "infoValues": {
+            },
             "messageSeverity": "WARNING"
         },
         {
@@ -644,7 +802,9 @@
             "info": "Unexpected value for attribute 'lateralProfile.shape'",
             "location": "Road: roadId=173",
             "incidentSeverity": "WARNING",
-            "wasHealed": true,
+            "wasFixed": true,
+            "infoValues": {
+            },
             "messageSeverity": "WARNING"
         },
         {
@@ -652,7 +812,9 @@
             "info": "Unexpected value for attribute 'lateralProfile.shape'",
             "location": "Road: roadId=175",
             "incidentSeverity": "WARNING",
-            "wasHealed": true,
+            "wasFixed": true,
+            "infoValues": {
+            },
             "messageSeverity": "WARNING"
         },
         {
@@ -660,7 +822,9 @@
             "info": "Unexpected value for attribute 'lateralProfile.shape'",
             "location": "Road: roadId=178",
             "incidentSeverity": "WARNING",
-            "wasHealed": true,
+            "wasFixed": true,
+            "infoValues": {
+            },
             "messageSeverity": "WARNING"
         },
         {
@@ -668,7 +832,9 @@
             "info": "Unexpected value for attribute 'lateralProfile.shape'",
             "location": "Road: roadId=180",
             "incidentSeverity": "WARNING",
-            "wasHealed": true,
+            "wasFixed": true,
+            "infoValues": {
+            },
             "messageSeverity": "WARNING"
         },
         {
@@ -676,7 +842,9 @@
             "info": "Unexpected value for attribute 'lateralProfile.shape'",
             "location": "Road: roadId=183",
             "incidentSeverity": "WARNING",
-            "wasHealed": true,
+            "wasFixed": true,
+            "infoValues": {
+            },
             "messageSeverity": "WARNING"
         },
         {
@@ -684,7 +852,9 @@
             "info": "Unexpected value for attribute 'lateralProfile.shape'",
             "location": "Road: roadId=186",
             "incidentSeverity": "WARNING",
-            "wasHealed": true,
+            "wasFixed": true,
+            "infoValues": {
+            },
             "messageSeverity": "WARNING"
         },
         {
@@ -692,7 +862,9 @@
             "info": "Unexpected value for attribute 'lateralProfile.shape'",
             "location": "Road: roadId=195",
             "incidentSeverity": "WARNING",
-            "wasHealed": true,
+            "wasFixed": true,
+            "infoValues": {
+            },
             "messageSeverity": "WARNING"
         },
         {
@@ -700,7 +872,9 @@
             "info": "Unexpected value for attribute 'lateralProfile.shape'",
             "location": "Road: roadId=196",
             "incidentSeverity": "WARNING",
-            "wasHealed": true,
+            "wasFixed": true,
+            "infoValues": {
+            },
             "messageSeverity": "WARNING"
         },
         {
@@ -708,7 +882,9 @@
             "info": "Unexpected value for attribute 'lateralProfile.shape'",
             "location": "Road: roadId=197",
             "incidentSeverity": "WARNING",
-            "wasHealed": true,
+            "wasFixed": true,
+            "infoValues": {
+            },
             "messageSeverity": "WARNING"
         },
         {
@@ -716,7 +892,9 @@
             "info": "Unexpected value for attribute 'lateralProfile.shape'",
             "location": "Road: roadId=200",
             "incidentSeverity": "WARNING",
-            "wasHealed": true,
+            "wasFixed": true,
+            "infoValues": {
+            },
             "messageSeverity": "WARNING"
         },
         {
@@ -724,7 +902,9 @@
             "info": "Unexpected value for attribute 'lateralProfile.shape'",
             "location": "Road: roadId=201",
             "incidentSeverity": "WARNING",
-            "wasHealed": true,
+            "wasFixed": true,
+            "infoValues": {
+            },
             "messageSeverity": "WARNING"
         },
         {
@@ -732,7 +912,9 @@
             "info": "Unexpected value for attribute 'lateralProfile.shape'",
             "location": "Road: roadId=202",
             "incidentSeverity": "WARNING",
-            "wasHealed": true,
+            "wasFixed": true,
+            "infoValues": {
+            },
             "messageSeverity": "WARNING"
         },
         {
@@ -740,7 +922,9 @@
             "info": "Unexpected value for attribute 'lateralProfile.shape'",
             "location": "Road: roadId=207",
             "incidentSeverity": "WARNING",
-            "wasHealed": true,
+            "wasFixed": true,
+            "infoValues": {
+            },
             "messageSeverity": "WARNING"
         },
         {
@@ -748,7 +932,9 @@
             "info": "Unexpected value for attribute 'lateralProfile.shape'",
             "location": "Road: roadId=210",
             "incidentSeverity": "WARNING",
-            "wasHealed": true,
+            "wasFixed": true,
+            "infoValues": {
+            },
             "messageSeverity": "WARNING"
         },
         {
@@ -756,7 +942,9 @@
             "info": "Unexpected value for attribute 'lateralProfile.shape'",
             "location": "Road: roadId=213",
             "incidentSeverity": "WARNING",
-            "wasHealed": true,
+            "wasFixed": true,
+            "infoValues": {
+            },
             "messageSeverity": "WARNING"
         },
         {
@@ -764,7 +952,9 @@
             "info": "Unexpected value for attribute 'lateralProfile.shape'",
             "location": "Road: roadId=218",
             "incidentSeverity": "WARNING",
-            "wasHealed": true,
+            "wasFixed": true,
+            "infoValues": {
+            },
             "messageSeverity": "WARNING"
         },
         {
@@ -772,7 +962,9 @@
             "info": "Unexpected value for attribute 'lateralProfile.shape'",
             "location": "Road: roadId=221",
             "incidentSeverity": "WARNING",
-            "wasHealed": true,
+            "wasFixed": true,
+            "infoValues": {
+            },
             "messageSeverity": "WARNING"
         },
         {
@@ -780,7 +972,9 @@
             "info": "Unexpected value for attribute 'lateralProfile.shape'",
             "location": "Road: roadId=224",
             "incidentSeverity": "WARNING",
-            "wasHealed": true,
+            "wasFixed": true,
+            "infoValues": {
+            },
             "messageSeverity": "WARNING"
         },
         {
@@ -788,7 +982,9 @@
             "info": "Unexpected value for attribute 'lateralProfile.shape'",
             "location": "Road: roadId=227",
             "incidentSeverity": "WARNING",
-            "wasHealed": true,
+            "wasFixed": true,
+            "infoValues": {
+            },
             "messageSeverity": "WARNING"
         },
         {
@@ -796,7 +992,9 @@
             "info": "Unexpected value for attribute 'lateralProfile.shape'",
             "location": "Road: roadId=228",
             "incidentSeverity": "WARNING",
-            "wasHealed": true,
+            "wasFixed": true,
+            "infoValues": {
+            },
             "messageSeverity": "WARNING"
         },
         {
@@ -804,7 +1002,9 @@
             "info": "Unexpected value for attribute 'lateralProfile.shape'",
             "location": "Road: roadId=234",
             "incidentSeverity": "WARNING",
-            "wasHealed": true,
+            "wasFixed": true,
+            "infoValues": {
+            },
             "messageSeverity": "WARNING"
         },
         {
@@ -812,7 +1012,9 @@
             "info": "Unexpected value for attribute 'lateralProfile.shape'",
             "location": "Road: roadId=235",
             "incidentSeverity": "WARNING",
-            "wasHealed": true,
+            "wasFixed": true,
+            "infoValues": {
+            },
             "messageSeverity": "WARNING"
         },
         {
@@ -820,7 +1022,9 @@
             "info": "Unexpected value for attribute 'lateralProfile.shape'",
             "location": "Road: roadId=237",
             "incidentSeverity": "WARNING",
-            "wasHealed": true,
+            "wasFixed": true,
+            "infoValues": {
+            },
             "messageSeverity": "WARNING"
         },
         {
@@ -828,7 +1032,9 @@
             "info": "Unexpected value for attribute 'lateralProfile.shape'",
             "location": "Road: roadId=241",
             "incidentSeverity": "WARNING",
-            "wasHealed": true,
+            "wasFixed": true,
+            "infoValues": {
+            },
             "messageSeverity": "WARNING"
         },
         {
@@ -836,7 +1042,9 @@
             "info": "Unexpected value for attribute 'lateralProfile.shape'",
             "location": "Road: roadId=244",
             "incidentSeverity": "WARNING",
-            "wasHealed": true,
+            "wasFixed": true,
+            "infoValues": {
+            },
             "messageSeverity": "WARNING"
         },
         {
@@ -844,7 +1052,9 @@
             "info": "Unexpected value for attribute 'lateralProfile.shape'",
             "location": "Road: roadId=247",
             "incidentSeverity": "WARNING",
-            "wasHealed": true,
+            "wasFixed": true,
+            "infoValues": {
+            },
             "messageSeverity": "WARNING"
         },
         {
@@ -852,7 +1062,9 @@
             "info": "Unexpected value for attribute 'lateralProfile.shape'",
             "location": "Road: roadId=250",
             "incidentSeverity": "WARNING",
-            "wasHealed": true,
+            "wasFixed": true,
+            "infoValues": {
+            },
             "messageSeverity": "WARNING"
         },
         {
@@ -860,7 +1072,9 @@
             "info": "Unexpected value for attribute 'lateralProfile.shape'",
             "location": "Road: roadId=253",
             "incidentSeverity": "WARNING",
-            "wasHealed": true,
+            "wasFixed": true,
+            "infoValues": {
+            },
             "messageSeverity": "WARNING"
         },
         {
@@ -868,7 +1082,9 @@
             "info": "Unexpected value for attribute 'lateralProfile.shape'",
             "location": "Road: roadId=257",
             "incidentSeverity": "WARNING",
-            "wasHealed": true,
+            "wasFixed": true,
+            "infoValues": {
+            },
             "messageSeverity": "WARNING"
         },
         {
@@ -876,7 +1092,9 @@
             "info": "Unexpected value for attribute 'lateralProfile.shape'",
             "location": "Road: roadId=309",
             "incidentSeverity": "WARNING",
-            "wasHealed": true,
+            "wasFixed": true,
+            "infoValues": {
+            },
             "messageSeverity": "WARNING"
         },
         {
@@ -884,7 +1102,9 @@
             "info": "Unexpected value for attribute 'lateralProfile.shape'",
             "location": "Road: roadId=325",
             "incidentSeverity": "WARNING",
-            "wasHealed": true,
+            "wasFixed": true,
+            "infoValues": {
+            },
             "messageSeverity": "WARNING"
         },
         {
@@ -892,7 +1112,9 @@
             "info": "Unexpected value for attribute 'lateralProfile.shape'",
             "location": "Road: roadId=391",
             "incidentSeverity": "WARNING",
-            "wasHealed": true,
+            "wasFixed": true,
+            "infoValues": {
+            },
             "messageSeverity": "WARNING"
         },
         {
@@ -900,7 +1122,9 @@
             "info": "Unexpected value for attribute 'lateralProfile.shape'",
             "location": "Road: roadId=403",
             "incidentSeverity": "WARNING",
-            "wasHealed": true,
+            "wasFixed": true,
+            "infoValues": {
+            },
             "messageSeverity": "WARNING"
         },
         {
@@ -908,7 +1132,9 @@
             "info": "Unexpected value for attribute 'lateralProfile.shape'",
             "location": "Road: roadId=414",
             "incidentSeverity": "WARNING",
-            "wasHealed": true,
+            "wasFixed": true,
+            "infoValues": {
+            },
             "messageSeverity": "WARNING"
         },
         {
@@ -916,7 +1142,9 @@
             "info": "Unexpected value for attribute 'lateralProfile.shape'",
             "location": "Road: roadId=425",
             "incidentSeverity": "WARNING",
-            "wasHealed": true,
+            "wasFixed": true,
+            "infoValues": {
+            },
             "messageSeverity": "WARNING"
         },
         {
@@ -924,7 +1152,9 @@
             "info": "Unexpected value for attribute 'lateralProfile.shape'",
             "location": "Road: roadId=448",
             "incidentSeverity": "WARNING",
-            "wasHealed": true,
+            "wasFixed": true,
+            "infoValues": {
+            },
             "messageSeverity": "WARNING"
         },
         {
@@ -932,7 +1162,9 @@
             "info": "Unexpected value for attribute 'lateralProfile.shape'",
             "location": "Road: roadId=463",
             "incidentSeverity": "WARNING",
-            "wasHealed": true,
+            "wasFixed": true,
+            "infoValues": {
+            },
             "messageSeverity": "WARNING"
         },
         {
@@ -940,7 +1172,9 @@
             "info": "Unexpected value for attribute 'lateralProfile.shape'",
             "location": "Road: roadId=494",
             "incidentSeverity": "WARNING",
-            "wasHealed": true,
+            "wasFixed": true,
+            "infoValues": {
+            },
             "messageSeverity": "WARNING"
         },
         {
@@ -948,7 +1182,9 @@
             "info": "Unexpected value for attribute 'lateralProfile.shape'",
             "location": "Road: roadId=507",
             "incidentSeverity": "WARNING",
-            "wasHealed": true,
+            "wasFixed": true,
+            "infoValues": {
+            },
             "messageSeverity": "WARNING"
         },
         {
@@ -956,7 +1192,9 @@
             "info": "Unexpected value for attribute 'lateralProfile.shape'",
             "location": "Road: roadId=568",
             "incidentSeverity": "WARNING",
-            "wasHealed": true,
+            "wasFixed": true,
+            "infoValues": {
+            },
             "messageSeverity": "WARNING"
         },
         {
@@ -964,7 +1202,9 @@
             "info": "Unexpected value for attribute 'lateralProfile.shape'",
             "location": "Road: roadId=598",
             "incidentSeverity": "WARNING",
-            "wasHealed": true,
+            "wasFixed": true,
+            "infoValues": {
+            },
             "messageSeverity": "WARNING"
         },
         {
@@ -972,7 +1212,9 @@
             "info": "Unexpected value for attribute 'lateralProfile.shape'",
             "location": "Road: roadId=608",
             "incidentSeverity": "WARNING",
-            "wasHealed": true,
+            "wasFixed": true,
+            "infoValues": {
+            },
             "messageSeverity": "WARNING"
         },
         {
@@ -980,7 +1222,9 @@
             "info": "Unexpected value for attribute 'lateralProfile.shape'",
             "location": "Road: roadId=611",
             "incidentSeverity": "WARNING",
-            "wasHealed": true,
+            "wasFixed": true,
+            "infoValues": {
+            },
             "messageSeverity": "WARNING"
         },
         {
@@ -988,7 +1232,9 @@
             "info": "Unexpected value for attribute 'lateralProfile.shape'",
             "location": "Road: roadId=625",
             "incidentSeverity": "WARNING",
-            "wasHealed": true,
+            "wasFixed": true,
+            "infoValues": {
+            },
             "messageSeverity": "WARNING"
         },
         {
@@ -996,7 +1242,9 @@
             "info": "Unexpected value for attribute 'lateralProfile.shape'",
             "location": "Road: roadId=738",
             "incidentSeverity": "WARNING",
-            "wasHealed": true,
+            "wasFixed": true,
+            "infoValues": {
+            },
             "messageSeverity": "WARNING"
         },
         {
@@ -1004,7 +1252,9 @@
             "info": "Unexpected value for attribute 'lateralProfile.shape'",
             "location": "Road: roadId=748",
             "incidentSeverity": "WARNING",
-            "wasHealed": true,
+            "wasFixed": true,
+            "infoValues": {
+            },
             "messageSeverity": "WARNING"
         },
         {
@@ -1012,7 +1262,9 @@
             "info": "Unexpected value for attribute 'lateralProfile.shape'",
             "location": "Road: roadId=768",
             "incidentSeverity": "WARNING",
-            "wasHealed": true,
+            "wasFixed": true,
+            "infoValues": {
+            },
             "messageSeverity": "WARNING"
         },
         {
@@ -1020,7 +1272,9 @@
             "info": "Unexpected value for attribute 'lateralProfile.shape'",
             "location": "Road: roadId=778",
             "incidentSeverity": "WARNING",
-            "wasHealed": true,
+            "wasFixed": true,
+            "infoValues": {
+            },
             "messageSeverity": "WARNING"
         },
         {
@@ -1028,7 +1282,9 @@
             "info": "Unexpected value for attribute 'lateralProfile.shape'",
             "location": "Road: roadId=795",
             "incidentSeverity": "WARNING",
-            "wasHealed": true,
+            "wasFixed": true,
+            "infoValues": {
+            },
             "messageSeverity": "WARNING"
         },
         {
@@ -1036,7 +1292,9 @@
             "info": "Unexpected value for attribute 'lateralProfile.shape'",
             "location": "Road: roadId=805",
             "incidentSeverity": "WARNING",
-            "wasHealed": true,
+            "wasFixed": true,
+            "infoValues": {
+            },
             "messageSeverity": "WARNING"
         },
         {
@@ -1044,7 +1302,9 @@
             "info": "Unexpected value for attribute 'lateralProfile.shape'",
             "location": "Road: roadId=817",
             "incidentSeverity": "WARNING",
-            "wasHealed": true,
+            "wasFixed": true,
+            "infoValues": {
+            },
             "messageSeverity": "WARNING"
         },
         {
@@ -1052,7 +1312,9 @@
             "info": "Unexpected value for attribute 'lateralProfile.shape'",
             "location": "Road: roadId=824",
             "incidentSeverity": "WARNING",
-            "wasHealed": true,
+            "wasFixed": true,
+            "infoValues": {
+            },
             "messageSeverity": "WARNING"
         },
         {
@@ -1060,7 +1322,9 @@
             "info": "Unexpected value for attribute 'lateralProfile.shape'",
             "location": "Road: roadId=829",
             "incidentSeverity": "WARNING",
-            "wasHealed": true,
+            "wasFixed": true,
+            "infoValues": {
+            },
             "messageSeverity": "WARNING"
         },
         {
@@ -1068,7 +1332,9 @@
             "info": "Unexpected value for attribute 'lateralProfile.shape'",
             "location": "Road: roadId=831",
             "incidentSeverity": "WARNING",
-            "wasHealed": true,
+            "wasFixed": true,
+            "infoValues": {
+            },
             "messageSeverity": "WARNING"
         },
         {
@@ -1076,7 +1342,9 @@
             "info": "Unexpected value for attribute 'lateralProfile.shape'",
             "location": "Road: roadId=834",
             "incidentSeverity": "WARNING",
-            "wasHealed": true,
+            "wasFixed": true,
+            "infoValues": {
+            },
             "messageSeverity": "WARNING"
         },
         {
@@ -1084,7 +1352,9 @@
             "info": "Unexpected value for attribute 'lateralProfile.shape'",
             "location": "Road: roadId=842",
             "incidentSeverity": "WARNING",
-            "wasHealed": true,
+            "wasFixed": true,
+            "infoValues": {
+            },
             "messageSeverity": "WARNING"
         },
         {
@@ -1092,7 +1362,9 @@
             "info": "Unexpected value for attribute 'lateralProfile.shape'",
             "location": "Road: roadId=846",
             "incidentSeverity": "WARNING",
-            "wasHealed": true,
+            "wasFixed": true,
+            "infoValues": {
+            },
             "messageSeverity": "WARNING"
         },
         {
@@ -1100,7 +1372,9 @@
             "info": "Unexpected value for attribute 'lateralProfile.shape'",
             "location": "Road: roadId=849",
             "incidentSeverity": "WARNING",
-            "wasHealed": true,
+            "wasFixed": true,
+            "infoValues": {
+            },
             "messageSeverity": "WARNING"
         },
         {
@@ -1108,7 +1382,9 @@
             "info": "Unexpected value for attribute 'lateralProfile.shape'",
             "location": "Road: roadId=853",
             "incidentSeverity": "WARNING",
-            "wasHealed": true,
+            "wasFixed": true,
+            "infoValues": {
+            },
             "messageSeverity": "WARNING"
         },
         {
@@ -1116,7 +1392,9 @@
             "info": "Unexpected value for attribute 'lateralProfile.shape'",
             "location": "Road: roadId=856",
             "incidentSeverity": "WARNING",
-            "wasHealed": true,
+            "wasFixed": true,
+            "infoValues": {
+            },
             "messageSeverity": "WARNING"
         },
         {
@@ -1124,7 +1402,9 @@
             "info": "Unexpected value for attribute 'lateralProfile.shape'",
             "location": "Road: roadId=860",
             "incidentSeverity": "WARNING",
-            "wasHealed": true,
+            "wasFixed": true,
+            "infoValues": {
+            },
             "messageSeverity": "WARNING"
         },
         {
@@ -1132,7 +1412,9 @@
             "info": "Unexpected value for attribute 'lateralProfile.shape'",
             "location": "Road: roadId=863",
             "incidentSeverity": "WARNING",
-            "wasHealed": true,
+            "wasFixed": true,
+            "infoValues": {
+            },
             "messageSeverity": "WARNING"
         }
     ],
@@ -1142,16 +1424,110 @@
             "info": "Each lane section shall contain at least one <right> or <left> element.",
             "location": "Lane section: laneSectionIndex=0, roadId=1000",
             "incidentSeverity": "FATAL_ERROR",
-            "wasHealed": false,
+            "wasFixed": false,
+            "infoValues": {
+            },
             "messageSeverity": "FATAL_ERROR"
         },
         {
             "type": "",
-            "info": "Each lane section shall contain at least one <right> or <left> element.",
-            "location": "Lane section: laneSectionIndex=0, roadId=1000",
-            "incidentSeverity": "FATAL_ERROR",
-            "wasHealed": false,
-            "messageSeverity": "FATAL_ERROR"
+            "info": "Junctions of type default should only be used when at least three roads are coming in (currently incoming road ids: [54, 71])",
+            "location": "Junction: junctionId=131",
+            "incidentSeverity": "WARNING",
+            "wasFixed": false,
+            "infoValues": {
+            },
+            "messageSeverity": "WARNING"
+        },
+        {
+            "type": "",
+            "info": "Junctions of type default should only be used when at least three roads are coming in (currently incoming road ids: [65, 6])",
+            "location": "Junction: junctionId=172",
+            "incidentSeverity": "WARNING",
+            "wasFixed": false,
+            "infoValues": {
+            },
+            "messageSeverity": "WARNING"
+        },
+        {
+            "type": "",
+            "info": "Junctions of type default should only be used when at least three roads are coming in (currently incoming road ids: [10, 63])",
+            "location": "Junction: junctionId=177",
+            "incidentSeverity": "WARNING",
+            "wasFixed": false,
+            "infoValues": {
+            },
+            "messageSeverity": "WARNING"
+        },
+        {
+            "type": "",
+            "info": "Junctions of type default should only be used when at least three roads are coming in (currently incoming road ids: [47, 37])",
+            "location": "Junction: junctionId=182",
+            "incidentSeverity": "WARNING",
+            "wasFixed": false,
+            "infoValues": {
+            },
+            "messageSeverity": "WARNING"
+        },
+        {
+            "type": "",
+            "info": "Junctions of type default should only be used when at least three roads are coming in (currently incoming road ids: [60, 64])",
+            "location": "Junction: junctionId=236",
+            "incidentSeverity": "WARNING",
+            "wasFixed": false,
+            "infoValues": {
+            },
+            "messageSeverity": "WARNING"
+        },
+        {
+            "type": "",
+            "info": "Junctions of type default should only be used when at least three roads are coming in (currently incoming road ids: [57, 15])",
+            "location": "Junction: junctionId=828",
+            "incidentSeverity": "WARNING",
+            "wasFixed": false,
+            "infoValues": {
+            },
+            "messageSeverity": "WARNING"
+        },
+        {
+            "type": "",
+            "info": "Junctions of type default should only be used when at least three roads are coming in (currently incoming road ids: [53, 67])",
+            "location": "Junction: junctionId=833",
+            "incidentSeverity": "WARNING",
+            "wasFixed": false,
+            "infoValues": {
+            },
+            "messageSeverity": "WARNING"
+        },
+        {
+            "type": "",
+            "info": "Junctions of type default should only be used when at least three roads are coming in (currently incoming road ids: [70])",
+            "location": "Junction: junctionId=845",
+            "incidentSeverity": "WARNING",
+            "wasFixed": false,
+            "infoValues": {
+            },
+            "messageSeverity": "WARNING"
+        },
+        {
+            "type": "",
+            "info": "Junctions of type default should only be used when at least three roads are coming in (currently incoming road ids: [42])",
+            "location": "Junction: junctionId=852",
+            "incidentSeverity": "WARNING",
+            "wasFixed": false,
+            "infoValues": {
+            },
+            "messageSeverity": "WARNING"
+        },
+        {
+            "type": "",
+            "info": "Junctions of type default should only be used when at least three roads are coming in (currently incoming road ids: [58])",
+            "location": "Junction: junctionId=859",
+            "incidentSeverity": "WARNING",
+            "wasFixed": false,
+            "infoValues": {
+            },
+            "messageSeverity": "WARNING"
         }
     ],
     "conversionRequirementsPlan": [

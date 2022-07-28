@@ -8,21 +8,65 @@
     },
     "basicDataTypePlan": [
         {
-            "type": "EmptyValueForOptionalAttribute",
-            "info": "Attribute 'name' is set with an empty value even though the attribute itself is optional.",
+            "type": "BlankStringAttributeValueForOptionalAttribute",
+            "info": "The value of the attribute 'name' is blank. The attribute is unset as it is optional.",
             "location": "Header element",
             "incidentSeverity": "WARNING",
-            "wasHealed": true,
+            "wasFixed": true,
+            "infoValues": {
+            },
             "messageSeverity": "WARNING"
         }
     ],
     "modelingRulesPlan": [
         {
+            "type": "GapBetweenPlanViewGeometryElements",
+            "info": "Geometry elements contain a gap from Vector2D(x=-0.5065143117927944, y=49.67690208589896) to Vector2D(x=-0.5065200386424351, y=49.67836181254542) with an euclidean distance of 0.0014597378803023323 above the warning tolerance of 0.001.",
+            "location": "Road: roadId=566",
+            "incidentSeverity": "WARNING",
+            "wasFixed": false,
+            "infoValues": {
+            },
+            "messageSeverity": "WARNING"
+        },
+        {
+            "type": "",
+            "info": "Plan view contains geometry elements with a length of zero (below tolerance threshold), which are removed.",
+            "location": "Road: roadId=580",
+            "incidentSeverity": "WARNING",
+            "wasFixed": true,
+            "infoValues": {
+            },
+            "messageSeverity": "WARNING"
+        },
+        {
+            "type": "",
+            "info": "Plan view contains geometry elements with a length of zero (below tolerance threshold), which are removed.",
+            "location": "Road: roadId=581",
+            "incidentSeverity": "WARNING",
+            "wasFixed": true,
+            "infoValues": {
+            },
+            "messageSeverity": "WARNING"
+        },
+        {
+            "type": "GapBetweenPlanViewGeometryElements",
+            "info": "Geometry elements contain a gap from Vector2D(x=15.469684626607629, y=291.2828038996492) to Vector2D(x=15.470152375835681, y=291.2837483381459) with an euclidean distance of 0.0010539228693083617 above the warning tolerance of 0.001.",
+            "location": "Road: roadId=706",
+            "incidentSeverity": "WARNING",
+            "wasFixed": false,
+            "infoValues": {
+            },
+            "messageSeverity": "WARNING"
+        },
+        {
             "type": "",
             "info": "The length of lane sections shall be greater than zero.",
             "location": "Road: roadId=580",
             "incidentSeverity": "FATAL_ERROR",
-            "wasHealed": false,
+            "wasFixed": false,
+            "infoValues": {
+            },
             "messageSeverity": "FATAL_ERROR"
         },
         {
@@ -30,24 +74,40 @@
             "info": "The length of lane sections shall be greater than zero.",
             "location": "Road: roadId=581",
             "incidentSeverity": "FATAL_ERROR",
-            "wasHealed": false,
+            "wasFixed": false,
+            "infoValues": {
+            },
             "messageSeverity": "FATAL_ERROR"
         },
         {
             "type": "",
-            "info": "The length of lane sections shall be greater than zero.",
-            "location": "Road: roadId=580",
-            "incidentSeverity": "FATAL_ERROR",
-            "wasHealed": false,
-            "messageSeverity": "FATAL_ERROR"
+            "info": "Junctions of type default should only be used when at least three roads are coming in (currently incoming road ids: [45, 46])",
+            "location": "Junction: junctionId=92",
+            "incidentSeverity": "WARNING",
+            "wasFixed": false,
+            "infoValues": {
+            },
+            "messageSeverity": "WARNING"
         },
         {
             "type": "",
-            "info": "The length of lane sections shall be greater than zero.",
-            "location": "Road: roadId=581",
-            "incidentSeverity": "FATAL_ERROR",
-            "wasHealed": false,
-            "messageSeverity": "FATAL_ERROR"
+            "info": "Junctions of type default should only be used when at least three roads are coming in (currently incoming road ids: [13, 12])",
+            "location": "Junction: junctionId=639",
+            "incidentSeverity": "WARNING",
+            "wasFixed": false,
+            "infoValues": {
+            },
+            "messageSeverity": "WARNING"
+        },
+        {
+            "type": "",
+            "info": "Junctions of type default should only be used when at least three roads are coming in (currently incoming road ids: [50, 49])",
+            "location": "Junction: junctionId=703",
+            "incidentSeverity": "WARNING",
+            "wasFixed": false,
+            "infoValues": {
+            },
+            "messageSeverity": "WARNING"
         }
     ],
     "conversionRequirementsPlan": [

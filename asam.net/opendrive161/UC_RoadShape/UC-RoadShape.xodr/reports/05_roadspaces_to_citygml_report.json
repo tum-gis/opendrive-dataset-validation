@@ -19,7 +19,9 @@
             "info": "No suitable source geometry found for populating the No suitable source geometry found for populating the TWO geometry () or implicit geometry (No suitable source geometry found for populating the No suitable source geometry found for populating the LoD TWO implicit geometry of the abstract occupied space.) of the abstract occupied space.",
             "location": "RoadspaceIdentifier(roadspaceId=1)",
             "incidentSeverity": "WARNING",
-            "wasHealed": true,
+            "wasFixed": true,
+            "infoValues": {
+            },
             "messageSeverity": "WARNING"
         },
         {
@@ -27,7 +29,9 @@
             "info": "No suitable source geometry found for populating the No suitable source geometry found for populating the TWO geometry () or implicit geometry (No suitable source geometry found for populating the No suitable source geometry found for populating the LoD TWO implicit geometry of the abstract occupied space.) of the abstract occupied space.",
             "location": "LaneIdentifier(laneId=0, laneSectionId=0, roadId=1)",
             "incidentSeverity": "WARNING",
-            "wasHealed": true,
+            "wasFixed": true,
+            "infoValues": {
+            },
             "messageSeverity": "WARNING"
         },
         {
@@ -35,7 +39,9 @@
             "info": "No suitable source geometry found for populating the No suitable source geometry found for populating the TWO geometry () or implicit geometry (No suitable source geometry found for populating the No suitable source geometry found for populating the LoD TWO implicit geometry of the abstract occupied space.) of the abstract occupied space.",
             "location": "LaneIdentifier(laneId=2, laneSectionId=0, roadId=1)",
             "incidentSeverity": "WARNING",
-            "wasHealed": true,
+            "wasFixed": true,
+            "infoValues": {
+            },
             "messageSeverity": "WARNING"
         },
         {
@@ -43,7 +49,9 @@
             "info": "No suitable source geometry found for populating the No suitable source geometry found for populating the TWO geometry () or implicit geometry (No suitable source geometry found for populating the No suitable source geometry found for populating the LoD TWO implicit geometry of the abstract occupied space.) of the abstract occupied space.",
             "location": "LaneIdentifier(laneId=1, laneSectionId=0, roadId=1)",
             "incidentSeverity": "WARNING",
-            "wasHealed": true,
+            "wasFixed": true,
+            "infoValues": {
+            },
             "messageSeverity": "WARNING"
         },
         {
@@ -51,7 +59,9 @@
             "info": "No suitable source geometry found for populating the No suitable source geometry found for populating the TWO geometry () or implicit geometry (No suitable source geometry found for populating the No suitable source geometry found for populating the LoD TWO implicit geometry of the abstract occupied space.) of the abstract occupied space.",
             "location": "LaneIdentifier(laneId=-1, laneSectionId=0, roadId=1)",
             "incidentSeverity": "WARNING",
-            "wasHealed": true,
+            "wasFixed": true,
+            "infoValues": {
+            },
             "messageSeverity": "WARNING"
         },
         {
@@ -59,7 +69,9 @@
             "info": "No suitable source geometry found for populating the No suitable source geometry found for populating the TWO geometry () or implicit geometry (No suitable source geometry found for populating the No suitable source geometry found for populating the LoD TWO implicit geometry of the abstract occupied space.) of the abstract occupied space.",
             "location": "LaneIdentifier(laneId=-2, laneSectionId=0, roadId=1)",
             "incidentSeverity": "WARNING",
-            "wasHealed": true,
+            "wasFixed": true,
+            "infoValues": {
+            },
             "messageSeverity": "WARNING"
         },
         {
@@ -67,7 +79,9 @@
             "info": "No suitable source geometry found for populating the No suitable source geometry found for populating the TWO geometry () or implicit geometry (No suitable source geometry found for populating the No suitable source geometry found for populating the LoD TWO implicit geometry of the abstract occupied space.) of the abstract occupied space.",
             "location": "LaneIdentifier(laneId=2, laneSectionId=0, roadId=1)",
             "incidentSeverity": "WARNING",
-            "wasHealed": true,
+            "wasFixed": true,
+            "infoValues": {
+            },
             "messageSeverity": "WARNING"
         },
         {
@@ -75,7 +89,9 @@
             "info": "No suitable source geometry found for populating the No suitable source geometry found for populating the TWO geometry () or implicit geometry (No suitable source geometry found for populating the No suitable source geometry found for populating the LoD TWO implicit geometry of the abstract occupied space.) of the abstract occupied space.",
             "location": "LaneIdentifier(laneId=1, laneSectionId=0, roadId=1)",
             "incidentSeverity": "WARNING",
-            "wasHealed": true,
+            "wasFixed": true,
+            "infoValues": {
+            },
             "messageSeverity": "WARNING"
         },
         {
@@ -83,7 +99,9 @@
             "info": "No suitable source geometry found for populating the No suitable source geometry found for populating the TWO geometry () or implicit geometry (No suitable source geometry found for populating the No suitable source geometry found for populating the LoD TWO implicit geometry of the abstract occupied space.) of the abstract occupied space.",
             "location": "LaneIdentifier(laneId=-1, laneSectionId=0, roadId=1)",
             "incidentSeverity": "WARNING",
-            "wasHealed": true,
+            "wasFixed": true,
+            "infoValues": {
+            },
             "messageSeverity": "WARNING"
         },
         {
@@ -91,7 +109,9 @@
             "info": "No suitable source geometry found for populating the No suitable source geometry found for populating the TWO geometry () or implicit geometry (No suitable source geometry found for populating the No suitable source geometry found for populating the LoD TWO implicit geometry of the abstract occupied space.) of the abstract occupied space.",
             "location": "LaneIdentifier(laneId=-2, laneSectionId=0, roadId=1)",
             "incidentSeverity": "WARNING",
-            "wasHealed": true,
+            "wasFixed": true,
+            "infoValues": {
+            },
             "messageSeverity": "WARNING"
         },
         {
@@ -99,7 +119,9 @@
             "info": "No suitable source geometry found for populating the No suitable source geometry found for populating the TWO geometry () or implicit geometry (No suitable source geometry found for populating the No suitable source geometry found for populating the LoD TWO implicit geometry of the abstract occupied space.) of the abstract occupied space.",
             "location": "LaneIdentifier(laneId=2, laneSectionId=0, roadId=1)",
             "incidentSeverity": "WARNING",
-            "wasHealed": true,
+            "wasFixed": true,
+            "infoValues": {
+            },
             "messageSeverity": "WARNING"
         },
         {
@@ -107,7 +129,9 @@
             "info": "No suitable source geometry found for populating the No suitable source geometry found for populating the TWO geometry () or implicit geometry (No suitable source geometry found for populating the No suitable source geometry found for populating the LoD TWO implicit geometry of the abstract occupied space.) of the abstract occupied space.",
             "location": "LaneIdentifier(laneId=1, laneSectionId=0, roadId=1)",
             "incidentSeverity": "WARNING",
-            "wasHealed": true,
+            "wasFixed": true,
+            "infoValues": {
+            },
             "messageSeverity": "WARNING"
         },
         {
@@ -115,7 +139,9 @@
             "info": "No suitable source geometry found for populating the No suitable source geometry found for populating the TWO geometry () or implicit geometry (No suitable source geometry found for populating the No suitable source geometry found for populating the LoD TWO implicit geometry of the abstract occupied space.) of the abstract occupied space.",
             "location": "LaneIdentifier(laneId=-1, laneSectionId=0, roadId=1)",
             "incidentSeverity": "WARNING",
-            "wasHealed": true,
+            "wasFixed": true,
+            "infoValues": {
+            },
             "messageSeverity": "WARNING"
         },
         {
@@ -123,7 +149,9 @@
             "info": "No suitable source geometry found for populating the No suitable source geometry found for populating the TWO geometry () or implicit geometry (No suitable source geometry found for populating the No suitable source geometry found for populating the LoD TWO implicit geometry of the abstract occupied space.) of the abstract occupied space.",
             "location": "LaneIdentifier(laneId=-2, laneSectionId=0, roadId=1)",
             "incidentSeverity": "WARNING",
-            "wasHealed": true,
+            "wasFixed": true,
+            "infoValues": {
+            },
             "messageSeverity": "WARNING"
         }
     ]

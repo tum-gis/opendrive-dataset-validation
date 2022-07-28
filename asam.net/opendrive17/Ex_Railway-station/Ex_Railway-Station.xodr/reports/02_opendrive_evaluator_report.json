@@ -8,11 +8,13 @@
     },
     "basicDataTypePlan": [
         {
-            "type": "EmptyValueForOptionalAttribute",
-            "info": "Attribute 'name' is set with an empty value even though the attribute itself is optional.",
+            "type": "BlankStringAttributeValueForOptionalAttribute",
+            "info": "The value of the attribute 'name' is blank. The attribute is unset as it is optional.",
             "location": "Header element",
             "incidentSeverity": "WARNING",
-            "wasHealed": true,
+            "wasFixed": true,
+            "infoValues": {
+            },
             "messageSeverity": "WARNING"
         }
     ],

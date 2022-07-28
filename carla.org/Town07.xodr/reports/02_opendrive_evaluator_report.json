@@ -8,21 +8,215 @@
     },
     "basicDataTypePlan": [
         {
-            "type": "EmptyValueForOptionalAttribute",
-            "info": "Attribute 'name' is set with an empty value even though the attribute itself is optional.",
+            "type": "BlankStringAttributeValueForOptionalAttribute",
+            "info": "The value of the attribute 'name' is blank. The attribute is unset as it is optional.",
             "location": "Header element",
             "incidentSeverity": "WARNING",
-            "wasHealed": true,
+            "wasFixed": true,
+            "infoValues": {
+            },
             "messageSeverity": "WARNING"
         }
     ],
     "modelingRulesPlan": [
         {
             "type": "",
+            "info": "Plan view contains geometry elements with a length of zero (below tolerance threshold), which are removed.",
+            "location": "Road: roadId=278",
+            "incidentSeverity": "WARNING",
+            "wasFixed": true,
+            "infoValues": {
+            },
+            "messageSeverity": "WARNING"
+        },
+        {
+            "type": "",
+            "info": "Plan view contains geometry elements with a length of zero (below tolerance threshold), which are removed.",
+            "location": "Road: roadId=279",
+            "incidentSeverity": "WARNING",
+            "wasFixed": true,
+            "infoValues": {
+            },
+            "messageSeverity": "WARNING"
+        },
+        {
+            "type": "",
+            "info": "Plan view contains geometry elements with a length of zero (below tolerance threshold), which are removed.",
+            "location": "Road: roadId=325",
+            "incidentSeverity": "WARNING",
+            "wasFixed": true,
+            "infoValues": {
+            },
+            "messageSeverity": "WARNING"
+        },
+        {
+            "type": "",
+            "info": "Length attribute (length=5.999610662037789) of the geometry element (s=2.994508750547107) does not match the start position (s=8.99411954113995) of the next geometry element.",
+            "location": "Road: roadId=325",
+            "incidentSeverity": "WARNING",
+            "wasFixed": true,
+            "infoValues": {
+            },
+            "messageSeverity": "WARNING"
+        },
+        {
+            "type": "",
+            "info": "Plan view contains geometry elements with a length of zero (below tolerance threshold), which are removed.",
+            "location": "Road: roadId=326",
+            "incidentSeverity": "WARNING",
+            "wasFixed": true,
+            "infoValues": {
+            },
+            "messageSeverity": "WARNING"
+        },
+        {
+            "type": "",
+            "info": "Length attribute (length=5.999610662037789) of the geometry element (s=2.994508750547107) does not match the start position (s=8.99411954113995) of the next geometry element.",
+            "location": "Road: roadId=326",
+            "incidentSeverity": "WARNING",
+            "wasFixed": true,
+            "infoValues": {
+            },
+            "messageSeverity": "WARNING"
+        },
+        {
+            "type": "GapBetweenPlanViewGeometryElements",
+            "info": "Geometry elements contain a gap from Vector2D(x=69.45047565379892, y=-65.49465645563937) to Vector2D(x=69.45017529167208, y=-65.49368899578793) with an euclidean distance of 0.0010130133125393764 above the warning tolerance of 0.001.",
+            "location": "Road: roadId=346",
+            "incidentSeverity": "WARNING",
+            "wasFixed": false,
+            "infoValues": {
+            },
+            "messageSeverity": "WARNING"
+        },
+        {
+            "type": "",
+            "info": "Plan view contains geometry elements with a length of zero (below tolerance threshold), which are removed.",
+            "location": "Road: roadId=565",
+            "incidentSeverity": "WARNING",
+            "wasFixed": true,
+            "infoValues": {
+            },
+            "messageSeverity": "WARNING"
+        },
+        {
+            "type": "",
+            "info": "Plan view contains geometry elements with a length of zero (below tolerance threshold), which are removed.",
+            "location": "Road: roadId=566",
+            "incidentSeverity": "WARNING",
+            "wasFixed": true,
+            "infoValues": {
+            },
+            "messageSeverity": "WARNING"
+        },
+        {
+            "type": "",
+            "info": "Plan view contains geometry elements with a length of zero (below tolerance threshold), which are removed.",
+            "location": "Road: roadId=641",
+            "incidentSeverity": "WARNING",
+            "wasFixed": true,
+            "infoValues": {
+            },
+            "messageSeverity": "WARNING"
+        },
+        {
+            "type": "",
+            "info": "Plan view contains geometry elements with a length of zero (below tolerance threshold), which are removed.",
+            "location": "Road: roadId=642",
+            "incidentSeverity": "WARNING",
+            "wasFixed": true,
+            "infoValues": {
+            },
+            "messageSeverity": "WARNING"
+        },
+        {
+            "type": "",
+            "info": "Plan view contains geometry elements with a length of zero (below tolerance threshold), which are removed.",
+            "location": "Road: roadId=687",
+            "incidentSeverity": "WARNING",
+            "wasFixed": true,
+            "infoValues": {
+            },
+            "messageSeverity": "WARNING"
+        },
+        {
+            "type": "",
+            "info": "Plan view contains geometry elements with a length of zero (below tolerance threshold), which are removed.",
+            "location": "Road: roadId=688",
+            "incidentSeverity": "WARNING",
+            "wasFixed": true,
+            "infoValues": {
+            },
+            "messageSeverity": "WARNING"
+        },
+        {
+            "type": "",
+            "info": "Plan view contains geometry elements with a length of zero (below tolerance threshold), which are removed.",
+            "location": "Road: roadId=778",
+            "incidentSeverity": "WARNING",
+            "wasFixed": true,
+            "infoValues": {
+            },
+            "messageSeverity": "WARNING"
+        },
+        {
+            "type": "",
+            "info": "Plan view contains geometry elements with a length of zero (below tolerance threshold), which are removed.",
+            "location": "Road: roadId=779",
+            "incidentSeverity": "WARNING",
+            "wasFixed": true,
+            "infoValues": {
+            },
+            "messageSeverity": "WARNING"
+        },
+        {
+            "type": "",
+            "info": "Plan view contains geometry elements with a length of zero (below tolerance threshold), which are removed.",
+            "location": "Road: roadId=787",
+            "incidentSeverity": "WARNING",
+            "wasFixed": true,
+            "infoValues": {
+            },
+            "messageSeverity": "WARNING"
+        },
+        {
+            "type": "",
+            "info": "Length attribute (length=6.000095853024135) of the geometry element (s=0.0) does not match the start position (s=6.000095959130192) of the next geometry element.",
+            "location": "Road: roadId=787",
+            "incidentSeverity": "WARNING",
+            "wasFixed": true,
+            "infoValues": {
+            },
+            "messageSeverity": "WARNING"
+        },
+        {
+            "type": "",
+            "info": "Plan view contains geometry elements with a length of zero (below tolerance threshold), which are removed.",
+            "location": "Road: roadId=788",
+            "incidentSeverity": "WARNING",
+            "wasFixed": true,
+            "infoValues": {
+            },
+            "messageSeverity": "WARNING"
+        },
+        {
+            "type": "",
+            "info": "Length attribute (length=6.000095853024135) of the geometry element (s=0.0) does not match the start position (s=6.000095959130192) of the next geometry element.",
+            "location": "Road: roadId=788",
+            "incidentSeverity": "WARNING",
+            "wasFixed": true,
+            "infoValues": {
+            },
+            "messageSeverity": "WARNING"
+        },
+        {
+            "type": "",
             "info": "The length of lane sections shall be greater than zero.",
             "location": "Road: roadId=278",
             "incidentSeverity": "FATAL_ERROR",
-            "wasHealed": false,
+            "wasFixed": false,
+            "infoValues": {
+            },
             "messageSeverity": "FATAL_ERROR"
         },
         {
@@ -30,7 +224,9 @@
             "info": "The length of lane sections shall be greater than zero.",
             "location": "Road: roadId=279",
             "incidentSeverity": "FATAL_ERROR",
-            "wasHealed": false,
+            "wasFixed": false,
+            "infoValues": {
+            },
             "messageSeverity": "FATAL_ERROR"
         },
         {
@@ -38,7 +234,9 @@
             "info": "The length of lane sections shall be greater than zero.",
             "location": "Road: roadId=325",
             "incidentSeverity": "FATAL_ERROR",
-            "wasHealed": false,
+            "wasFixed": false,
+            "infoValues": {
+            },
             "messageSeverity": "FATAL_ERROR"
         },
         {
@@ -46,7 +244,9 @@
             "info": "The length of lane sections shall be greater than zero.",
             "location": "Road: roadId=326",
             "incidentSeverity": "FATAL_ERROR",
-            "wasHealed": false,
+            "wasFixed": false,
+            "infoValues": {
+            },
             "messageSeverity": "FATAL_ERROR"
         },
         {
@@ -54,7 +254,9 @@
             "info": "The length of lane sections shall be greater than zero.",
             "location": "Road: roadId=565",
             "incidentSeverity": "FATAL_ERROR",
-            "wasHealed": false,
+            "wasFixed": false,
+            "infoValues": {
+            },
             "messageSeverity": "FATAL_ERROR"
         },
         {
@@ -62,7 +264,9 @@
             "info": "The length of lane sections shall be greater than zero.",
             "location": "Road: roadId=566",
             "incidentSeverity": "FATAL_ERROR",
-            "wasHealed": false,
+            "wasFixed": false,
+            "infoValues": {
+            },
             "messageSeverity": "FATAL_ERROR"
         },
         {
@@ -70,7 +274,9 @@
             "info": "The length of lane sections shall be greater than zero.",
             "location": "Road: roadId=641",
             "incidentSeverity": "FATAL_ERROR",
-            "wasHealed": false,
+            "wasFixed": false,
+            "infoValues": {
+            },
             "messageSeverity": "FATAL_ERROR"
         },
         {
@@ -78,7 +284,9 @@
             "info": "The length of lane sections shall be greater than zero.",
             "location": "Road: roadId=642",
             "incidentSeverity": "FATAL_ERROR",
-            "wasHealed": false,
+            "wasFixed": false,
+            "infoValues": {
+            },
             "messageSeverity": "FATAL_ERROR"
         },
         {
@@ -86,7 +294,9 @@
             "info": "The length of lane sections shall be greater than zero.",
             "location": "Road: roadId=687",
             "incidentSeverity": "FATAL_ERROR",
-            "wasHealed": false,
+            "wasFixed": false,
+            "infoValues": {
+            },
             "messageSeverity": "FATAL_ERROR"
         },
         {
@@ -94,7 +304,9 @@
             "info": "The length of lane sections shall be greater than zero.",
             "location": "Road: roadId=688",
             "incidentSeverity": "FATAL_ERROR",
-            "wasHealed": false,
+            "wasFixed": false,
+            "infoValues": {
+            },
             "messageSeverity": "FATAL_ERROR"
         },
         {
@@ -102,7 +314,9 @@
             "info": "The length of lane sections shall be greater than zero.",
             "location": "Road: roadId=778",
             "incidentSeverity": "FATAL_ERROR",
-            "wasHealed": false,
+            "wasFixed": false,
+            "infoValues": {
+            },
             "messageSeverity": "FATAL_ERROR"
         },
         {
@@ -110,7 +324,9 @@
             "info": "The length of lane sections shall be greater than zero.",
             "location": "Road: roadId=779",
             "incidentSeverity": "FATAL_ERROR",
-            "wasHealed": false,
+            "wasFixed": false,
+            "infoValues": {
+            },
             "messageSeverity": "FATAL_ERROR"
         },
         {
@@ -118,7 +334,9 @@
             "info": "The length of lane sections shall be greater than zero.",
             "location": "Road: roadId=787",
             "incidentSeverity": "FATAL_ERROR",
-            "wasHealed": false,
+            "wasFixed": false,
+            "infoValues": {
+            },
             "messageSeverity": "FATAL_ERROR"
         },
         {
@@ -126,120 +344,100 @@
             "info": "The length of lane sections shall be greater than zero.",
             "location": "Road: roadId=788",
             "incidentSeverity": "FATAL_ERROR",
-            "wasHealed": false,
+            "wasFixed": false,
+            "infoValues": {
+            },
             "messageSeverity": "FATAL_ERROR"
         },
         {
             "type": "",
-            "info": "The length of lane sections shall be greater than zero.",
-            "location": "Road: roadId=278",
-            "incidentSeverity": "FATAL_ERROR",
-            "wasHealed": false,
-            "messageSeverity": "FATAL_ERROR"
+            "info": "Junctions of type default should only be used when at least three roads are coming in (currently incoming road ids: [61, 60])",
+            "location": "Junction: junctionId=440",
+            "incidentSeverity": "WARNING",
+            "wasFixed": false,
+            "infoValues": {
+            },
+            "messageSeverity": "WARNING"
         },
         {
             "type": "",
-            "info": "The length of lane sections shall be greater than zero.",
-            "location": "Road: roadId=279",
-            "incidentSeverity": "FATAL_ERROR",
-            "wasHealed": false,
-            "messageSeverity": "FATAL_ERROR"
+            "info": "Junctions of type default should only be used when at least three roads are coming in (currently incoming road ids: [49, 40])",
+            "location": "Junction: junctionId=576",
+            "incidentSeverity": "WARNING",
+            "wasFixed": false,
+            "infoValues": {
+            },
+            "messageSeverity": "WARNING"
         },
         {
             "type": "",
-            "info": "The length of lane sections shall be greater than zero.",
-            "location": "Road: roadId=325",
-            "incidentSeverity": "FATAL_ERROR",
-            "wasHealed": false,
-            "messageSeverity": "FATAL_ERROR"
+            "info": "Junctions of type default should only be used when at least three roads are coming in (currently incoming road ids: [6, 5])",
+            "location": "Junction: junctionId=609",
+            "incidentSeverity": "WARNING",
+            "wasFixed": false,
+            "infoValues": {
+            },
+            "messageSeverity": "WARNING"
         },
         {
             "type": "",
-            "info": "The length of lane sections shall be greater than zero.",
-            "location": "Road: roadId=326",
-            "incidentSeverity": "FATAL_ERROR",
-            "wasHealed": false,
-            "messageSeverity": "FATAL_ERROR"
+            "info": "Junctions of type default should only be used when at least three roads are coming in (currently incoming road ids: [7, 6])",
+            "location": "Junction: junctionId=617",
+            "incidentSeverity": "WARNING",
+            "wasFixed": false,
+            "infoValues": {
+            },
+            "messageSeverity": "WARNING"
         },
         {
             "type": "",
-            "info": "The length of lane sections shall be greater than zero.",
-            "location": "Road: roadId=565",
-            "incidentSeverity": "FATAL_ERROR",
-            "wasHealed": false,
-            "messageSeverity": "FATAL_ERROR"
+            "info": "Junctions of type default should only be used when at least three roads are coming in (currently incoming road ids: [28, 27])",
+            "location": "Junction: junctionId=770",
+            "incidentSeverity": "WARNING",
+            "wasFixed": false,
+            "infoValues": {
+            },
+            "messageSeverity": "WARNING"
         },
         {
             "type": "",
-            "info": "The length of lane sections shall be greater than zero.",
-            "location": "Road: roadId=566",
-            "incidentSeverity": "FATAL_ERROR",
-            "wasHealed": false,
-            "messageSeverity": "FATAL_ERROR"
+            "info": "Junctions of type default should only be used when at least three roads are coming in (currently incoming road ids: [28, 29])",
+            "location": "Junction: junctionId=780",
+            "incidentSeverity": "WARNING",
+            "wasFixed": false,
+            "infoValues": {
+            },
+            "messageSeverity": "WARNING"
         },
         {
             "type": "",
-            "info": "The length of lane sections shall be greater than zero.",
-            "location": "Road: roadId=641",
-            "incidentSeverity": "FATAL_ERROR",
-            "wasHealed": false,
-            "messageSeverity": "FATAL_ERROR"
+            "info": "Junctions of type default should only be used when at least three roads are coming in (currently incoming road ids: [34, 33])",
+            "location": "Junction: junctionId=790",
+            "incidentSeverity": "WARNING",
+            "wasFixed": false,
+            "infoValues": {
+            },
+            "messageSeverity": "WARNING"
         },
         {
             "type": "",
-            "info": "The length of lane sections shall be greater than zero.",
-            "location": "Road: roadId=642",
-            "incidentSeverity": "FATAL_ERROR",
-            "wasHealed": false,
-            "messageSeverity": "FATAL_ERROR"
+            "info": "Junctions of type default should only be used when at least three roads are coming in (currently incoming road ids: [31, 36])",
+            "location": "Junction: junctionId=796",
+            "incidentSeverity": "WARNING",
+            "wasFixed": false,
+            "infoValues": {
+            },
+            "messageSeverity": "WARNING"
         },
         {
             "type": "",
-            "info": "The length of lane sections shall be greater than zero.",
-            "location": "Road: roadId=687",
-            "incidentSeverity": "FATAL_ERROR",
-            "wasHealed": false,
-            "messageSeverity": "FATAL_ERROR"
-        },
-        {
-            "type": "",
-            "info": "The length of lane sections shall be greater than zero.",
-            "location": "Road: roadId=688",
-            "incidentSeverity": "FATAL_ERROR",
-            "wasHealed": false,
-            "messageSeverity": "FATAL_ERROR"
-        },
-        {
-            "type": "",
-            "info": "The length of lane sections shall be greater than zero.",
-            "location": "Road: roadId=778",
-            "incidentSeverity": "FATAL_ERROR",
-            "wasHealed": false,
-            "messageSeverity": "FATAL_ERROR"
-        },
-        {
-            "type": "",
-            "info": "The length of lane sections shall be greater than zero.",
-            "location": "Road: roadId=779",
-            "incidentSeverity": "FATAL_ERROR",
-            "wasHealed": false,
-            "messageSeverity": "FATAL_ERROR"
-        },
-        {
-            "type": "",
-            "info": "The length of lane sections shall be greater than zero.",
-            "location": "Road: roadId=787",
-            "incidentSeverity": "FATAL_ERROR",
-            "wasHealed": false,
-            "messageSeverity": "FATAL_ERROR"
-        },
-        {
-            "type": "",
-            "info": "The length of lane sections shall be greater than zero.",
-            "location": "Road: roadId=788",
-            "incidentSeverity": "FATAL_ERROR",
-            "wasHealed": false,
-            "messageSeverity": "FATAL_ERROR"
+            "info": "Junctions of type default should only be used when at least three roads are coming in (currently incoming road ids: [53, 52])",
+            "location": "Junction: junctionId=803",
+            "incidentSeverity": "WARNING",
+            "wasFixed": false,
+            "infoValues": {
+            },
+            "messageSeverity": "WARNING"
         }
     ],
     "conversionRequirementsPlan": [

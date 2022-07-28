@@ -5,11 +5,14 @@
     },
     "modelingRulesEvaluation": [
         {
-            "type": "",
+            "type": "LeftLaneBoundaryTransitionGap",
             "info": "Left boundary of lane should be connected to its successive lane (euclidean distance: 0.002071246545304875, successor: true).",
             "location": "from LaneIdentifier(laneId=-1, laneSectionId=0, roadId=5490) to LaneIdentifier(laneId=-1, laneSectionId=0, roadId=5641)",
             "incidentSeverity": "WARNING",
-            "wasHealed": false,
+            "wasFixed": false,
+            "infoValues": {
+                "euclidean_distance": 0.002071246545304875
+            },
             "messageSeverity": "WARNING"
         }
     ]

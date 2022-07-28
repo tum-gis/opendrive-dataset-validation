@@ -5,755 +5,1037 @@
     },
     "modelingRulesEvaluation": [
         {
-            "type": "",
+            "type": "LeftLaneBoundaryTransitionGap",
             "info": "Left boundary of lane should be connected to its successive lane (euclidean distance: 8.239224036496092, successor: true).",
             "location": "from LaneIdentifier(laneId=-1, laneSectionId=0, roadId=7) to LaneIdentifier(laneId=1, laneSectionId=2, roadId=262)",
             "incidentSeverity": "WARNING",
-            "wasHealed": false,
+            "wasFixed": false,
+            "infoValues": {
+                "euclidean_distance": 8.239224036496092
+            },
             "messageSeverity": "WARNING"
         },
         {
-            "type": "",
+            "type": "RightLaneBoundaryTransitionGap",
             "info": "Right boundary of lane should be connected to its successive lane (euclidean distance: 8.239224036496093 successor: true).",
             "location": "from LaneIdentifier(laneId=-1, laneSectionId=0, roadId=7) to LaneIdentifier(laneId=1, laneSectionId=2, roadId=262)",
             "incidentSeverity": "WARNING",
-            "wasHealed": false,
+            "wasFixed": false,
+            "infoValues": {
+                "euclidean_distance": 8.239224036496093
+            },
             "messageSeverity": "WARNING"
         },
         {
-            "type": "",
+            "type": "LeftLaneBoundaryTransitionGap",
             "info": "Left boundary of lane should be connected to its successive lane (euclidean distance: 3.5046085147479062, successor: true).",
             "location": "from LaneIdentifier(laneId=-1, laneSectionId=0, roadId=20) to LaneIdentifier(laneId=1, laneSectionId=1, roadId=399)",
             "incidentSeverity": "WARNING",
-            "wasHealed": false,
+            "wasFixed": false,
+            "infoValues": {
+                "euclidean_distance": 3.5046085147479062
+            },
             "messageSeverity": "WARNING"
         },
         {
-            "type": "",
+            "type": "RightLaneBoundaryTransitionGap",
             "info": "Right boundary of lane should be connected to its successive lane (euclidean distance: 3.504608514747924 successor: true).",
             "location": "from LaneIdentifier(laneId=-1, laneSectionId=0, roadId=20) to LaneIdentifier(laneId=1, laneSectionId=1, roadId=399)",
             "incidentSeverity": "WARNING",
-            "wasHealed": false,
+            "wasFixed": false,
+            "infoValues": {
+                "euclidean_distance": 3.504608514747924
+            },
             "messageSeverity": "WARNING"
         },
         {
-            "type": "",
+            "type": "LeftLaneBoundaryTransitionGap",
             "info": "Left boundary of lane should be connected to its successive lane (euclidean distance: 3.5046085147479062, successor: true).",
             "location": "from LaneIdentifier(laneId=-1, laneSectionId=0, roadId=20) to LaneIdentifier(laneId=1, laneSectionId=3, roadId=408)",
             "incidentSeverity": "WARNING",
-            "wasHealed": false,
+            "wasFixed": false,
+            "infoValues": {
+                "euclidean_distance": 3.5046085147479062
+            },
             "messageSeverity": "WARNING"
         },
         {
-            "type": "",
+            "type": "RightLaneBoundaryTransitionGap",
             "info": "Right boundary of lane should be connected to its successive lane (euclidean distance: 3.504608514747924 successor: true).",
             "location": "from LaneIdentifier(laneId=-1, laneSectionId=0, roadId=20) to LaneIdentifier(laneId=1, laneSectionId=3, roadId=408)",
             "incidentSeverity": "WARNING",
-            "wasHealed": false,
+            "wasFixed": false,
+            "infoValues": {
+                "euclidean_distance": 3.504608514747924
+            },
             "messageSeverity": "WARNING"
         },
         {
-            "type": "",
+            "type": "LeftLaneBoundaryTransitionGap",
             "info": "Left boundary of lane should be connected to its successive lane (euclidean distance: 3.5046085147479062, successor: true).",
             "location": "from LaneIdentifier(laneId=-1, laneSectionId=0, roadId=20) to LaneIdentifier(laneId=1, laneSectionId=2, roadId=417)",
             "incidentSeverity": "WARNING",
-            "wasHealed": false,
+            "wasFixed": false,
+            "infoValues": {
+                "euclidean_distance": 3.5046085147479062
+            },
             "messageSeverity": "WARNING"
         },
         {
-            "type": "",
+            "type": "RightLaneBoundaryTransitionGap",
             "info": "Right boundary of lane should be connected to its successive lane (euclidean distance: 3.504608514747924 successor: true).",
             "location": "from LaneIdentifier(laneId=-1, laneSectionId=0, roadId=20) to LaneIdentifier(laneId=1, laneSectionId=2, roadId=417)",
             "incidentSeverity": "WARNING",
-            "wasHealed": false,
+            "wasFixed": false,
+            "infoValues": {
+                "euclidean_distance": 3.504608514747924
+            },
             "messageSeverity": "WARNING"
         },
         {
-            "type": "",
+            "type": "LeftLaneBoundaryTransitionGap",
             "info": "Left boundary of lane should be connected to its successive lane (euclidean distance: 22.21934183718817, successor: true).",
             "location": "from LaneIdentifier(laneId=-1, laneSectionId=0, roadId=24) to LaneIdentifier(laneId=1, laneSectionId=2, roadId=180)",
             "incidentSeverity": "WARNING",
-            "wasHealed": false,
+            "wasFixed": false,
+            "infoValues": {
+                "euclidean_distance": 22.21934183718817
+            },
             "messageSeverity": "WARNING"
         },
         {
-            "type": "",
+            "type": "RightLaneBoundaryTransitionGap",
             "info": "Right boundary of lane should be connected to its successive lane (euclidean distance: 21.239186683271985 successor: true).",
             "location": "from LaneIdentifier(laneId=-1, laneSectionId=0, roadId=24) to LaneIdentifier(laneId=1, laneSectionId=2, roadId=180)",
             "incidentSeverity": "WARNING",
-            "wasHealed": false,
+            "wasFixed": false,
+            "infoValues": {
+                "euclidean_distance": 21.239186683271985
+            },
             "messageSeverity": "WARNING"
         },
         {
-            "type": "",
+            "type": "LeftLaneBoundaryTransitionGap",
             "info": "Left boundary of lane should be connected to its successive lane (euclidean distance: 3.5151408128737596, successor: true).",
             "location": "from LaneIdentifier(laneId=-1, laneSectionId=0, roadId=24) to LaneIdentifier(laneId=1, laneSectionId=2, roadId=206)",
             "incidentSeverity": "WARNING",
-            "wasHealed": false,
+            "wasFixed": false,
+            "infoValues": {
+                "euclidean_distance": 3.5151408128737596
+            },
             "messageSeverity": "WARNING"
         },
         {
-            "type": "",
+            "type": "RightLaneBoundaryTransitionGap",
             "info": "Right boundary of lane should be connected to its successive lane (euclidean distance: 3.515140812873745 successor: true).",
             "location": "from LaneIdentifier(laneId=-1, laneSectionId=0, roadId=24) to LaneIdentifier(laneId=1, laneSectionId=2, roadId=206)",
             "incidentSeverity": "WARNING",
-            "wasHealed": false,
+            "wasFixed": false,
+            "infoValues": {
+                "euclidean_distance": 3.515140812873745
+            },
             "messageSeverity": "WARNING"
         },
         {
-            "type": "",
+            "type": "LeftLaneBoundaryTransitionGap",
             "info": "Left boundary of lane should be connected to its successive lane (euclidean distance: 3.6400549446402612, successor: true).",
             "location": "from LaneIdentifier(laneId=-2, laneSectionId=0, roadId=27) to LaneIdentifier(laneId=2, laneSectionId=1, roadId=700)",
             "incidentSeverity": "WARNING",
-            "wasHealed": false,
+            "wasFixed": false,
+            "infoValues": {
+                "euclidean_distance": 3.6400549446402612
+            },
             "messageSeverity": "WARNING"
         },
         {
-            "type": "",
+            "type": "RightLaneBoundaryTransitionGap",
             "info": "Right boundary of lane should be connected to its successive lane (euclidean distance: 3.6400549446402595 successor: true).",
             "location": "from LaneIdentifier(laneId=-2, laneSectionId=0, roadId=27) to LaneIdentifier(laneId=2, laneSectionId=1, roadId=700)",
             "incidentSeverity": "WARNING",
-            "wasHealed": false,
+            "wasFixed": false,
+            "infoValues": {
+                "euclidean_distance": 3.6400549446402595
+            },
             "messageSeverity": "WARNING"
         },
         {
-            "type": "",
+            "type": "LeftLaneBoundaryTransitionGap",
             "info": "Left boundary of lane should be connected to its successive lane (euclidean distance: 3.5000245298632167, successor: true).",
             "location": "from LaneIdentifier(laneId=-1, laneSectionId=0, roadId=31) to LaneIdentifier(laneId=1, laneSectionId=3, roadId=626)",
             "incidentSeverity": "WARNING",
-            "wasHealed": false,
+            "wasFixed": false,
+            "infoValues": {
+                "euclidean_distance": 3.5000245298632167
+            },
             "messageSeverity": "WARNING"
         },
         {
-            "type": "",
+            "type": "RightLaneBoundaryTransitionGap",
             "info": "Right boundary of lane should be connected to its successive lane (euclidean distance: 3.500024529863182 successor: true).",
             "location": "from LaneIdentifier(laneId=-1, laneSectionId=0, roadId=31) to LaneIdentifier(laneId=1, laneSectionId=3, roadId=626)",
             "incidentSeverity": "WARNING",
-            "wasHealed": false,
+            "wasFixed": false,
+            "infoValues": {
+                "euclidean_distance": 3.500024529863182
+            },
             "messageSeverity": "WARNING"
         },
         {
-            "type": "",
+            "type": "LeftLaneBoundaryTransitionGap",
             "info": "Left boundary of lane should be connected to its successive lane (euclidean distance: 3.5000245298632153, successor: true).",
             "location": "from LaneIdentifier(laneId=-2, laneSectionId=0, roadId=31) to LaneIdentifier(laneId=2, laneSectionId=4, roadId=614)",
             "incidentSeverity": "WARNING",
-            "wasHealed": false,
+            "wasFixed": false,
+            "infoValues": {
+                "euclidean_distance": 3.5000245298632153
+            },
             "messageSeverity": "WARNING"
         },
         {
-            "type": "",
+            "type": "RightLaneBoundaryTransitionGap",
             "info": "Right boundary of lane should be connected to its successive lane (euclidean distance: 3.500024529863182 successor: true).",
             "location": "from LaneIdentifier(laneId=-2, laneSectionId=0, roadId=31) to LaneIdentifier(laneId=2, laneSectionId=4, roadId=614)",
             "incidentSeverity": "WARNING",
-            "wasHealed": false,
+            "wasFixed": false,
+            "infoValues": {
+                "euclidean_distance": 3.500024529863182
+            },
             "messageSeverity": "WARNING"
         },
         {
-            "type": "",
+            "type": "LeftLaneBoundaryTransitionGap",
             "info": "Left boundary of lane should be connected to its successive lane (euclidean distance: 3.527667950674785, successor: true).",
             "location": "from LaneIdentifier(laneId=-1, laneSectionId=0, roadId=32) to LaneIdentifier(laneId=1, laneSectionId=3, roadId=357)",
             "incidentSeverity": "WARNING",
-            "wasHealed": false,
+            "wasFixed": false,
+            "infoValues": {
+                "euclidean_distance": 3.527667950674785
+            },
             "messageSeverity": "WARNING"
         },
         {
-            "type": "",
+            "type": "RightLaneBoundaryTransitionGap",
             "info": "Right boundary of lane should be connected to its successive lane (euclidean distance: 3.5276679506747715 successor: true).",
             "location": "from LaneIdentifier(laneId=-1, laneSectionId=0, roadId=32) to LaneIdentifier(laneId=1, laneSectionId=3, roadId=357)",
             "incidentSeverity": "WARNING",
-            "wasHealed": false,
+            "wasFixed": false,
+            "infoValues": {
+                "euclidean_distance": 3.5276679506747715
+            },
             "messageSeverity": "WARNING"
         },
         {
-            "type": "",
+            "type": "LeftLaneBoundaryTransitionGap",
             "info": "Left boundary of lane should be connected to its successive lane (euclidean distance: 3.500742268723748, successor: true).",
             "location": "from LaneIdentifier(laneId=-1, laneSectionId=0, roadId=33) to LaneIdentifier(laneId=1, laneSectionId=1, roadId=125)",
             "incidentSeverity": "WARNING",
-            "wasHealed": false,
+            "wasFixed": false,
+            "infoValues": {
+                "euclidean_distance": 3.500742268723748
+            },
             "messageSeverity": "WARNING"
         },
         {
-            "type": "",
+            "type": "RightLaneBoundaryTransitionGap",
             "info": "Right boundary of lane should be connected to its successive lane (euclidean distance: 3.5007422687234904 successor: true).",
             "location": "from LaneIdentifier(laneId=-1, laneSectionId=0, roadId=33) to LaneIdentifier(laneId=1, laneSectionId=1, roadId=125)",
             "incidentSeverity": "WARNING",
-            "wasHealed": false,
+            "wasFixed": false,
+            "infoValues": {
+                "euclidean_distance": 3.5007422687234904
+            },
             "messageSeverity": "WARNING"
         },
         {
-            "type": "",
+            "type": "LeftLaneBoundaryTransitionGap",
             "info": "Left boundary of lane should be connected to its successive lane (euclidean distance: 11.065441542252778, successor: true).",
             "location": "from LaneIdentifier(laneId=-2, laneSectionId=0, roadId=33) to LaneIdentifier(laneId=1, laneSectionId=1, roadId=111)",
             "incidentSeverity": "WARNING",
-            "wasHealed": false,
+            "wasFixed": false,
+            "infoValues": {
+                "euclidean_distance": 11.065441542252778
+            },
             "messageSeverity": "WARNING"
         },
         {
-            "type": "",
+            "type": "RightLaneBoundaryTransitionGap",
             "info": "Right boundary of lane should be connected to its successive lane (euclidean distance: 11.459110020966982 successor: true).",
             "location": "from LaneIdentifier(laneId=-2, laneSectionId=0, roadId=33) to LaneIdentifier(laneId=1, laneSectionId=1, roadId=111)",
             "incidentSeverity": "WARNING",
-            "wasHealed": false,
+            "wasFixed": false,
+            "infoValues": {
+                "euclidean_distance": 11.459110020966982
+            },
             "messageSeverity": "WARNING"
         },
         {
-            "type": "",
+            "type": "LeftLaneBoundaryTransitionGap",
             "info": "Left boundary of lane should be connected to its successive lane (euclidean distance: 10.876618269142694, successor: true).",
             "location": "from LaneIdentifier(laneId=-4, laneSectionId=0, roadId=38) to LaneIdentifier(laneId=4, laneSectionId=2, roadId=537)",
             "incidentSeverity": "WARNING",
-            "wasHealed": false,
+            "wasFixed": false,
+            "infoValues": {
+                "euclidean_distance": 10.876618269142694
+            },
             "messageSeverity": "WARNING"
         },
         {
-            "type": "",
+            "type": "RightLaneBoundaryTransitionGap",
             "info": "Right boundary of lane should be connected to its successive lane (euclidean distance: 10.876618269142696 successor: true).",
             "location": "from LaneIdentifier(laneId=-4, laneSectionId=0, roadId=38) to LaneIdentifier(laneId=4, laneSectionId=2, roadId=537)",
             "incidentSeverity": "WARNING",
-            "wasHealed": false,
+            "wasFixed": false,
+            "infoValues": {
+                "euclidean_distance": 10.876618269142696
+            },
             "messageSeverity": "WARNING"
         },
         {
-            "type": "",
+            "type": "LeftLaneBoundaryTransitionGap",
             "info": "Left boundary of lane should be connected to its successive lane (euclidean distance: 10.876618269142694, successor: true).",
             "location": "from LaneIdentifier(laneId=-4, laneSectionId=0, roadId=38) to LaneIdentifier(laneId=4, laneSectionId=2, roadId=540)",
             "incidentSeverity": "WARNING",
-            "wasHealed": false,
+            "wasFixed": false,
+            "infoValues": {
+                "euclidean_distance": 10.876618269142694
+            },
             "messageSeverity": "WARNING"
         },
         {
-            "type": "",
+            "type": "RightLaneBoundaryTransitionGap",
             "info": "Right boundary of lane should be connected to its successive lane (euclidean distance: 10.876618269142696 successor: true).",
             "location": "from LaneIdentifier(laneId=-4, laneSectionId=0, roadId=38) to LaneIdentifier(laneId=4, laneSectionId=2, roadId=540)",
             "incidentSeverity": "WARNING",
-            "wasHealed": false,
+            "wasFixed": false,
+            "infoValues": {
+                "euclidean_distance": 10.876618269142696
+            },
             "messageSeverity": "WARNING"
         },
         {
-            "type": "",
+            "type": "LeftLaneBoundaryTransitionGap",
             "info": "Left boundary of lane should be connected to its successive lane (euclidean distance: 12.68225630451962, successor: true).",
             "location": "from LaneIdentifier(laneId=-5, laneSectionId=0, roadId=38) to LaneIdentifier(laneId=5, laneSectionId=2, roadId=537)",
             "incidentSeverity": "WARNING",
-            "wasHealed": false,
+            "wasFixed": false,
+            "infoValues": {
+                "euclidean_distance": 12.68225630451962
+            },
             "messageSeverity": "WARNING"
         },
         {
-            "type": "",
+            "type": "RightLaneBoundaryTransitionGap",
             "info": "Right boundary of lane should be connected to its successive lane (euclidean distance: 12.68225630451962 successor: true).",
             "location": "from LaneIdentifier(laneId=-5, laneSectionId=0, roadId=38) to LaneIdentifier(laneId=5, laneSectionId=2, roadId=537)",
             "incidentSeverity": "WARNING",
-            "wasHealed": false,
+            "wasFixed": false,
+            "infoValues": {
+                "euclidean_distance": 12.68225630451962
+            },
             "messageSeverity": "WARNING"
         },
         {
-            "type": "",
+            "type": "LeftLaneBoundaryTransitionGap",
             "info": "Left boundary of lane should be connected to its successive lane (euclidean distance: 12.68225630451962, successor: true).",
             "location": "from LaneIdentifier(laneId=-5, laneSectionId=0, roadId=38) to LaneIdentifier(laneId=5, laneSectionId=2, roadId=540)",
             "incidentSeverity": "WARNING",
-            "wasHealed": false,
+            "wasFixed": false,
+            "infoValues": {
+                "euclidean_distance": 12.68225630451962
+            },
             "messageSeverity": "WARNING"
         },
         {
-            "type": "",
+            "type": "RightLaneBoundaryTransitionGap",
             "info": "Right boundary of lane should be connected to its successive lane (euclidean distance: 12.68225630451962 successor: true).",
             "location": "from LaneIdentifier(laneId=-5, laneSectionId=0, roadId=38) to LaneIdentifier(laneId=5, laneSectionId=2, roadId=540)",
             "incidentSeverity": "WARNING",
-            "wasHealed": false,
+            "wasFixed": false,
+            "infoValues": {
+                "euclidean_distance": 12.68225630451962
+            },
             "messageSeverity": "WARNING"
         },
         {
-            "type": "",
+            "type": "LeftLaneBoundaryTransitionGap",
             "info": "Left boundary of lane should be connected to its successive lane (euclidean distance: 11.22029312682902, successor: true).",
             "location": "from LaneIdentifier(laneId=-4, laneSectionId=0, roadId=40) to LaneIdentifier(laneId=4, laneSectionId=2, roadId=843)",
             "incidentSeverity": "WARNING",
-            "wasHealed": false,
+            "wasFixed": false,
+            "infoValues": {
+                "euclidean_distance": 11.22029312682902
+            },
             "messageSeverity": "WARNING"
         },
         {
-            "type": "",
+            "type": "RightLaneBoundaryTransitionGap",
             "info": "Right boundary of lane should be connected to its successive lane (euclidean distance: 11.22029312682902 successor: true).",
             "location": "from LaneIdentifier(laneId=-4, laneSectionId=0, roadId=40) to LaneIdentifier(laneId=4, laneSectionId=2, roadId=843)",
             "incidentSeverity": "WARNING",
-            "wasHealed": false,
+            "wasFixed": false,
+            "infoValues": {
+                "euclidean_distance": 11.22029312682902
+            },
             "messageSeverity": "WARNING"
         },
         {
-            "type": "",
+            "type": "LeftLaneBoundaryTransitionGap",
             "info": "Left boundary of lane should be connected to its successive lane (euclidean distance: 13.09503426792932, successor: true).",
             "location": "from LaneIdentifier(laneId=-5, laneSectionId=0, roadId=40) to LaneIdentifier(laneId=5, laneSectionId=2, roadId=843)",
             "incidentSeverity": "WARNING",
-            "wasHealed": false,
+            "wasFixed": false,
+            "infoValues": {
+                "euclidean_distance": 13.09503426792932
+            },
             "messageSeverity": "WARNING"
         },
         {
-            "type": "",
+            "type": "RightLaneBoundaryTransitionGap",
             "info": "Right boundary of lane should be connected to its successive lane (euclidean distance: 13.095034267929318 successor: true).",
             "location": "from LaneIdentifier(laneId=-5, laneSectionId=0, roadId=40) to LaneIdentifier(laneId=5, laneSectionId=2, roadId=843)",
             "incidentSeverity": "WARNING",
-            "wasHealed": false,
+            "wasFixed": false,
+            "infoValues": {
+                "euclidean_distance": 13.095034267929318
+            },
             "messageSeverity": "WARNING"
         },
         {
-            "type": "",
+            "type": "LeftLaneBoundaryTransitionGap",
             "info": "Left boundary of lane should be connected to its successive lane (euclidean distance: 3.500485833302064, successor: true).",
             "location": "from LaneIdentifier(laneId=-1, laneSectionId=0, roadId=49) to LaneIdentifier(laneId=1, laneSectionId=2, roadId=223)",
             "incidentSeverity": "WARNING",
-            "wasHealed": false,
+            "wasFixed": false,
+            "infoValues": {
+                "euclidean_distance": 3.500485833302064
+            },
             "messageSeverity": "WARNING"
         },
         {
-            "type": "",
+            "type": "RightLaneBoundaryTransitionGap",
             "info": "Right boundary of lane should be connected to its successive lane (euclidean distance: 3.5004858333020277 successor: true).",
             "location": "from LaneIdentifier(laneId=-1, laneSectionId=0, roadId=49) to LaneIdentifier(laneId=1, laneSectionId=2, roadId=223)",
             "incidentSeverity": "WARNING",
-            "wasHealed": false,
+            "wasFixed": false,
+            "infoValues": {
+                "euclidean_distance": 3.5004858333020277
+            },
             "messageSeverity": "WARNING"
         },
         {
-            "type": "",
+            "type": "LeftLaneBoundaryTransitionGap",
             "info": "Left boundary of lane should be connected to its successive lane (euclidean distance: 6.137269477527329, successor: true).",
             "location": "from LaneIdentifier(laneId=-1, laneSectionId=0, roadId=50) to LaneIdentifier(laneId=1, laneSectionId=2, roadId=772)",
             "incidentSeverity": "WARNING",
-            "wasHealed": false,
+            "wasFixed": false,
+            "infoValues": {
+                "euclidean_distance": 6.137269477527329
+            },
             "messageSeverity": "WARNING"
         },
         {
-            "type": "",
+            "type": "RightLaneBoundaryTransitionGap",
             "info": "Right boundary of lane should be connected to its successive lane (euclidean distance: 6.1372694775272425 successor: true).",
             "location": "from LaneIdentifier(laneId=-1, laneSectionId=0, roadId=50) to LaneIdentifier(laneId=1, laneSectionId=2, roadId=772)",
             "incidentSeverity": "WARNING",
-            "wasHealed": false,
+            "wasFixed": false,
+            "infoValues": {
+                "euclidean_distance": 6.1372694775272425
+            },
             "messageSeverity": "WARNING"
         },
         {
-            "type": "",
+            "type": "LeftLaneBoundaryTransitionGap",
             "info": "Left boundary of lane should be connected to its successive lane (euclidean distance: 8.194198643179627, successor: true).",
             "location": "from LaneIdentifier(laneId=-4, laneSectionId=0, roadId=52) to LaneIdentifier(laneId=4, laneSectionId=1, roadId=823)",
             "incidentSeverity": "WARNING",
-            "wasHealed": false,
+            "wasFixed": false,
+            "infoValues": {
+                "euclidean_distance": 8.194198643179627
+            },
             "messageSeverity": "WARNING"
         },
         {
-            "type": "",
+            "type": "RightLaneBoundaryTransitionGap",
             "info": "Right boundary of lane should be connected to its successive lane (euclidean distance: 8.19419864317963 successor: true).",
             "location": "from LaneIdentifier(laneId=-4, laneSectionId=0, roadId=52) to LaneIdentifier(laneId=4, laneSectionId=1, roadId=823)",
             "incidentSeverity": "WARNING",
-            "wasHealed": false,
+            "wasFixed": false,
+            "infoValues": {
+                "euclidean_distance": 8.19419864317963
+            },
             "messageSeverity": "WARNING"
         },
         {
-            "type": "",
+            "type": "LeftLaneBoundaryTransitionGap",
             "info": "Left boundary of lane should be connected to its successive lane (euclidean distance: 3.652739724482311, successor: true).",
             "location": "from LaneIdentifier(laneId=-1, laneSectionId=0, roadId=54) to LaneIdentifier(laneId=1, laneSectionId=1, roadId=790)",
             "incidentSeverity": "WARNING",
-            "wasHealed": false,
+            "wasFixed": false,
+            "infoValues": {
+                "euclidean_distance": 3.652739724482311
+            },
             "messageSeverity": "WARNING"
         },
         {
-            "type": "",
+            "type": "RightLaneBoundaryTransitionGap",
             "info": "Right boundary of lane should be connected to its successive lane (euclidean distance: 3.6467229382303694 successor: true).",
             "location": "from LaneIdentifier(laneId=-1, laneSectionId=0, roadId=54) to LaneIdentifier(laneId=1, laneSectionId=1, roadId=790)",
             "incidentSeverity": "WARNING",
-            "wasHealed": false,
+            "wasFixed": false,
+            "infoValues": {
+                "euclidean_distance": 3.6467229382303694
+            },
             "messageSeverity": "WARNING"
         },
         {
-            "type": "",
+            "type": "LeftLaneBoundaryTransitionGap",
             "info": "Left boundary of lane should be connected to its successive lane (euclidean distance: 5.359952069048347, successor: true).",
             "location": "from LaneIdentifier(laneId=-1, laneSectionId=0, roadId=56) to LaneIdentifier(laneId=1, laneSectionId=3, roadId=492)",
             "incidentSeverity": "WARNING",
-            "wasHealed": false,
+            "wasFixed": false,
+            "infoValues": {
+                "euclidean_distance": 5.359952069048347
+            },
             "messageSeverity": "WARNING"
         },
         {
-            "type": "",
+            "type": "RightLaneBoundaryTransitionGap",
             "info": "Right boundary of lane should be connected to its successive lane (euclidean distance: 5.359952069048341 successor: true).",
             "location": "from LaneIdentifier(laneId=-1, laneSectionId=0, roadId=56) to LaneIdentifier(laneId=1, laneSectionId=3, roadId=492)",
             "incidentSeverity": "WARNING",
-            "wasHealed": false,
+            "wasFixed": false,
+            "infoValues": {
+                "euclidean_distance": 5.359952069048341
+            },
             "messageSeverity": "WARNING"
         },
         {
-            "type": "",
+            "type": "LeftLaneBoundaryTransitionGap",
             "info": "Left boundary of lane should be connected to its successive lane (euclidean distance: 0.0011021871083137802, successor: true).",
             "location": "from LaneIdentifier(laneId=6, laneSectionId=0, roadId=63) to LaneIdentifier(laneId=6, laneSectionId=0, roadId=80)",
             "incidentSeverity": "WARNING",
-            "wasHealed": false,
+            "wasFixed": false,
+            "infoValues": {
+                "euclidean_distance": 0.0011021871083137802
+            },
             "messageSeverity": "WARNING"
         },
         {
-            "type": "",
+            "type": "RightLaneBoundaryTransitionGap",
             "info": "Right boundary of lane should be connected to its successive lane (euclidean distance: 0.0011063321931992374 successor: true).",
             "location": "from LaneIdentifier(laneId=6, laneSectionId=0, roadId=63) to LaneIdentifier(laneId=6, laneSectionId=0, roadId=80)",
             "incidentSeverity": "WARNING",
-            "wasHealed": false,
+            "wasFixed": false,
+            "infoValues": {
+                "euclidean_distance": 0.0011063321931992374
+            },
             "messageSeverity": "WARNING"
         },
         {
-            "type": "",
+            "type": "LeftLaneBoundaryTransitionGap",
             "info": "Left boundary of lane should be connected to its successive lane (euclidean distance: 0.0011063321931992374, successor: true).",
             "location": "from LaneIdentifier(laneId=5, laneSectionId=0, roadId=63) to LaneIdentifier(laneId=5, laneSectionId=0, roadId=80)",
             "incidentSeverity": "WARNING",
-            "wasHealed": false,
+            "wasFixed": false,
+            "infoValues": {
+                "euclidean_distance": 0.0011063321931992374
+            },
             "messageSeverity": "WARNING"
         },
         {
-            "type": "",
+            "type": "RightLaneBoundaryTransitionGap",
             "info": "Right boundary of lane should be connected to its successive lane (euclidean distance: 0.0011095960395566629 successor: true).",
             "location": "from LaneIdentifier(laneId=5, laneSectionId=0, roadId=63) to LaneIdentifier(laneId=5, laneSectionId=0, roadId=80)",
             "incidentSeverity": "WARNING",
-            "wasHealed": false,
+            "wasFixed": false,
+            "infoValues": {
+                "euclidean_distance": 0.0011095960395566629
+            },
             "messageSeverity": "WARNING"
         },
         {
-            "type": "",
+            "type": "LeftLaneBoundaryTransitionGap",
             "info": "Left boundary of lane should be connected to its successive lane (euclidean distance: 0.0011552898887180708, successor: true).",
             "location": "from LaneIdentifier(laneId=2, laneSectionId=0, roadId=63) to LaneIdentifier(laneId=2, laneSectionId=0, roadId=80)",
             "incidentSeverity": "WARNING",
-            "wasHealed": false,
+            "wasFixed": false,
+            "infoValues": {
+                "euclidean_distance": 0.0011552898887180708
+            },
             "messageSeverity": "WARNING"
         },
         {
-            "type": "",
+            "type": "RightLaneBoundaryTransitionGap",
             "info": "Right boundary of lane should be connected to its successive lane (euclidean distance: 0.0011585537350754962 successor: true).",
             "location": "from LaneIdentifier(laneId=2, laneSectionId=0, roadId=63) to LaneIdentifier(laneId=2, laneSectionId=0, roadId=80)",
             "incidentSeverity": "WARNING",
-            "wasHealed": false,
+            "wasFixed": false,
+            "infoValues": {
+                "euclidean_distance": 0.0011585537350754962
+            },
             "messageSeverity": "WARNING"
         },
         {
-            "type": "",
+            "type": "LeftLaneBoundaryTransitionGap",
             "info": "Left boundary of lane should be connected to its successive lane (euclidean distance: 0.0011585537350754962, successor: true).",
             "location": "from LaneIdentifier(laneId=1, laneSectionId=0, roadId=63) to LaneIdentifier(laneId=1, laneSectionId=0, roadId=80)",
             "incidentSeverity": "WARNING",
-            "wasHealed": false,
+            "wasFixed": false,
+            "infoValues": {
+                "euclidean_distance": 0.0011585537350754962
+            },
             "messageSeverity": "WARNING"
         },
         {
-            "type": "",
+            "type": "RightLaneBoundaryTransitionGap",
             "info": "Right boundary of lane should be connected to its successive lane (euclidean distance: 0.0011626988199609537 successor: true).",
             "location": "from LaneIdentifier(laneId=1, laneSectionId=0, roadId=63) to LaneIdentifier(laneId=1, laneSectionId=0, roadId=80)",
             "incidentSeverity": "WARNING",
-            "wasHealed": false,
+            "wasFixed": false,
+            "infoValues": {
+                "euclidean_distance": 0.0011626988199609537
+            },
             "messageSeverity": "WARNING"
         },
         {
-            "type": "",
+            "type": "LeftLaneBoundaryTransitionGap",
             "info": "Left boundary of lane should be connected to its successive lane (euclidean distance: 6.276331262818479, successor: true).",
             "location": "from LaneIdentifier(laneId=-4, laneSectionId=0, roadId=65) to LaneIdentifier(laneId=4, laneSectionId=1, roadId=761)",
             "incidentSeverity": "WARNING",
-            "wasHealed": false,
+            "wasFixed": false,
+            "infoValues": {
+                "euclidean_distance": 6.276331262818479
+            },
             "messageSeverity": "WARNING"
         },
         {
-            "type": "",
+            "type": "RightLaneBoundaryTransitionGap",
             "info": "Right boundary of lane should be connected to its successive lane (euclidean distance: 6.276331262818477 successor: true).",
             "location": "from LaneIdentifier(laneId=-4, laneSectionId=0, roadId=65) to LaneIdentifier(laneId=4, laneSectionId=1, roadId=761)",
             "incidentSeverity": "WARNING",
-            "wasHealed": false,
+            "wasFixed": false,
+            "infoValues": {
+                "euclidean_distance": 6.276331262818477
+            },
             "messageSeverity": "WARNING"
         },
         {
-            "type": "",
+            "type": "LeftLaneBoundaryTransitionGap",
             "info": "Left boundary of lane should be connected to its successive lane (euclidean distance: 3.5001912558408654, successor: true).",
             "location": "from LaneIdentifier(laneId=-1, laneSectionId=0, roadId=67) to LaneIdentifier(laneId=1, laneSectionId=4, roadId=453)",
             "incidentSeverity": "WARNING",
-            "wasHealed": false,
+            "wasFixed": false,
+            "infoValues": {
+                "euclidean_distance": 3.5001912558408654
+            },
             "messageSeverity": "WARNING"
         },
         {
-            "type": "",
+            "type": "RightLaneBoundaryTransitionGap",
             "info": "Right boundary of lane should be connected to its successive lane (euclidean distance: 3.5001912558408668 successor: true).",
             "location": "from LaneIdentifier(laneId=-1, laneSectionId=0, roadId=67) to LaneIdentifier(laneId=1, laneSectionId=4, roadId=453)",
             "incidentSeverity": "WARNING",
-            "wasHealed": false,
+            "wasFixed": false,
+            "infoValues": {
+                "euclidean_distance": 3.5001912558408668
+            },
             "messageSeverity": "WARNING"
         },
         {
-            "type": "",
+            "type": "LeftLaneBoundaryTransitionGap",
             "info": "Left boundary of lane should be connected to its successive lane (euclidean distance: 3.5001912558408654, successor: true).",
             "location": "from LaneIdentifier(laneId=-1, laneSectionId=0, roadId=67) to LaneIdentifier(laneId=1, laneSectionId=2, roadId=471)",
             "incidentSeverity": "WARNING",
-            "wasHealed": false,
+            "wasFixed": false,
+            "infoValues": {
+                "euclidean_distance": 3.5001912558408654
+            },
             "messageSeverity": "WARNING"
         },
         {
-            "type": "",
+            "type": "RightLaneBoundaryTransitionGap",
             "info": "Right boundary of lane should be connected to its successive lane (euclidean distance: 3.5001912558408668 successor: true).",
             "location": "from LaneIdentifier(laneId=-1, laneSectionId=0, roadId=67) to LaneIdentifier(laneId=1, laneSectionId=2, roadId=471)",
             "incidentSeverity": "WARNING",
-            "wasHealed": false,
+            "wasFixed": false,
+            "infoValues": {
+                "euclidean_distance": 3.5001912558408668
+            },
             "messageSeverity": "WARNING"
         },
         {
-            "type": "",
+            "type": "LeftLaneBoundaryTransitionGap",
             "info": "Left boundary of lane should be connected to its successive lane (euclidean distance: 3.5001912558408654, successor: true).",
             "location": "from LaneIdentifier(laneId=-1, laneSectionId=0, roadId=67) to LaneIdentifier(laneId=1, laneSectionId=2, roadId=484)",
             "incidentSeverity": "WARNING",
-            "wasHealed": false,
+            "wasFixed": false,
+            "infoValues": {
+                "euclidean_distance": 3.5001912558408654
+            },
             "messageSeverity": "WARNING"
         },
         {
-            "type": "",
+            "type": "RightLaneBoundaryTransitionGap",
             "info": "Right boundary of lane should be connected to its successive lane (euclidean distance: 3.5001912558408668 successor: true).",
             "location": "from LaneIdentifier(laneId=-1, laneSectionId=0, roadId=67) to LaneIdentifier(laneId=1, laneSectionId=2, roadId=484)",
             "incidentSeverity": "WARNING",
-            "wasHealed": false,
+            "wasFixed": false,
+            "infoValues": {
+                "euclidean_distance": 3.5001912558408668
+            },
             "messageSeverity": "WARNING"
         },
         {
-            "type": "",
+            "type": "LeftLaneBoundaryTransitionGap",
             "info": "Left boundary of lane should be connected to its successive lane (euclidean distance: 3.5000662908104836, successor: true).",
             "location": "from LaneIdentifier(laneId=-1, laneSectionId=0, roadId=68) to LaneIdentifier(laneId=1, laneSectionId=2, roadId=803)",
             "incidentSeverity": "WARNING",
-            "wasHealed": false,
+            "wasFixed": false,
+            "infoValues": {
+                "euclidean_distance": 3.5000662908104836
+            },
             "messageSeverity": "WARNING"
         },
         {
-            "type": "",
+            "type": "RightLaneBoundaryTransitionGap",
             "info": "Right boundary of lane should be connected to its successive lane (euclidean distance: 3.5000662908104827 successor: true).",
             "location": "from LaneIdentifier(laneId=-1, laneSectionId=0, roadId=68) to LaneIdentifier(laneId=1, laneSectionId=2, roadId=803)",
             "incidentSeverity": "WARNING",
-            "wasHealed": false,
+            "wasFixed": false,
+            "infoValues": {
+                "euclidean_distance": 3.5000662908104827
+            },
             "messageSeverity": "WARNING"
         },
         {
-            "type": "",
+            "type": "LeftLaneBoundaryTransitionGap",
             "info": "Left boundary of lane should be connected to its successive lane (euclidean distance: 3.5000662908104836, successor: true).",
             "location": "from LaneIdentifier(laneId=-1, laneSectionId=0, roadId=68) to LaneIdentifier(laneId=1, laneSectionId=2, roadId=807)",
             "incidentSeverity": "WARNING",
-            "wasHealed": false,
+            "wasFixed": false,
+            "infoValues": {
+                "euclidean_distance": 3.5000662908104836
+            },
             "messageSeverity": "WARNING"
         },
         {
-            "type": "",
+            "type": "RightLaneBoundaryTransitionGap",
             "info": "Right boundary of lane should be connected to its successive lane (euclidean distance: 3.5000662908104827 successor: true).",
             "location": "from LaneIdentifier(laneId=-1, laneSectionId=0, roadId=68) to LaneIdentifier(laneId=1, laneSectionId=2, roadId=807)",
             "incidentSeverity": "WARNING",
-            "wasHealed": false,
+            "wasFixed": false,
+            "infoValues": {
+                "euclidean_distance": 3.5000662908104827
+            },
             "messageSeverity": "WARNING"
         },
         {
-            "type": "",
+            "type": "LeftLaneBoundaryTransitionGap",
             "info": "Left boundary of lane should be connected to its successive lane (euclidean distance: 3.640039680959203, successor: true).",
             "location": "from LaneIdentifier(laneId=-1, laneSectionId=0, roadId=74) to LaneIdentifier(laneId=1, laneSectionId=1, roadId=556)",
             "incidentSeverity": "WARNING",
-            "wasHealed": false,
+            "wasFixed": false,
+            "infoValues": {
+                "euclidean_distance": 3.640039680959203
+            },
             "messageSeverity": "WARNING"
         },
         {
-            "type": "",
+            "type": "RightLaneBoundaryTransitionGap",
             "info": "Right boundary of lane should be connected to its successive lane (euclidean distance: 3.640039680959775 successor: true).",
             "location": "from LaneIdentifier(laneId=-1, laneSectionId=0, roadId=74) to LaneIdentifier(laneId=1, laneSectionId=1, roadId=556)",
             "incidentSeverity": "WARNING",
-            "wasHealed": false,
+            "wasFixed": false,
+            "infoValues": {
+                "euclidean_distance": 3.640039680959775
+            },
             "messageSeverity": "WARNING"
         },
         {
-            "type": "",
+            "type": "LeftLaneBoundaryTransitionGap",
             "info": "Left boundary of lane should be connected to its successive lane (euclidean distance: 3.6400396809592044, successor: true).",
             "location": "from LaneIdentifier(laneId=-1, laneSectionId=0, roadId=74) to LaneIdentifier(laneId=1, laneSectionId=1, roadId=559)",
             "incidentSeverity": "WARNING",
-            "wasHealed": false,
+            "wasFixed": false,
+            "infoValues": {
+                "euclidean_distance": 3.6400396809592044
+            },
             "messageSeverity": "WARNING"
         },
         {
-            "type": "",
+            "type": "RightLaneBoundaryTransitionGap",
             "info": "Right boundary of lane should be connected to its successive lane (euclidean distance: 3.6400396809597777 successor: true).",
             "location": "from LaneIdentifier(laneId=-1, laneSectionId=0, roadId=74) to LaneIdentifier(laneId=1, laneSectionId=1, roadId=559)",
             "incidentSeverity": "WARNING",
-            "wasHealed": false,
+            "wasFixed": false,
+            "infoValues": {
+                "euclidean_distance": 3.6400396809597777
+            },
             "messageSeverity": "WARNING"
         },
         {
-            "type": "",
+            "type": "LeftLaneBoundaryTransitionGap",
             "info": "Left boundary of lane should be connected to its successive lane (euclidean distance: 3.6400396809591746, successor: true).",
             "location": "from LaneIdentifier(laneId=-2, laneSectionId=0, roadId=74) to LaneIdentifier(laneId=2, laneSectionId=1, roadId=556)",
             "incidentSeverity": "WARNING",
-            "wasHealed": false,
+            "wasFixed": false,
+            "infoValues": {
+                "euclidean_distance": 3.6400396809591746
+            },
             "messageSeverity": "WARNING"
         },
         {
-            "type": "",
+            "type": "RightLaneBoundaryTransitionGap",
             "info": "Right boundary of lane should be connected to its successive lane (euclidean distance: 3.6400396809597484 successor: true).",
             "location": "from LaneIdentifier(laneId=-2, laneSectionId=0, roadId=74) to LaneIdentifier(laneId=2, laneSectionId=1, roadId=556)",
             "incidentSeverity": "WARNING",
-            "wasHealed": false,
+            "wasFixed": false,
+            "infoValues": {
+                "euclidean_distance": 3.6400396809597484
+            },
             "messageSeverity": "WARNING"
         },
         {
-            "type": "",
+            "type": "LeftLaneBoundaryTransitionGap",
             "info": "Left boundary of lane should be connected to its successive lane (euclidean distance: 3.6400396809591786, successor: true).",
             "location": "from LaneIdentifier(laneId=-2, laneSectionId=0, roadId=74) to LaneIdentifier(laneId=2, laneSectionId=1, roadId=561)",
             "incidentSeverity": "WARNING",
-            "wasHealed": false,
+            "wasFixed": false,
+            "infoValues": {
+                "euclidean_distance": 3.6400396809591786
+            },
             "messageSeverity": "WARNING"
         },
         {
-            "type": "",
+            "type": "RightLaneBoundaryTransitionGap",
             "info": "Right boundary of lane should be connected to its successive lane (euclidean distance: 3.640039680959753 successor: true).",
             "location": "from LaneIdentifier(laneId=-2, laneSectionId=0, roadId=74) to LaneIdentifier(laneId=2, laneSectionId=1, roadId=561)",
             "incidentSeverity": "WARNING",
-            "wasHealed": false,
+            "wasFixed": false,
+            "infoValues": {
+                "euclidean_distance": 3.640039680959753
+            },
             "messageSeverity": "WARNING"
         },
         {
-            "type": "",
+            "type": "LeftLaneBoundaryTransitionGap",
             "info": "Left boundary of lane should be connected to its successive lane (euclidean distance: 11.314264257578072, successor: true).",
             "location": "from LaneIdentifier(laneId=-1, laneSectionId=0, roadId=76) to LaneIdentifier(laneId=1, laneSectionId=0, roadId=97)",
             "incidentSeverity": "WARNING",
-            "wasHealed": false,
+            "wasFixed": false,
+            "infoValues": {
+                "euclidean_distance": 11.314264257578072
+            },
             "messageSeverity": "WARNING"
         },
         {
-            "type": "",
+            "type": "RightLaneBoundaryTransitionGap",
             "info": "Right boundary of lane should be connected to its successive lane (euclidean distance: 11.29872554565057 successor: true).",
             "location": "from LaneIdentifier(laneId=-1, laneSectionId=0, roadId=76) to LaneIdentifier(laneId=1, laneSectionId=0, roadId=97)",
             "incidentSeverity": "WARNING",
-            "wasHealed": false,
+            "wasFixed": false,
+            "infoValues": {
+                "euclidean_distance": 11.29872554565057
+            },
             "messageSeverity": "WARNING"
         },
         {
-            "type": "",
+            "type": "LeftLaneBoundaryTransitionGap",
             "info": "Left boundary of lane should be connected to its successive lane (euclidean distance: 3.5008173584935602, successor: true).",
             "location": "from LaneIdentifier(laneId=-1, laneSectionId=0, roadId=78) to LaneIdentifier(laneId=1, laneSectionId=4, roadId=192)",
             "incidentSeverity": "WARNING",
-            "wasHealed": false,
+            "wasFixed": false,
+            "infoValues": {
+                "euclidean_distance": 3.5008173584935602
+            },
             "messageSeverity": "WARNING"
         },
         {
-            "type": "",
+            "type": "RightLaneBoundaryTransitionGap",
             "info": "Right boundary of lane should be connected to its successive lane (euclidean distance: 3.500817358493332 successor: true).",
             "location": "from LaneIdentifier(laneId=-1, laneSectionId=0, roadId=78) to LaneIdentifier(laneId=1, laneSectionId=4, roadId=192)",
             "incidentSeverity": "WARNING",
-            "wasHealed": false,
+            "wasFixed": false,
+            "infoValues": {
+                "euclidean_distance": 3.500817358493332
+            },
             "messageSeverity": "WARNING"
         },
         {
-            "type": "",
+            "type": "LeftLaneBoundaryTransitionGap",
             "info": "Left boundary of lane should be connected to its successive lane (euclidean distance: 3.5008173584935602, successor: true).",
             "location": "from LaneIdentifier(laneId=-1, laneSectionId=0, roadId=78) to LaneIdentifier(laneId=1, laneSectionId=3, roadId=217)",
             "incidentSeverity": "WARNING",
-            "wasHealed": false,
+            "wasFixed": false,
+            "infoValues": {
+                "euclidean_distance": 3.5008173584935602
+            },
             "messageSeverity": "WARNING"
         },
         {
-            "type": "",
+            "type": "RightLaneBoundaryTransitionGap",
             "info": "Right boundary of lane should be connected to its successive lane (euclidean distance: 3.500817358493332 successor: true).",
             "location": "from LaneIdentifier(laneId=-1, laneSectionId=0, roadId=78) to LaneIdentifier(laneId=1, laneSectionId=3, roadId=217)",
             "incidentSeverity": "WARNING",
-            "wasHealed": false,
+            "wasFixed": false,
+            "infoValues": {
+                "euclidean_distance": 3.500817358493332
+            },
             "messageSeverity": "WARNING"
         },
         {
-            "type": "",
+            "type": "LeftLaneBoundaryTransitionGap",
             "info": "Left boundary of lane should be connected to its successive lane (euclidean distance: 3.5008173584935443, successor: true).",
             "location": "from LaneIdentifier(laneId=-2, laneSectionId=0, roadId=78) to LaneIdentifier(laneId=2, laneSectionId=6, roadId=185)",
             "incidentSeverity": "WARNING",
-            "wasHealed": false,
+            "wasFixed": false,
+            "infoValues": {
+                "euclidean_distance": 3.5008173584935443
+            },
             "messageSeverity": "WARNING"
         },
         {
-            "type": "",
+            "type": "RightLaneBoundaryTransitionGap",
             "info": "Right boundary of lane should be connected to its successive lane (euclidean distance: 3.500817358493317 successor: true).",
             "location": "from LaneIdentifier(laneId=-2, laneSectionId=0, roadId=78) to LaneIdentifier(laneId=2, laneSectionId=6, roadId=185)",
             "incidentSeverity": "WARNING",
-            "wasHealed": false,
+            "wasFixed": false,
+            "infoValues": {
+                "euclidean_distance": 3.500817358493317
+            },
             "messageSeverity": "WARNING"
         },
         {
-            "type": "",
+            "type": "LeftLaneBoundaryTransitionGap",
             "info": "Left boundary of lane should be connected to its successive lane (euclidean distance: 3.5008173584935443, successor: true).",
             "location": "from LaneIdentifier(laneId=-2, laneSectionId=0, roadId=78) to LaneIdentifier(laneId=2, laneSectionId=4, roadId=210)",
             "incidentSeverity": "WARNING",
-            "wasHealed": false,
+            "wasFixed": false,
+            "infoValues": {
+                "euclidean_distance": 3.5008173584935443
+            },
             "messageSeverity": "WARNING"
         },
         {
-            "type": "",
+            "type": "RightLaneBoundaryTransitionGap",
             "info": "Right boundary of lane should be connected to its successive lane (euclidean distance: 3.500817358493317 successor: true).",
             "location": "from LaneIdentifier(laneId=-2, laneSectionId=0, roadId=78) to LaneIdentifier(laneId=2, laneSectionId=4, roadId=210)",
             "incidentSeverity": "WARNING",
-            "wasHealed": false,
+            "wasFixed": false,
+            "infoValues": {
+                "euclidean_distance": 3.500817358493317
+            },
             "messageSeverity": "WARNING"
         },
         {
-            "type": "",
+            "type": "LeftLaneBoundaryTransitionGap",
             "info": "Left boundary of lane should be connected to its successive lane (euclidean distance: 13.412046131767385, successor: true).",
             "location": "from LaneIdentifier(laneId=-3, laneSectionId=0, roadId=79) to LaneIdentifier(laneId=3, laneSectionId=1, roadId=590)",
             "incidentSeverity": "WARNING",
-            "wasHealed": false,
+            "wasFixed": false,
+            "infoValues": {
+                "euclidean_distance": 13.412046131767385
+            },
             "messageSeverity": "WARNING"
         },
         {
-            "type": "",
+            "type": "RightLaneBoundaryTransitionGap",
             "info": "Right boundary of lane should be connected to its successive lane (euclidean distance: 13.412046131767381 successor: true).",
             "location": "from LaneIdentifier(laneId=-3, laneSectionId=0, roadId=79) to LaneIdentifier(laneId=3, laneSectionId=1, roadId=590)",
             "incidentSeverity": "WARNING",
-            "wasHealed": false,
+            "wasFixed": false,
+            "infoValues": {
+                "euclidean_distance": 13.412046131767381
+            },
             "messageSeverity": "WARNING"
         },
         {
-            "type": "",
+            "type": "LeftLaneBoundaryTransitionGap",
             "info": "Left boundary of lane should be connected to its successive lane (euclidean distance: 11.552652964890887, successor: true).",
             "location": "from LaneIdentifier(laneId=-4, laneSectionId=0, roadId=79) to LaneIdentifier(laneId=4, laneSectionId=1, roadId=590)",
             "incidentSeverity": "WARNING",
-            "wasHealed": false,
+            "wasFixed": false,
+            "infoValues": {
+                "euclidean_distance": 11.552652964890887
+            },
             "messageSeverity": "WARNING"
         },
         {
-            "type": "",
+            "type": "RightLaneBoundaryTransitionGap",
             "info": "Right boundary of lane should be connected to its successive lane (euclidean distance: 11.552652964890884 successor: true).",
             "location": "from LaneIdentifier(laneId=-4, laneSectionId=0, roadId=79) to LaneIdentifier(laneId=4, laneSectionId=1, roadId=590)",
             "incidentSeverity": "WARNING",
-            "wasHealed": false,
+            "wasFixed": false,
+            "infoValues": {
+                "euclidean_distance": 11.552652964890884
+            },
             "messageSeverity": "WARNING"
         },
         {
-            "type": "",
+            "type": "LeftLaneBoundaryTransitionGap",
             "info": "Left boundary of lane should be connected to its successive lane (euclidean distance: 8.29279259783547, successor: true).",
             "location": "from LaneIdentifier(laneId=-1, laneSectionId=0, roadId=87) to LaneIdentifier(laneId=1, laneSectionId=1, roadId=745)",
             "incidentSeverity": "WARNING",
-            "wasHealed": false,
+            "wasFixed": false,
+            "infoValues": {
+                "euclidean_distance": 8.29279259783547
+            },
             "messageSeverity": "WARNING"
         },
         {
-            "type": "",
+            "type": "RightLaneBoundaryTransitionGap",
             "info": "Right boundary of lane should be connected to its successive lane (euclidean distance: 8.29279259783541 successor: true).",
             "location": "from LaneIdentifier(laneId=-1, laneSectionId=0, roadId=87) to LaneIdentifier(laneId=1, laneSectionId=1, roadId=745)",
             "incidentSeverity": "WARNING",
-            "wasHealed": false,
+            "wasFixed": false,
+            "infoValues": {
+                "euclidean_distance": 8.29279259783541
+            },
             "messageSeverity": "WARNING"
         },
         {
-            "type": "",
+            "type": "LeftLaneBoundaryTransitionGap",
             "info": "Left boundary of lane should be connected to its successive lane (euclidean distance: 6.162084308814642, successor: true).",
             "location": "from LaneIdentifier(laneId=-1, laneSectionId=0, roadId=88) to LaneIdentifier(laneId=1, laneSectionId=2, roadId=673)",
             "incidentSeverity": "WARNING",
-            "wasHealed": false,
+            "wasFixed": false,
+            "infoValues": {
+                "euclidean_distance": 6.162084308814642
+            },
             "messageSeverity": "WARNING"
         },
         {
-            "type": "",
+            "type": "RightLaneBoundaryTransitionGap",
             "info": "Right boundary of lane should be connected to its successive lane (euclidean distance: 6.162084308814535 successor: true).",
             "location": "from LaneIdentifier(laneId=-1, laneSectionId=0, roadId=88) to LaneIdentifier(laneId=1, laneSectionId=2, roadId=673)",
             "incidentSeverity": "WARNING",
-            "wasHealed": false,
+            "wasFixed": false,
+            "infoValues": {
+                "euclidean_distance": 6.162084308814535
+            },
             "messageSeverity": "WARNING"
         },
         {
-            "type": "",
+            "type": "LeftLaneBoundaryTransitionGap",
             "info": "Left boundary of lane should be connected to its successive lane (euclidean distance: 0.0012518734949687493, successor: false).",
             "location": "from LaneIdentifier(laneId=-1, laneSectionId=0, roadId=221) to LaneIdentifier(laneId=3, laneSectionId=0, roadId=78)",
             "incidentSeverity": "WARNING",
-            "wasHealed": false,
+            "wasFixed": false,
+            "infoValues": {
+                "euclidean_distance": 0.0012518734949687493
+            },
             "messageSeverity": "WARNING"
         },
         {
-            "type": "",
+            "type": "RightLaneBoundaryTransitionGap",
             "info": "Right boundary of lane should be connected to its successive lane (euclidean distance: 0.0012518734951961214 successor: false).",
             "location": "from LaneIdentifier(laneId=-1, laneSectionId=0, roadId=221) to LaneIdentifier(laneId=3, laneSectionId=0, roadId=78)",
             "incidentSeverity": "WARNING",
-            "wasHealed": false,
+            "wasFixed": false,
+            "infoValues": {
+                "euclidean_distance": 0.0012518734951961214
+            },
             "messageSeverity": "WARNING"
         }
     ]

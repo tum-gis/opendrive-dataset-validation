@@ -14,7 +14,9 @@
             "info": "Lane numbering shall start with 1 next to the center lane, descend in negative t-direction and ascend in positive t-direction.",
             "location": "Lane section: laneSectionIndex=0, roadId=road",
             "incidentSeverity": "FATAL_ERROR",
-            "wasHealed": true,
+            "wasFixed": true,
+            "infoValues": {
+            },
             "messageSeverity": "ERROR"
         },
         {
@@ -22,7 +24,9 @@
             "info": "Lane numbering shall start with 1 next to the center lane, descend in negative t-direction and ascend in positive t-direction.",
             "location": "Lane section: laneSectionIndex=0, roadId=road",
             "incidentSeverity": "FATAL_ERROR",
-            "wasHealed": true,
+            "wasFixed": true,
+            "infoValues": {
+            },
             "messageSeverity": "ERROR"
         },
         {
@@ -30,7 +34,9 @@
             "info": "Lane numbering shall start with 1 next to the center lane, descend in negative t-direction and ascend in positive t-direction.",
             "location": "Lane section: laneSectionIndex=1, roadId=road",
             "incidentSeverity": "FATAL_ERROR",
-            "wasHealed": true,
+            "wasFixed": true,
+            "infoValues": {
+            },
             "messageSeverity": "ERROR"
         },
         {
@@ -38,7 +44,9 @@
             "info": "Lane numbering shall start with 1 next to the center lane, descend in negative t-direction and ascend in positive t-direction.",
             "location": "Lane section: laneSectionIndex=1, roadId=road",
             "incidentSeverity": "FATAL_ERROR",
-            "wasHealed": true,
+            "wasFixed": true,
+            "infoValues": {
+            },
             "messageSeverity": "ERROR"
         },
         {
@@ -46,7 +54,9 @@
             "info": "Lane numbering shall start with 1 next to the center lane, descend in negative t-direction and ascend in positive t-direction.",
             "location": "Lane section: laneSectionIndex=2, roadId=road",
             "incidentSeverity": "FATAL_ERROR",
-            "wasHealed": true,
+            "wasFixed": true,
+            "infoValues": {
+            },
             "messageSeverity": "ERROR"
         },
         {
@@ -54,7 +64,9 @@
             "info": "Lane numbering shall start with 1 next to the center lane, descend in negative t-direction and ascend in positive t-direction.",
             "location": "Lane section: laneSectionIndex=2, roadId=road",
             "incidentSeverity": "FATAL_ERROR",
-            "wasHealed": true,
+            "wasFixed": true,
+            "infoValues": {
+            },
             "messageSeverity": "ERROR"
         },
         {
@@ -62,7 +74,9 @@
             "info": "Lane numbering shall start with 1 next to the center lane, descend in negative t-direction and ascend in positive t-direction.",
             "location": "Lane section: laneSectionIndex=3, roadId=road",
             "incidentSeverity": "FATAL_ERROR",
-            "wasHealed": true,
+            "wasFixed": true,
+            "infoValues": {
+            },
             "messageSeverity": "ERROR"
         },
         {
@@ -70,7 +84,9 @@
             "info": "Lane numbering shall start with 1 next to the center lane, descend in negative t-direction and ascend in positive t-direction.",
             "location": "Lane section: laneSectionIndex=3, roadId=road",
             "incidentSeverity": "FATAL_ERROR",
-            "wasHealed": true,
+            "wasFixed": true,
+            "infoValues": {
+            },
             "messageSeverity": "ERROR"
         },
         {
@@ -78,7 +94,9 @@
             "info": "Lane numbering shall start with 1 next to the center lane, descend in negative t-direction and ascend in positive t-direction.",
             "location": "Lane section: laneSectionIndex=4, roadId=road",
             "incidentSeverity": "FATAL_ERROR",
-            "wasHealed": true,
+            "wasFixed": true,
+            "infoValues": {
+            },
             "messageSeverity": "ERROR"
         },
         {
@@ -86,7 +104,9 @@
             "info": "Lane numbering shall start with 1 next to the center lane, descend in negative t-direction and ascend in positive t-direction.",
             "location": "Lane section: laneSectionIndex=4, roadId=road",
             "incidentSeverity": "FATAL_ERROR",
-            "wasHealed": true,
+            "wasFixed": true,
+            "infoValues": {
+            },
             "messageSeverity": "ERROR"
         },
         {
@@ -94,7 +114,9 @@
             "info": "Lane numbering shall start with 1 next to the center lane, descend in negative t-direction and ascend in positive t-direction.",
             "location": "Lane section: laneSectionIndex=5, roadId=road",
             "incidentSeverity": "FATAL_ERROR",
-            "wasHealed": true,
+            "wasFixed": true,
+            "infoValues": {
+            },
             "messageSeverity": "ERROR"
         },
         {
@@ -102,7 +124,9 @@
             "info": "Lane numbering shall start with 1 next to the center lane, descend in negative t-direction and ascend in positive t-direction.",
             "location": "Lane section: laneSectionIndex=5, roadId=road",
             "incidentSeverity": "FATAL_ERROR",
-            "wasHealed": true,
+            "wasFixed": true,
+            "infoValues": {
+            },
             "messageSeverity": "ERROR"
         },
         {
@@ -110,7 +134,9 @@
             "info": "Lane numbering shall start with 1 next to the center lane, descend in negative t-direction and ascend in positive t-direction.",
             "location": "Lane section: laneSectionIndex=6, roadId=road",
             "incidentSeverity": "FATAL_ERROR",
-            "wasHealed": true,
+            "wasFixed": true,
+            "infoValues": {
+            },
             "messageSeverity": "ERROR"
         },
         {
@@ -118,7 +144,9 @@
             "info": "Lane numbering shall start with 1 next to the center lane, descend in negative t-direction and ascend in positive t-direction.",
             "location": "Lane section: laneSectionIndex=6, roadId=road",
             "incidentSeverity": "FATAL_ERROR",
-            "wasHealed": true,
+            "wasFixed": true,
+            "infoValues": {
+            },
             "messageSeverity": "ERROR"
         }
     ],

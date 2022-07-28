@@ -8,11 +8,13 @@
     },
     "basicDataTypePlan": [
         {
-            "type": "EmptyValueForOptionalAttribute",
-            "info": "Attribute 'name' is set with an empty value even though the attribute itself is optional.",
+            "type": "BlankStringAttributeValueForOptionalAttribute",
+            "info": "The value of the attribute 'name' is blank. The attribute is unset as it is optional.",
             "location": "Header element",
             "incidentSeverity": "WARNING",
-            "wasHealed": true,
+            "wasFixed": true,
+            "infoValues": {
+            },
             "messageSeverity": "WARNING"
         },
         {
@@ -20,7 +22,9 @@
             "info": "Elevation profile contains no elements.",
             "location": "Road: roadId=90",
             "incidentSeverity": "WARNING",
-            "wasHealed": true,
+            "wasFixed": true,
+            "infoValues": {
+            },
             "messageSeverity": "WARNING"
         },
         {
@@ -28,279 +32,349 @@
             "info": "Elevation profile contains no elements.",
             "location": "Road: roadId=91",
             "incidentSeverity": "WARNING",
-            "wasHealed": true,
+            "wasFixed": true,
+            "infoValues": {
+            },
             "messageSeverity": "WARNING"
         },
         {
-            "type": "UnexpectedValue",
-            "info": "Unexpected value for attribute 'unit'",
+            "type": "UnitAttributeMustBeDefinedWhenValueAttributeIsDefined",
+            "info": "Attribute 'unit' shall be defined, when attribute 'value' is defined.",
             "location": "Road signal: roadSignalId=113, roadId=69",
             "incidentSeverity": "WARNING",
-            "wasHealed": true,
+            "wasFixed": true,
+            "infoValues": {
+            },
             "messageSeverity": "WARNING"
         },
         {
-            "type": "UnexpectedValue",
-            "info": "Unexpected value for attribute 'unit'",
+            "type": "UnitAttributeMustBeDefinedWhenValueAttributeIsDefined",
+            "info": "Attribute 'unit' shall be defined, when attribute 'value' is defined.",
             "location": "Road signal: roadSignalId=116, roadId=72",
             "incidentSeverity": "WARNING",
-            "wasHealed": true,
+            "wasFixed": true,
+            "infoValues": {
+            },
             "messageSeverity": "WARNING"
         },
         {
-            "type": "UnexpectedValue",
-            "info": "Unexpected value for attribute 'unit'",
+            "type": "UnitAttributeMustBeDefinedWhenValueAttributeIsDefined",
+            "info": "Attribute 'unit' shall be defined, when attribute 'value' is defined.",
             "location": "Road signal: roadSignalId=119, roadId=73",
             "incidentSeverity": "WARNING",
-            "wasHealed": true,
+            "wasFixed": true,
+            "infoValues": {
+            },
             "messageSeverity": "WARNING"
         },
         {
-            "type": "UnexpectedValue",
-            "info": "Unexpected value for attribute 't'",
+            "type": "NonFinitePositiveDoubleAttributeValue",
+            "info": "The value of the attribute 't' is not finite or not positive (applied tolerance: 0.0). The attribute value is set to 0.0.",
             "location": "Road signal: roadSignalId=120, roadId=73",
             "incidentSeverity": "WARNING",
-            "wasHealed": true,
+            "wasFixed": true,
+            "infoValues": {
+            },
             "messageSeverity": "WARNING"
         },
         {
-            "type": "UnexpectedValue",
-            "info": "Unexpected value for attribute 'unit'",
+            "type": "UnitAttributeMustBeDefinedWhenValueAttributeIsDefined",
+            "info": "Attribute 'unit' shall be defined, when attribute 'value' is defined.",
             "location": "Road signal: roadSignalId=120, roadId=73",
             "incidentSeverity": "WARNING",
-            "wasHealed": true,
+            "wasFixed": true,
+            "infoValues": {
+            },
             "messageSeverity": "WARNING"
         },
         {
-            "type": "UnexpectedValue",
-            "info": "Unexpected value for attribute 'unit'",
+            "type": "UnitAttributeMustBeDefinedWhenValueAttributeIsDefined",
+            "info": "Attribute 'unit' shall be defined, when attribute 'value' is defined.",
             "location": "Road signal: roadSignalId=211, roadId=73",
             "incidentSeverity": "WARNING",
-            "wasHealed": true,
+            "wasFixed": true,
+            "infoValues": {
+            },
             "messageSeverity": "WARNING"
         },
         {
-            "type": "UnexpectedValue",
-            "info": "Unexpected value for attribute 'unit'",
+            "type": "UnitAttributeMustBeDefinedWhenValueAttributeIsDefined",
+            "info": "Attribute 'unit' shall be defined, when attribute 'value' is defined.",
             "location": "Road signal: roadSignalId=121, roadId=73",
             "incidentSeverity": "WARNING",
-            "wasHealed": true,
+            "wasFixed": true,
+            "infoValues": {
+            },
             "messageSeverity": "WARNING"
         },
         {
-            "type": "UnexpectedValue",
-            "info": "Unexpected value for attribute 't'",
+            "type": "NonFinitePositiveDoubleAttributeValue",
+            "info": "The value of the attribute 't' is not finite or not positive (applied tolerance: 0.0). The attribute value is set to 0.0.",
             "location": "Road signal: roadSignalId=213, roadId=73",
             "incidentSeverity": "WARNING",
-            "wasHealed": true,
+            "wasFixed": true,
+            "infoValues": {
+            },
             "messageSeverity": "WARNING"
         },
         {
-            "type": "UnexpectedValue",
-            "info": "Unexpected value for attribute 'unit'",
+            "type": "UnitAttributeMustBeDefinedWhenValueAttributeIsDefined",
+            "info": "Attribute 'unit' shall be defined, when attribute 'value' is defined.",
             "location": "Road signal: roadSignalId=213, roadId=73",
             "incidentSeverity": "WARNING",
-            "wasHealed": true,
+            "wasFixed": true,
+            "infoValues": {
+            },
             "messageSeverity": "WARNING"
         },
         {
-            "type": "UnexpectedValue",
-            "info": "Unexpected value for attribute 't'",
+            "type": "NonFinitePositiveDoubleAttributeValue",
+            "info": "The value of the attribute 't' is not finite or not positive (applied tolerance: 0.0). The attribute value is set to 0.0.",
             "location": "Road signal: roadSignalId=267, roadId=73",
             "incidentSeverity": "WARNING",
-            "wasHealed": true,
+            "wasFixed": true,
+            "infoValues": {
+            },
             "messageSeverity": "WARNING"
         },
         {
-            "type": "UnexpectedValue",
-            "info": "Unexpected value for attribute 'unit'",
+            "type": "UnitAttributeMustBeDefinedWhenValueAttributeIsDefined",
+            "info": "Attribute 'unit' shall be defined, when attribute 'value' is defined.",
             "location": "Road signal: roadSignalId=267, roadId=73",
             "incidentSeverity": "WARNING",
-            "wasHealed": true,
+            "wasFixed": true,
+            "infoValues": {
+            },
             "messageSeverity": "WARNING"
         },
         {
-            "type": "UnexpectedValue",
-            "info": "Unexpected value for attribute 'unit'",
+            "type": "UnitAttributeMustBeDefinedWhenValueAttributeIsDefined",
+            "info": "Attribute 'unit' shall be defined, when attribute 'value' is defined.",
             "location": "Road signal: roadSignalId=124, roadId=74",
             "incidentSeverity": "WARNING",
-            "wasHealed": true,
+            "wasFixed": true,
+            "infoValues": {
+            },
             "messageSeverity": "WARNING"
         },
         {
-            "type": "UnexpectedValue",
-            "info": "Unexpected value for attribute 't'",
+            "type": "NonFinitePositiveDoubleAttributeValue",
+            "info": "The value of the attribute 't' is not finite or not positive (applied tolerance: 0.0). The attribute value is set to 0.0.",
             "location": "Road signal: roadSignalId=125, roadId=74",
             "incidentSeverity": "WARNING",
-            "wasHealed": true,
+            "wasFixed": true,
+            "infoValues": {
+            },
             "messageSeverity": "WARNING"
         },
         {
-            "type": "UnexpectedValue",
-            "info": "Unexpected value for attribute 'unit'",
+            "type": "UnitAttributeMustBeDefinedWhenValueAttributeIsDefined",
+            "info": "Attribute 'unit' shall be defined, when attribute 'value' is defined.",
             "location": "Road signal: roadSignalId=125, roadId=74",
             "incidentSeverity": "WARNING",
-            "wasHealed": true,
+            "wasFixed": true,
+            "infoValues": {
+            },
             "messageSeverity": "WARNING"
         },
         {
-            "type": "UnexpectedValue",
-            "info": "Unexpected value for attribute 't'",
+            "type": "NonFinitePositiveDoubleAttributeValue",
+            "info": "The value of the attribute 't' is not finite or not positive (applied tolerance: 0.0). The attribute value is set to 0.0.",
             "location": "Road signal: roadSignalId=217, roadId=74",
             "incidentSeverity": "WARNING",
-            "wasHealed": true,
+            "wasFixed": true,
+            "infoValues": {
+            },
             "messageSeverity": "WARNING"
         },
         {
-            "type": "UnexpectedValue",
-            "info": "Unexpected value for attribute 'unit'",
+            "type": "UnitAttributeMustBeDefinedWhenValueAttributeIsDefined",
+            "info": "Attribute 'unit' shall be defined, when attribute 'value' is defined.",
             "location": "Road signal: roadSignalId=217, roadId=74",
             "incidentSeverity": "WARNING",
-            "wasHealed": true,
+            "wasFixed": true,
+            "infoValues": {
+            },
             "messageSeverity": "WARNING"
         },
         {
-            "type": "UnexpectedValue",
-            "info": "Unexpected value for attribute 't'",
+            "type": "NonFinitePositiveDoubleAttributeValue",
+            "info": "The value of the attribute 't' is not finite or not positive (applied tolerance: 0.0). The attribute value is set to 0.0.",
             "location": "Road signal: roadSignalId=268, roadId=74",
             "incidentSeverity": "WARNING",
-            "wasHealed": true,
+            "wasFixed": true,
+            "infoValues": {
+            },
             "messageSeverity": "WARNING"
         },
         {
-            "type": "UnexpectedValue",
-            "info": "Unexpected value for attribute 'unit'",
+            "type": "UnitAttributeMustBeDefinedWhenValueAttributeIsDefined",
+            "info": "Attribute 'unit' shall be defined, when attribute 'value' is defined.",
             "location": "Road signal: roadSignalId=268, roadId=74",
             "incidentSeverity": "WARNING",
-            "wasHealed": true,
+            "wasFixed": true,
+            "infoValues": {
+            },
             "messageSeverity": "WARNING"
         },
         {
-            "type": "UnexpectedValue",
-            "info": "Unexpected value for attribute 'unit'",
+            "type": "UnitAttributeMustBeDefinedWhenValueAttributeIsDefined",
+            "info": "Attribute 'unit' shall be defined, when attribute 'value' is defined.",
             "location": "Road signal: roadSignalId=218, roadId=74",
             "incidentSeverity": "WARNING",
-            "wasHealed": true,
+            "wasFixed": true,
+            "infoValues": {
+            },
             "messageSeverity": "WARNING"
         },
         {
-            "type": "UnexpectedValue",
-            "info": "Unexpected value for attribute 'unit'",
+            "type": "UnitAttributeMustBeDefinedWhenValueAttributeIsDefined",
+            "info": "Attribute 'unit' shall be defined, when attribute 'value' is defined.",
             "location": "Road signal: roadSignalId=141, roadId=79",
             "incidentSeverity": "WARNING",
-            "wasHealed": true,
+            "wasFixed": true,
+            "infoValues": {
+            },
             "messageSeverity": "WARNING"
         },
         {
-            "type": "UnexpectedValue",
-            "info": "Unexpected value for attribute 'unit'",
+            "type": "UnitAttributeMustBeDefinedWhenValueAttributeIsDefined",
+            "info": "Attribute 'unit' shall be defined, when attribute 'value' is defined.",
             "location": "Road signal: roadSignalId=144, roadId=80",
             "incidentSeverity": "WARNING",
-            "wasHealed": true,
+            "wasFixed": true,
+            "infoValues": {
+            },
             "messageSeverity": "WARNING"
         },
         {
-            "type": "UnexpectedValue",
-            "info": "Unexpected value for attribute 'unit'",
+            "type": "UnitAttributeMustBeDefinedWhenValueAttributeIsDefined",
+            "info": "Attribute 'unit' shall be defined, when attribute 'value' is defined.",
             "location": "Road signal: roadSignalId=147, roadId=81",
             "incidentSeverity": "WARNING",
-            "wasHealed": true,
+            "wasFixed": true,
+            "infoValues": {
+            },
             "messageSeverity": "WARNING"
         },
         {
-            "type": "UnexpectedValue",
-            "info": "Unexpected value for attribute 't'",
+            "type": "NonFinitePositiveDoubleAttributeValue",
+            "info": "The value of the attribute 't' is not finite or not positive (applied tolerance: 0.0). The attribute value is set to 0.0.",
             "location": "Road signal: roadSignalId=148, roadId=81",
             "incidentSeverity": "WARNING",
-            "wasHealed": true,
+            "wasFixed": true,
+            "infoValues": {
+            },
             "messageSeverity": "WARNING"
         },
         {
-            "type": "UnexpectedValue",
-            "info": "Unexpected value for attribute 'unit'",
+            "type": "UnitAttributeMustBeDefinedWhenValueAttributeIsDefined",
+            "info": "Attribute 'unit' shall be defined, when attribute 'value' is defined.",
             "location": "Road signal: roadSignalId=148, roadId=81",
             "incidentSeverity": "WARNING",
-            "wasHealed": true,
+            "wasFixed": true,
+            "infoValues": {
+            },
             "messageSeverity": "WARNING"
         },
         {
-            "type": "UnexpectedValue",
-            "info": "Unexpected value for attribute 't'",
+            "type": "NonFinitePositiveDoubleAttributeValue",
+            "info": "The value of the attribute 't' is not finite or not positive (applied tolerance: 0.0). The attribute value is set to 0.0.",
             "location": "Road signal: roadSignalId=207, roadId=81",
             "incidentSeverity": "WARNING",
-            "wasHealed": true,
+            "wasFixed": true,
+            "infoValues": {
+            },
             "messageSeverity": "WARNING"
         },
         {
-            "type": "UnexpectedValue",
-            "info": "Unexpected value for attribute 'unit'",
+            "type": "UnitAttributeMustBeDefinedWhenValueAttributeIsDefined",
+            "info": "Attribute 'unit' shall be defined, when attribute 'value' is defined.",
             "location": "Road signal: roadSignalId=207, roadId=81",
             "incidentSeverity": "WARNING",
-            "wasHealed": true,
+            "wasFixed": true,
+            "infoValues": {
+            },
             "messageSeverity": "WARNING"
         },
         {
-            "type": "UnexpectedValue",
-            "info": "Unexpected value for attribute 'unit'",
+            "type": "UnitAttributeMustBeDefinedWhenValueAttributeIsDefined",
+            "info": "Attribute 'unit' shall be defined, when attribute 'value' is defined.",
             "location": "Road signal: roadSignalId=270, roadId=81",
             "incidentSeverity": "WARNING",
-            "wasHealed": true,
+            "wasFixed": true,
+            "infoValues": {
+            },
             "messageSeverity": "WARNING"
         },
         {
-            "type": "UnexpectedValue",
-            "info": "Unexpected value for attribute 'unit'",
+            "type": "UnitAttributeMustBeDefinedWhenValueAttributeIsDefined",
+            "info": "Attribute 'unit' shall be defined, when attribute 'value' is defined.",
             "location": "Road signal: roadSignalId=155, roadId=87",
             "incidentSeverity": "WARNING",
-            "wasHealed": true,
+            "wasFixed": true,
+            "infoValues": {
+            },
             "messageSeverity": "WARNING"
         },
         {
-            "type": "UnexpectedValue",
-            "info": "Unexpected value for attribute 't'",
+            "type": "NonFinitePositiveDoubleAttributeValue",
+            "info": "The value of the attribute 't' is not finite or not positive (applied tolerance: 0.0). The attribute value is set to 0.0.",
             "location": "Road signal: roadSignalId=156, roadId=87",
             "incidentSeverity": "WARNING",
-            "wasHealed": true,
+            "wasFixed": true,
+            "infoValues": {
+            },
             "messageSeverity": "WARNING"
         },
         {
-            "type": "UnexpectedValue",
-            "info": "Unexpected value for attribute 'unit'",
+            "type": "UnitAttributeMustBeDefinedWhenValueAttributeIsDefined",
+            "info": "Attribute 'unit' shall be defined, when attribute 'value' is defined.",
             "location": "Road signal: roadSignalId=156, roadId=87",
             "incidentSeverity": "WARNING",
-            "wasHealed": true,
+            "wasFixed": true,
+            "infoValues": {
+            },
             "messageSeverity": "WARNING"
         },
         {
-            "type": "UnexpectedValue",
-            "info": "Unexpected value for attribute 't'",
+            "type": "NonFinitePositiveDoubleAttributeValue",
+            "info": "The value of the attribute 't' is not finite or not positive (applied tolerance: 0.0). The attribute value is set to 0.0.",
             "location": "Road signal: roadSignalId=204, roadId=87",
             "incidentSeverity": "WARNING",
-            "wasHealed": true,
+            "wasFixed": true,
+            "infoValues": {
+            },
             "messageSeverity": "WARNING"
         },
         {
-            "type": "UnexpectedValue",
-            "info": "Unexpected value for attribute 'unit'",
+            "type": "UnitAttributeMustBeDefinedWhenValueAttributeIsDefined",
+            "info": "Attribute 'unit' shall be defined, when attribute 'value' is defined.",
             "location": "Road signal: roadSignalId=204, roadId=87",
             "incidentSeverity": "WARNING",
-            "wasHealed": true,
+            "wasFixed": true,
+            "infoValues": {
+            },
             "messageSeverity": "WARNING"
         },
         {
-            "type": "UnexpectedValue",
-            "info": "Unexpected value for attribute 'unit'",
+            "type": "UnitAttributeMustBeDefinedWhenValueAttributeIsDefined",
+            "info": "Attribute 'unit' shall be defined, when attribute 'value' is defined.",
             "location": "Road signal: roadSignalId=269, roadId=87",
             "incidentSeverity": "WARNING",
-            "wasHealed": true,
+            "wasFixed": true,
+            "infoValues": {
+            },
             "messageSeverity": "WARNING"
         },
         {
-            "type": "EmptyValueForOptionalAttribute",
-            "info": "Attribute 'name' is set with an empty value even though the attribute itself is optional.",
+            "type": "BlankStringAttributeValueForOptionalAttribute",
+            "info": "The value of the attribute 'name' is blank. The attribute is unset as it is optional.",
             "location": "Junction: junctionId=2",
             "incidentSeverity": "WARNING",
-            "wasHealed": true,
+            "wasFixed": true,
+            "infoValues": {
+            },
             "messageSeverity": "WARNING"
         }
     ],

@@ -14,7 +14,9 @@
             "info": "Road mark entries have been removed, as the sOffset is not located within the local curve position domain (Range([0.0..257.68490719436477])) of the lane section.",
             "location": "Lane road mark: laneRoadMarkIndex=0, laneId=-1, laneSectionIndex=0, roadId=17",
             "incidentSeverity": "WARNING",
-            "wasHealed": true,
+            "wasFixed": true,
+            "infoValues": {
+            },
             "messageSeverity": "WARNING"
         },
         {
@@ -22,7 +24,9 @@
             "info": "Road mark entries have been removed, as the sOffset is not located within the local curve position domain (Range([0.0..257.68490719436477])) of the lane section.",
             "location": "Lane road mark: laneRoadMarkIndex=0, laneId=0, laneSectionIndex=0, roadId=17",
             "incidentSeverity": "WARNING",
-            "wasHealed": true,
+            "wasFixed": true,
+            "infoValues": {
+            },
             "messageSeverity": "WARNING"
         }
     ]

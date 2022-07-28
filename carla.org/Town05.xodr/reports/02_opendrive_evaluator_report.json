@@ -8,21 +8,255 @@
     },
     "basicDataTypePlan": [
         {
-            "type": "EmptyValueForOptionalAttribute",
-            "info": "Attribute 'name' is set with an empty value even though the attribute itself is optional.",
+            "type": "BlankStringAttributeValueForOptionalAttribute",
+            "info": "The value of the attribute 'name' is blank. The attribute is unset as it is optional.",
             "location": "Header element",
             "incidentSeverity": "WARNING",
-            "wasHealed": true,
+            "wasFixed": true,
+            "infoValues": {
+            },
             "messageSeverity": "WARNING"
         }
     ],
     "modelingRulesPlan": [
         {
             "type": "",
+            "info": "Plan view contains geometry elements with a length of zero (below tolerance threshold), which are removed.",
+            "location": "Road: roadId=125",
+            "incidentSeverity": "WARNING",
+            "wasFixed": true,
+            "infoValues": {
+            },
+            "messageSeverity": "WARNING"
+        },
+        {
+            "type": "",
+            "info": "Plan view contains geometry elements with a length of zero (below tolerance threshold), which are removed.",
+            "location": "Road: roadId=126",
+            "incidentSeverity": "WARNING",
+            "wasFixed": true,
+            "infoValues": {
+            },
+            "messageSeverity": "WARNING"
+        },
+        {
+            "type": "",
+            "info": "Plan view contains geometry elements with a length of zero (below tolerance threshold), which are removed.",
+            "location": "Road: roadId=258",
+            "incidentSeverity": "WARNING",
+            "wasFixed": true,
+            "infoValues": {
+            },
+            "messageSeverity": "WARNING"
+        },
+        {
+            "type": "",
+            "info": "Plan view contains geometry elements with a length of zero (below tolerance threshold), which are removed.",
+            "location": "Road: roadId=259",
+            "incidentSeverity": "WARNING",
+            "wasFixed": true,
+            "infoValues": {
+            },
+            "messageSeverity": "WARNING"
+        },
+        {
+            "type": "GapBetweenPlanViewGeometryElements",
+            "info": "Geometry elements contain a gap from Vector2D(x=-189.84278107157505, y=78.61261928377628) to Vector2D(x=-189.84278075097242, y=78.61145660483693) with an euclidean distance of 0.0011626789835539814 above the warning tolerance of 0.001.",
+            "location": "Road: roadId=279",
+            "incidentSeverity": "WARNING",
+            "wasFixed": false,
+            "infoValues": {
+            },
+            "messageSeverity": "WARNING"
+        },
+        {
+            "type": "GapBetweenPlanViewGeometryElements",
+            "info": "Geometry elements contain a gap from Vector2D(x=-193.29282007049304, y=-102.57352532823363) to Vector2D(x=-193.29281977973872, y=-102.57457976095114) with an euclidean distance of 0.0010544327575967034 above the warning tolerance of 0.001.",
+            "location": "Road: roadId=335",
+            "incidentSeverity": "WARNING",
+            "wasFixed": false,
+            "infoValues": {
+            },
+            "messageSeverity": "WARNING"
+        },
+        {
+            "type": "",
+            "info": "Plan view contains geometry elements with a length of zero (below tolerance threshold), which are removed.",
+            "location": "Road: roadId=363",
+            "incidentSeverity": "WARNING",
+            "wasFixed": true,
+            "infoValues": {
+            },
+            "messageSeverity": "WARNING"
+        },
+        {
+            "type": "",
+            "info": "Plan view contains geometry elements with a length of zero (below tolerance threshold), which are removed.",
+            "location": "Road: roadId=364",
+            "incidentSeverity": "WARNING",
+            "wasFixed": true,
+            "infoValues": {
+            },
+            "messageSeverity": "WARNING"
+        },
+        {
+            "type": "GapBetweenPlanViewGeometryElements",
+            "info": "Geometry elements contain a gap from Vector2D(x=-189.79280871253744, y=-102.61423287629499) to Vector2D(x=-189.79280903907775, y=-102.61304866414274) with an euclidean distance of 0.001184212197274287 above the warning tolerance of 0.001.",
+            "location": "Road: roadId=382",
+            "incidentSeverity": "WARNING",
+            "wasFixed": false,
+            "infoValues": {
+            },
+            "messageSeverity": "WARNING"
+        },
+        {
+            "type": "GapBetweenPlanViewGeometryElements",
+            "info": "Geometry elements contain a gap from Vector2D(x=-189.81715164750275, y=-14.333560099296475) to Vector2D(x=-189.81715132216019, y=-14.334739967647133) with an euclidean distance of 0.0011798683955134032 above the warning tolerance of 0.001.",
+            "location": "Road: roadId=454",
+            "incidentSeverity": "WARNING",
+            "wasFixed": false,
+            "infoValues": {
+            },
+            "messageSeverity": "WARNING"
+        },
+        {
+            "type": "",
+            "info": "Plan view contains geometry elements with a length of zero (below tolerance threshold), which are removed.",
+            "location": "Road: roadId=523",
+            "incidentSeverity": "WARNING",
+            "wasFixed": true,
+            "infoValues": {
+            },
+            "messageSeverity": "WARNING"
+        },
+        {
+            "type": "",
+            "info": "Plan view contains geometry elements with a length of zero (below tolerance threshold), which are removed.",
+            "location": "Road: roadId=524",
+            "incidentSeverity": "WARNING",
+            "wasFixed": true,
+            "infoValues": {
+            },
+            "messageSeverity": "WARNING"
+        },
+        {
+            "type": "",
+            "info": "Plan view contains geometry elements with a length of zero (below tolerance threshold), which are removed.",
+            "location": "Road: roadId=593",
+            "incidentSeverity": "WARNING",
+            "wasFixed": true,
+            "infoValues": {
+            },
+            "messageSeverity": "WARNING"
+        },
+        {
+            "type": "",
+            "info": "Plan view contains geometry elements with a length of zero (below tolerance threshold), which are removed.",
+            "location": "Road: roadId=594",
+            "incidentSeverity": "WARNING",
+            "wasFixed": true,
+            "infoValues": {
+            },
+            "messageSeverity": "WARNING"
+        },
+        {
+            "type": "GapBetweenPlanViewGeometryElements",
+            "info": "Geometry elements contain a gap from Vector2D(x=-49.880271075253944, y=102.2315158798519) to Vector2D(x=-49.88016868059636, y=102.22985179806174) with an euclidean distance of 0.0016672290995003332 above the warning tolerance of 0.001.",
+            "location": "Road: roadId=601",
+            "incidentSeverity": "WARNING",
+            "wasFixed": false,
+            "infoValues": {
+            },
+            "messageSeverity": "WARNING"
+        },
+        {
+            "type": "GapBetweenPlanViewGeometryElements",
+            "info": "Geometry elements contain a gap from Vector2D(x=-49.8966641644009, y=102.4849039562182) to Vector2D(x=-49.896572148079784, y=102.48354725210812) with an euclidean distance of 0.0013598209608842162 above the warning tolerance of 0.001.",
+            "location": "Road: roadId=606",
+            "incidentSeverity": "WARNING",
+            "wasFixed": false,
+            "infoValues": {
+            },
+            "messageSeverity": "WARNING"
+        },
+        {
+            "type": "GapBetweenPlanViewGeometryElements",
+            "info": "Geometry elements contain a gap from Vector2D(x=-46.373239212316996, y=102.21494365665636) to Vector2D(x=-46.37313833795935, y=102.21315024895829) with an euclidean distance of 0.001796242413356578 above the warning tolerance of 0.001.",
+            "location": "Road: roadId=610",
+            "incidentSeverity": "WARNING",
+            "wasFixed": false,
+            "infoValues": {
+            },
+            "messageSeverity": "WARNING"
+        },
+        {
+            "type": "GapBetweenPlanViewGeometryElements",
+            "info": "Geometry elements contain a gap from Vector2D(x=-53.170939579007346, y=77.31536517211511) to Vector2D(x=-53.17094559704913, y=77.31638684572565) with an euclidean distance of 0.0010216913346486611 above the warning tolerance of 0.001.",
+            "location": "Road: roadId=667",
+            "incidentSeverity": "WARNING",
+            "wasFixed": false,
+            "infoValues": {
+            },
+            "messageSeverity": "WARNING"
+        },
+        {
+            "type": "GapBetweenPlanViewGeometryElements",
+            "info": "Geometry elements contain a gap from Vector2D(x=-49.670674452284985, y=77.28066308879855) to Vector2D(x=-49.670682553046404, y=77.28203834248782) with an euclidean distance of 0.001375277547333926 above the warning tolerance of 0.001.",
+            "location": "Road: roadId=674",
+            "incidentSeverity": "WARNING",
+            "wasFixed": false,
+            "infoValues": {
+            },
+            "messageSeverity": "WARNING"
+        },
+        {
+            "type": "",
+            "info": "Plan view contains geometry elements with a length of zero (below tolerance threshold), which are removed.",
+            "location": "Road: roadId=721",
+            "incidentSeverity": "WARNING",
+            "wasFixed": true,
+            "infoValues": {
+            },
+            "messageSeverity": "WARNING"
+        },
+        {
+            "type": "",
+            "info": "Plan view contains geometry elements with a length of zero (below tolerance threshold), which are removed.",
+            "location": "Road: roadId=722",
+            "incidentSeverity": "WARNING",
+            "wasFixed": true,
+            "infoValues": {
+            },
+            "messageSeverity": "WARNING"
+        },
+        {
+            "type": "GapBetweenPlanViewGeometryElements",
+            "info": "Geometry elements contain a gap from Vector2D(x=43.02690793416573, y=85.83429718650815) to Vector2D(x=43.028113592507516, y=85.83432758417734) with an euclidean distance of 0.0012060414816320213 above the warning tolerance of 0.001.",
+            "location": "Road: roadId=813",
+            "incidentSeverity": "WARNING",
+            "wasFixed": false,
+            "infoValues": {
+            },
+            "messageSeverity": "WARNING"
+        },
+        {
+            "type": "GapBetweenPlanViewGeometryElements",
+            "info": "Geometry elements contain a gap from Vector2D(x=43.07342372661256, y=89.33658221289336) to Vector2D(x=43.074589545844496, y=89.33661160611874) with an euclidean distance of 0.0011661897115176614 above the warning tolerance of 0.001.",
+            "location": "Road: roadId=823",
+            "incidentSeverity": "WARNING",
+            "wasFixed": false,
+            "infoValues": {
+            },
+            "messageSeverity": "WARNING"
+        },
+        {
+            "type": "",
             "info": "The length of lane sections shall be greater than zero.",
             "location": "Road: roadId=125",
             "incidentSeverity": "FATAL_ERROR",
-            "wasHealed": false,
+            "wasFixed": false,
+            "infoValues": {
+            },
             "messageSeverity": "FATAL_ERROR"
         },
         {
@@ -30,7 +264,9 @@
             "info": "The length of lane sections shall be greater than zero.",
             "location": "Road: roadId=126",
             "incidentSeverity": "FATAL_ERROR",
-            "wasHealed": false,
+            "wasFixed": false,
+            "infoValues": {
+            },
             "messageSeverity": "FATAL_ERROR"
         },
         {
@@ -38,7 +274,9 @@
             "info": "The length of lane sections shall be greater than zero.",
             "location": "Road: roadId=258",
             "incidentSeverity": "FATAL_ERROR",
-            "wasHealed": false,
+            "wasFixed": false,
+            "infoValues": {
+            },
             "messageSeverity": "FATAL_ERROR"
         },
         {
@@ -46,7 +284,9 @@
             "info": "The length of lane sections shall be greater than zero.",
             "location": "Road: roadId=259",
             "incidentSeverity": "FATAL_ERROR",
-            "wasHealed": false,
+            "wasFixed": false,
+            "infoValues": {
+            },
             "messageSeverity": "FATAL_ERROR"
         },
         {
@@ -54,7 +294,9 @@
             "info": "The length of lane sections shall be greater than zero.",
             "location": "Road: roadId=363",
             "incidentSeverity": "FATAL_ERROR",
-            "wasHealed": false,
+            "wasFixed": false,
+            "infoValues": {
+            },
             "messageSeverity": "FATAL_ERROR"
         },
         {
@@ -62,7 +304,9 @@
             "info": "The length of lane sections shall be greater than zero.",
             "location": "Road: roadId=364",
             "incidentSeverity": "FATAL_ERROR",
-            "wasHealed": false,
+            "wasFixed": false,
+            "infoValues": {
+            },
             "messageSeverity": "FATAL_ERROR"
         },
         {
@@ -70,7 +314,9 @@
             "info": "The length of lane sections shall be greater than zero.",
             "location": "Road: roadId=523",
             "incidentSeverity": "FATAL_ERROR",
-            "wasHealed": false,
+            "wasFixed": false,
+            "infoValues": {
+            },
             "messageSeverity": "FATAL_ERROR"
         },
         {
@@ -78,7 +324,9 @@
             "info": "The length of lane sections shall be greater than zero.",
             "location": "Road: roadId=524",
             "incidentSeverity": "FATAL_ERROR",
-            "wasHealed": false,
+            "wasFixed": false,
+            "infoValues": {
+            },
             "messageSeverity": "FATAL_ERROR"
         },
         {
@@ -86,7 +334,9 @@
             "info": "The length of lane sections shall be greater than zero.",
             "location": "Road: roadId=593",
             "incidentSeverity": "FATAL_ERROR",
-            "wasHealed": false,
+            "wasFixed": false,
+            "infoValues": {
+            },
             "messageSeverity": "FATAL_ERROR"
         },
         {
@@ -94,7 +344,9 @@
             "info": "The length of lane sections shall be greater than zero.",
             "location": "Road: roadId=594",
             "incidentSeverity": "FATAL_ERROR",
-            "wasHealed": false,
+            "wasFixed": false,
+            "infoValues": {
+            },
             "messageSeverity": "FATAL_ERROR"
         },
         {
@@ -102,7 +354,9 @@
             "info": "The length of lane sections shall be greater than zero.",
             "location": "Road: roadId=721",
             "incidentSeverity": "FATAL_ERROR",
-            "wasHealed": false,
+            "wasFixed": false,
+            "infoValues": {
+            },
             "messageSeverity": "FATAL_ERROR"
         },
         {
@@ -110,103 +364,9 @@
             "info": "The length of lane sections shall be greater than zero.",
             "location": "Road: roadId=722",
             "incidentSeverity": "FATAL_ERROR",
-            "wasHealed": false,
-            "messageSeverity": "FATAL_ERROR"
-        },
-        {
-            "type": "",
-            "info": "The length of lane sections shall be greater than zero.",
-            "location": "Road: roadId=125",
-            "incidentSeverity": "FATAL_ERROR",
-            "wasHealed": false,
-            "messageSeverity": "FATAL_ERROR"
-        },
-        {
-            "type": "",
-            "info": "The length of lane sections shall be greater than zero.",
-            "location": "Road: roadId=126",
-            "incidentSeverity": "FATAL_ERROR",
-            "wasHealed": false,
-            "messageSeverity": "FATAL_ERROR"
-        },
-        {
-            "type": "",
-            "info": "The length of lane sections shall be greater than zero.",
-            "location": "Road: roadId=258",
-            "incidentSeverity": "FATAL_ERROR",
-            "wasHealed": false,
-            "messageSeverity": "FATAL_ERROR"
-        },
-        {
-            "type": "",
-            "info": "The length of lane sections shall be greater than zero.",
-            "location": "Road: roadId=259",
-            "incidentSeverity": "FATAL_ERROR",
-            "wasHealed": false,
-            "messageSeverity": "FATAL_ERROR"
-        },
-        {
-            "type": "",
-            "info": "The length of lane sections shall be greater than zero.",
-            "location": "Road: roadId=363",
-            "incidentSeverity": "FATAL_ERROR",
-            "wasHealed": false,
-            "messageSeverity": "FATAL_ERROR"
-        },
-        {
-            "type": "",
-            "info": "The length of lane sections shall be greater than zero.",
-            "location": "Road: roadId=364",
-            "incidentSeverity": "FATAL_ERROR",
-            "wasHealed": false,
-            "messageSeverity": "FATAL_ERROR"
-        },
-        {
-            "type": "",
-            "info": "The length of lane sections shall be greater than zero.",
-            "location": "Road: roadId=523",
-            "incidentSeverity": "FATAL_ERROR",
-            "wasHealed": false,
-            "messageSeverity": "FATAL_ERROR"
-        },
-        {
-            "type": "",
-            "info": "The length of lane sections shall be greater than zero.",
-            "location": "Road: roadId=524",
-            "incidentSeverity": "FATAL_ERROR",
-            "wasHealed": false,
-            "messageSeverity": "FATAL_ERROR"
-        },
-        {
-            "type": "",
-            "info": "The length of lane sections shall be greater than zero.",
-            "location": "Road: roadId=593",
-            "incidentSeverity": "FATAL_ERROR",
-            "wasHealed": false,
-            "messageSeverity": "FATAL_ERROR"
-        },
-        {
-            "type": "",
-            "info": "The length of lane sections shall be greater than zero.",
-            "location": "Road: roadId=594",
-            "incidentSeverity": "FATAL_ERROR",
-            "wasHealed": false,
-            "messageSeverity": "FATAL_ERROR"
-        },
-        {
-            "type": "",
-            "info": "The length of lane sections shall be greater than zero.",
-            "location": "Road: roadId=721",
-            "incidentSeverity": "FATAL_ERROR",
-            "wasHealed": false,
-            "messageSeverity": "FATAL_ERROR"
-        },
-        {
-            "type": "",
-            "info": "The length of lane sections shall be greater than zero.",
-            "location": "Road: roadId=722",
-            "incidentSeverity": "FATAL_ERROR",
-            "wasHealed": false,
+            "wasFixed": false,
+            "infoValues": {
+            },
             "messageSeverity": "FATAL_ERROR"
         }
     ],

@@ -8,27 +8,33 @@
     },
     "basicDataTypePlan": [
         {
-            "type": "EmptyValueForOptionalAttribute",
-            "info": "Attribute 'name' is set with an empty value even though the attribute itself is optional.",
+            "type": "BlankStringAttributeValueForOptionalAttribute",
+            "info": "The value of the attribute 'name' is blank. The attribute is unset as it is optional.",
             "location": "Header element",
             "incidentSeverity": "WARNING",
-            "wasHealed": true,
+            "wasFixed": true,
+            "infoValues": {
+            },
             "messageSeverity": "WARNING"
         },
         {
-            "type": "UnexpectedValue",
-            "info": "Unexpected value for attribute 't'",
+            "type": "NonFinitePositiveDoubleAttributeValue",
+            "info": "The value of the attribute 't' is not finite or not positive (applied tolerance: 0.0). The attribute value is set to 0.0.",
             "location": "Road signal: roadSignalId=1, roadId=1",
             "incidentSeverity": "WARNING",
-            "wasHealed": true,
+            "wasFixed": true,
+            "infoValues": {
+            },
             "messageSeverity": "WARNING"
         },
         {
-            "type": "UnexpectedValue",
-            "info": "Unexpected value for attribute 't'",
+            "type": "NonFinitePositiveDoubleAttributeValue",
+            "info": "The value of the attribute 't' is not finite or not positive (applied tolerance: 0.0). The attribute value is set to 0.0.",
             "location": "Road signal: roadSignalId=2, roadId=1",
             "incidentSeverity": "WARNING",
-            "wasHealed": true,
+            "wasFixed": true,
+            "infoValues": {
+            },
             "messageSeverity": "WARNING"
         }
     ],

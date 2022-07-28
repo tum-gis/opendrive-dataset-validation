@@ -5,19 +5,25 @@
     },
     "modelingRulesEvaluation": [
         {
-            "type": "",
+            "type": "RightLaneBoundaryTransitionGap",
             "info": "Right boundary of lane should be connected to its successive lane (euclidean distance: 0.0021814022635536605 successor: true).",
             "location": "from LaneIdentifier(laneId=-1, laneSectionId=0, roadId=37) to LaneIdentifier(laneId=-1, laneSectionId=0, roadId=42)",
             "incidentSeverity": "WARNING",
-            "wasHealed": false,
+            "wasFixed": false,
+            "infoValues": {
+                "euclidean_distance": 0.0021814022635536605
+            },
             "messageSeverity": "WARNING"
         },
         {
-            "type": "",
+            "type": "RightLaneBoundaryTransitionGap",
             "info": "Right boundary of lane should be connected to its successive lane (euclidean distance: 0.004359324059781209 successor: true).",
             "location": "from LaneIdentifier(laneId=-1, laneSectionId=0, roadId=27) to LaneIdentifier(laneId=-1, laneSectionId=0, roadId=17)",
             "incidentSeverity": "WARNING",
-            "wasHealed": false,
+            "wasFixed": false,
+            "infoValues": {
+                "euclidean_distance": 0.004359324059781209
+            },
             "messageSeverity": "WARNING"
         }
     ]

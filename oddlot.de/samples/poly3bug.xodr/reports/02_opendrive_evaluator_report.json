@@ -14,7 +14,9 @@
             "info": "Lane numbering shall start with 1 next to the center lane, descend in negative t-direction and ascend in positive t-direction.",
             "location": "Lane section: laneSectionIndex=0, roadId=element0",
             "incidentSeverity": "FATAL_ERROR",
-            "wasHealed": true,
+            "wasFixed": true,
+            "infoValues": {
+            },
             "messageSeverity": "ERROR"
         },
         {
@@ -22,7 +24,9 @@
             "info": "Lane numbering shall start with 1 next to the center lane, descend in negative t-direction and ascend in positive t-direction.",
             "location": "Lane section: laneSectionIndex=0, roadId=element0",
             "incidentSeverity": "FATAL_ERROR",
-            "wasHealed": true,
+            "wasFixed": true,
+            "infoValues": {
+            },
             "messageSeverity": "ERROR"
         }
     ],

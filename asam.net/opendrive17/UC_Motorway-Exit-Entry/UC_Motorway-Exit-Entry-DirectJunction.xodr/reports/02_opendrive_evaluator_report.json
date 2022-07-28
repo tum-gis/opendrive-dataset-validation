@@ -8,339 +8,423 @@
     },
     "basicDataTypePlan": [
         {
-            "type": "EmptyValueForOptionalAttribute",
-            "info": "Attribute 'name' is set with an empty value even though the attribute itself is optional.",
+            "type": "BlankStringAttributeValueForOptionalAttribute",
+            "info": "The value of the attribute 'name' is blank. The attribute is unset as it is optional.",
             "location": "Header element",
             "incidentSeverity": "WARNING",
-            "wasHealed": true,
+            "wasFixed": true,
+            "infoValues": {
+            },
             "messageSeverity": "WARNING"
         },
         {
-            "type": "NonStrictlySortedList",
-            "info": "Ignoring 1 entries of attribute 'shape' which are not placed in strictly ascending order.",
+            "type": "NonStrictlyAscendingSortedList",
+            "info": "The list entries of the attribute 'shape' are not sorted in strictly ascending order. 1 elements are removed to adhere to strictly ascending order.",
             "location": "Road: roadId=19",
             "incidentSeverity": "WARNING",
-            "wasHealed": true,
+            "wasFixed": true,
+            "infoValues": {
+            },
             "messageSeverity": "WARNING"
         },
         {
-            "type": "UnexpectedValue",
-            "info": "Unexpected value for attribute 't'",
+            "type": "NonFinitePositiveDoubleAttributeValue",
+            "info": "The value of the attribute 't' is not finite or not positive (applied tolerance: 0.0). The attribute value is set to 0.0.",
             "location": "Road signal: roadSignalId=29, roadId=18",
             "incidentSeverity": "WARNING",
-            "wasHealed": true,
+            "wasFixed": true,
+            "infoValues": {
+            },
             "messageSeverity": "WARNING"
         },
         {
-            "type": "UnexpectedValue",
-            "info": "Unexpected value for attribute 't'",
+            "type": "NonFinitePositiveDoubleAttributeValue",
+            "info": "The value of the attribute 't' is not finite or not positive (applied tolerance: 0.0). The attribute value is set to 0.0.",
             "location": "Road signal: roadSignalId=49, roadId=24",
             "incidentSeverity": "WARNING",
-            "wasHealed": true,
+            "wasFixed": true,
+            "infoValues": {
+            },
             "messageSeverity": "WARNING"
         },
         {
-            "type": "UnexpectedValue",
-            "info": "Unexpected value for attribute 't'",
+            "type": "NonFinitePositiveDoubleAttributeValue",
+            "info": "The value of the attribute 't' is not finite or not positive (applied tolerance: 0.0). The attribute value is set to 0.0.",
             "location": "Road signal: roadSignalId=380, roadId=24",
             "incidentSeverity": "WARNING",
-            "wasHealed": true,
+            "wasFixed": true,
+            "infoValues": {
+            },
             "messageSeverity": "WARNING"
         },
         {
-            "type": "UnexpectedValue",
-            "info": "Unexpected value for attribute 't'",
+            "type": "NonFinitePositiveDoubleAttributeValue",
+            "info": "The value of the attribute 't' is not finite or not positive (applied tolerance: 0.0). The attribute value is set to 0.0.",
             "location": "Road signal: roadSignalId=116, roadId=26",
             "incidentSeverity": "WARNING",
-            "wasHealed": true,
+            "wasFixed": true,
+            "infoValues": {
+            },
             "messageSeverity": "WARNING"
         },
         {
-            "type": "UnexpectedValue",
-            "info": "Unexpected value for attribute 't'",
+            "type": "NonFinitePositiveDoubleAttributeValue",
+            "info": "The value of the attribute 't' is not finite or not positive (applied tolerance: 0.0). The attribute value is set to 0.0.",
             "location": "Road signal: roadSignalId=117, roadId=26",
             "incidentSeverity": "WARNING",
-            "wasHealed": true,
+            "wasFixed": true,
+            "infoValues": {
+            },
             "messageSeverity": "WARNING"
         },
         {
-            "type": "UnexpectedValue",
-            "info": "Unexpected value for attribute 't'",
+            "type": "NonFinitePositiveDoubleAttributeValue",
+            "info": "The value of the attribute 't' is not finite or not positive (applied tolerance: 0.0). The attribute value is set to 0.0.",
             "location": "Road signal: roadSignalId=53, roadId=6",
             "incidentSeverity": "WARNING",
-            "wasHealed": true,
+            "wasFixed": true,
+            "infoValues": {
+            },
             "messageSeverity": "WARNING"
         },
         {
-            "type": "UnexpectedValue",
-            "info": "Unexpected value for attribute 't'",
+            "type": "NonFinitePositiveDoubleAttributeValue",
+            "info": "The value of the attribute 't' is not finite or not positive (applied tolerance: 0.0). The attribute value is set to 0.0.",
             "location": "Road signal: roadSignalId=88, roadId=15",
             "incidentSeverity": "WARNING",
-            "wasHealed": true,
+            "wasFixed": true,
+            "infoValues": {
+            },
             "messageSeverity": "WARNING"
         },
         {
-            "type": "UnexpectedValue",
-            "info": "Unexpected value for attribute 't'",
+            "type": "NonFinitePositiveDoubleAttributeValue",
+            "info": "The value of the attribute 't' is not finite or not positive (applied tolerance: 0.0). The attribute value is set to 0.0.",
             "location": "Road signal: roadSignalId=110, roadId=19",
             "incidentSeverity": "WARNING",
-            "wasHealed": true,
+            "wasFixed": true,
+            "infoValues": {
+            },
             "messageSeverity": "WARNING"
         },
         {
-            "type": "UnexpectedValue",
-            "info": "Unexpected value for attribute 't'",
+            "type": "NonFinitePositiveDoubleAttributeValue",
+            "info": "The value of the attribute 't' is not finite or not positive (applied tolerance: 0.0). The attribute value is set to 0.0.",
             "location": "Road signal: roadSignalId=120, roadId=19",
             "incidentSeverity": "WARNING",
-            "wasHealed": true,
+            "wasFixed": true,
+            "infoValues": {
+            },
             "messageSeverity": "WARNING"
         },
         {
-            "type": "UnexpectedValue",
-            "info": "Unexpected value for attribute 't'",
+            "type": "NonFinitePositiveDoubleAttributeValue",
+            "info": "The value of the attribute 't' is not finite or not positive (applied tolerance: 0.0). The attribute value is set to 0.0.",
             "location": "Road signal: roadSignalId=109, roadId=20",
             "incidentSeverity": "WARNING",
-            "wasHealed": true,
+            "wasFixed": true,
+            "infoValues": {
+            },
             "messageSeverity": "WARNING"
         },
         {
-            "type": "UnexpectedValue",
-            "info": "Unexpected value for attribute 't'",
+            "type": "NonFinitePositiveDoubleAttributeValue",
+            "info": "The value of the attribute 't' is not finite or not positive (applied tolerance: 0.0). The attribute value is set to 0.0.",
             "location": "Road signal: roadSignalId=115, roadId=20",
             "incidentSeverity": "WARNING",
-            "wasHealed": true,
+            "wasFixed": true,
+            "infoValues": {
+            },
             "messageSeverity": "WARNING"
         },
         {
-            "type": "UnexpectedValue",
-            "info": "Unexpected value for attribute 't'",
+            "type": "NonFinitePositiveDoubleAttributeValue",
+            "info": "The value of the attribute 't' is not finite or not positive (applied tolerance: 0.0). The attribute value is set to 0.0.",
             "location": "Road signal: roadSignalId=129, roadId=22",
             "incidentSeverity": "WARNING",
-            "wasHealed": true,
+            "wasFixed": true,
+            "infoValues": {
+            },
             "messageSeverity": "WARNING"
         },
         {
-            "type": "UnexpectedValue",
-            "info": "Unexpected value for attribute 't'",
+            "type": "NonFinitePositiveDoubleAttributeValue",
+            "info": "The value of the attribute 't' is not finite or not positive (applied tolerance: 0.0). The attribute value is set to 0.0.",
             "location": "Road signal: roadSignalId=130, roadId=22",
             "incidentSeverity": "WARNING",
-            "wasHealed": true,
+            "wasFixed": true,
+            "infoValues": {
+            },
             "messageSeverity": "WARNING"
         },
         {
-            "type": "UnexpectedValue",
-            "info": "Unexpected value for attribute 't'",
+            "type": "NonFinitePositiveDoubleAttributeValue",
+            "info": "The value of the attribute 't' is not finite or not positive (applied tolerance: 0.0). The attribute value is set to 0.0.",
             "location": "Road signal: roadSignalId=112, roadId=29",
             "incidentSeverity": "WARNING",
-            "wasHealed": true,
+            "wasFixed": true,
+            "infoValues": {
+            },
             "messageSeverity": "WARNING"
         },
         {
-            "type": "UnexpectedValue",
-            "info": "Unexpected value for attribute 't'",
+            "type": "NonFinitePositiveDoubleAttributeValue",
+            "info": "The value of the attribute 't' is not finite or not positive (applied tolerance: 0.0). The attribute value is set to 0.0.",
             "location": "Road signal: roadSignalId=143, roadId=40",
             "incidentSeverity": "WARNING",
-            "wasHealed": true,
+            "wasFixed": true,
+            "infoValues": {
+            },
             "messageSeverity": "WARNING"
         },
         {
-            "type": "UnexpectedValue",
-            "info": "Unexpected value for attribute 't'",
+            "type": "NonFinitePositiveDoubleAttributeValue",
+            "info": "The value of the attribute 't' is not finite or not positive (applied tolerance: 0.0). The attribute value is set to 0.0.",
             "location": "Road signal: roadSignalId=146, roadId=34",
             "incidentSeverity": "WARNING",
-            "wasHealed": true,
+            "wasFixed": true,
+            "infoValues": {
+            },
             "messageSeverity": "WARNING"
         },
         {
-            "type": "UnexpectedValue",
-            "info": "Unexpected value for attribute 't'",
+            "type": "NonFinitePositiveDoubleAttributeValue",
+            "info": "The value of the attribute 't' is not finite or not positive (applied tolerance: 0.0). The attribute value is set to 0.0.",
             "location": "Road signal: roadSignalId=48, roadId=7",
             "incidentSeverity": "WARNING",
-            "wasHealed": true,
+            "wasFixed": true,
+            "infoValues": {
+            },
             "messageSeverity": "WARNING"
         },
         {
-            "type": "UnexpectedValue",
-            "info": "Unexpected value for attribute 't'",
+            "type": "NonFinitePositiveDoubleAttributeValue",
+            "info": "The value of the attribute 't' is not finite or not positive (applied tolerance: 0.0). The attribute value is set to 0.0.",
             "location": "Road signal: roadSignalId=38, roadId=7",
             "incidentSeverity": "WARNING",
-            "wasHealed": true,
+            "wasFixed": true,
+            "infoValues": {
+            },
             "messageSeverity": "WARNING"
         },
         {
-            "type": "UnexpectedValue",
-            "info": "Unexpected value for attribute 't'",
+            "type": "NonFinitePositiveDoubleAttributeValue",
+            "info": "The value of the attribute 't' is not finite or not positive (applied tolerance: 0.0). The attribute value is set to 0.0.",
             "location": "Road signal: roadSignalId=107, roadId=7",
             "incidentSeverity": "WARNING",
-            "wasHealed": true,
+            "wasFixed": true,
+            "infoValues": {
+            },
             "messageSeverity": "WARNING"
         },
         {
-            "type": "UnexpectedValue",
-            "info": "Unexpected value for attribute 't'",
+            "type": "NonFinitePositiveDoubleAttributeValue",
+            "info": "The value of the attribute 't' is not finite or not positive (applied tolerance: 0.0). The attribute value is set to 0.0.",
             "location": "Road signal: roadSignalId=39, roadId=7",
             "incidentSeverity": "WARNING",
-            "wasHealed": true,
+            "wasFixed": true,
+            "infoValues": {
+            },
             "messageSeverity": "WARNING"
         },
         {
-            "type": "UnexpectedValue",
-            "info": "Unexpected value for attribute 't'",
+            "type": "NonFinitePositiveDoubleAttributeValue",
+            "info": "The value of the attribute 't' is not finite or not positive (applied tolerance: 0.0). The attribute value is set to 0.0.",
             "location": "Road signal: roadSignalId=40, roadId=11",
             "incidentSeverity": "WARNING",
-            "wasHealed": true,
+            "wasFixed": true,
+            "infoValues": {
+            },
             "messageSeverity": "WARNING"
         },
         {
-            "type": "UnexpectedValue",
-            "info": "Unexpected value for attribute 't'",
+            "type": "NonFinitePositiveDoubleAttributeValue",
+            "info": "The value of the attribute 't' is not finite or not positive (applied tolerance: 0.0). The attribute value is set to 0.0.",
             "location": "Road signal: roadSignalId=41, roadId=11",
             "incidentSeverity": "WARNING",
-            "wasHealed": true,
+            "wasFixed": true,
+            "infoValues": {
+            },
             "messageSeverity": "WARNING"
         },
         {
-            "type": "UnexpectedValue",
-            "info": "Unexpected value for attribute 't'",
+            "type": "NonFinitePositiveDoubleAttributeValue",
+            "info": "The value of the attribute 't' is not finite or not positive (applied tolerance: 0.0). The attribute value is set to 0.0.",
             "location": "Road signal: roadSignalId=5, roadId=16",
             "incidentSeverity": "WARNING",
-            "wasHealed": true,
+            "wasFixed": true,
+            "infoValues": {
+            },
             "messageSeverity": "WARNING"
         },
         {
-            "type": "UnexpectedValue",
-            "info": "Unexpected value for attribute 't'",
+            "type": "NonFinitePositiveDoubleAttributeValue",
+            "info": "The value of the attribute 't' is not finite or not positive (applied tolerance: 0.0). The attribute value is set to 0.0.",
             "location": "Road signal: roadSignalId=9, roadId=16",
             "incidentSeverity": "WARNING",
-            "wasHealed": true,
+            "wasFixed": true,
+            "infoValues": {
+            },
             "messageSeverity": "WARNING"
         },
         {
-            "type": "UnexpectedValue",
-            "info": "Unexpected value for attribute 't'",
+            "type": "NonFinitePositiveDoubleAttributeValue",
+            "info": "The value of the attribute 't' is not finite or not positive (applied tolerance: 0.0). The attribute value is set to 0.0.",
             "location": "Road signal: roadSignalId=72, roadId=16",
             "incidentSeverity": "WARNING",
-            "wasHealed": true,
+            "wasFixed": true,
+            "infoValues": {
+            },
             "messageSeverity": "WARNING"
         },
         {
-            "type": "UnexpectedValue",
-            "info": "Unexpected value for attribute 't'",
+            "type": "NonFinitePositiveDoubleAttributeValue",
+            "info": "The value of the attribute 't' is not finite or not positive (applied tolerance: 0.0). The attribute value is set to 0.0.",
             "location": "Road signal: roadSignalId=17, roadId=17",
             "incidentSeverity": "WARNING",
-            "wasHealed": true,
+            "wasFixed": true,
+            "infoValues": {
+            },
             "messageSeverity": "WARNING"
         },
         {
-            "type": "UnexpectedValue",
-            "info": "Unexpected value for attribute 't'",
+            "type": "NonFinitePositiveDoubleAttributeValue",
+            "info": "The value of the attribute 't' is not finite or not positive (applied tolerance: 0.0). The attribute value is set to 0.0.",
             "location": "Road signal: roadSignalId=13, roadId=17",
             "incidentSeverity": "WARNING",
-            "wasHealed": true,
+            "wasFixed": true,
+            "infoValues": {
+            },
             "messageSeverity": "WARNING"
         },
         {
-            "type": "UnexpectedValue",
-            "info": "Unexpected value for attribute 't'",
+            "type": "NonFinitePositiveDoubleAttributeValue",
+            "info": "The value of the attribute 't' is not finite or not positive (applied tolerance: 0.0). The attribute value is set to 0.0.",
             "location": "Road signal: roadSignalId=25, roadId=21",
             "incidentSeverity": "WARNING",
-            "wasHealed": true,
+            "wasFixed": true,
+            "infoValues": {
+            },
             "messageSeverity": "WARNING"
         },
         {
-            "type": "UnexpectedValue",
-            "info": "Unexpected value for attribute 't'",
+            "type": "NonFinitePositiveDoubleAttributeValue",
+            "info": "The value of the attribute 't' is not finite or not positive (applied tolerance: 0.0). The attribute value is set to 0.0.",
             "location": "Road signal: roadSignalId=54, roadId=21",
             "incidentSeverity": "WARNING",
-            "wasHealed": true,
+            "wasFixed": true,
+            "infoValues": {
+            },
             "messageSeverity": "WARNING"
         },
         {
-            "type": "UnexpectedValue",
-            "info": "Unexpected value for attribute 't'",
+            "type": "NonFinitePositiveDoubleAttributeValue",
+            "info": "The value of the attribute 't' is not finite or not positive (applied tolerance: 0.0). The attribute value is set to 0.0.",
             "location": "Road signal: roadSignalId=42, roadId=21",
             "incidentSeverity": "WARNING",
-            "wasHealed": true,
+            "wasFixed": true,
+            "infoValues": {
+            },
             "messageSeverity": "WARNING"
         },
         {
-            "type": "UnexpectedValue",
-            "info": "Unexpected value for attribute 't'",
+            "type": "NonFinitePositiveDoubleAttributeValue",
+            "info": "The value of the attribute 't' is not finite or not positive (applied tolerance: 0.0). The attribute value is set to 0.0.",
             "location": "Road signal: roadSignalId=62, roadId=42",
             "incidentSeverity": "WARNING",
-            "wasHealed": true,
+            "wasFixed": true,
+            "infoValues": {
+            },
             "messageSeverity": "WARNING"
         },
         {
-            "type": "UnexpectedValue",
-            "info": "Unexpected value for attribute 't'",
+            "type": "NonFinitePositiveDoubleAttributeValue",
+            "info": "The value of the attribute 't' is not finite or not positive (applied tolerance: 0.0). The attribute value is set to 0.0.",
             "location": "Road signal: roadSignalId=66, roadId=42",
             "incidentSeverity": "WARNING",
-            "wasHealed": true,
+            "wasFixed": true,
+            "infoValues": {
+            },
             "messageSeverity": "WARNING"
         },
         {
-            "type": "EmptyValueForOptionalAttribute",
-            "info": "Attribute 'name' is set with an empty value even though the attribute itself is optional.",
+            "type": "BlankStringAttributeValueForOptionalAttribute",
+            "info": "The value of the attribute 'name' is blank. The attribute is unset as it is optional.",
             "location": "Junction: junctionId=1",
             "incidentSeverity": "WARNING",
-            "wasHealed": true,
+            "wasFixed": true,
+            "infoValues": {
+            },
             "messageSeverity": "WARNING"
         },
         {
-            "type": "EmptyValueForOptionalAttribute",
-            "info": "Attribute 'name' is set with an empty value even though the attribute itself is optional.",
+            "type": "BlankStringAttributeValueForOptionalAttribute",
+            "info": "The value of the attribute 'name' is blank. The attribute is unset as it is optional.",
             "location": "Junction: junctionId=2",
             "incidentSeverity": "WARNING",
-            "wasHealed": true,
+            "wasFixed": true,
+            "infoValues": {
+            },
             "messageSeverity": "WARNING"
         },
         {
-            "type": "EmptyValueForOptionalAttribute",
-            "info": "Attribute 'name' is set with an empty value even though the attribute itself is optional.",
+            "type": "BlankStringAttributeValueForOptionalAttribute",
+            "info": "The value of the attribute 'name' is blank. The attribute is unset as it is optional.",
             "location": "Junction: junctionId=3",
             "incidentSeverity": "WARNING",
-            "wasHealed": true,
+            "wasFixed": true,
+            "infoValues": {
+            },
             "messageSeverity": "WARNING"
         },
         {
-            "type": "EmptyValueForOptionalAttribute",
-            "info": "Attribute 'name' is set with an empty value even though the attribute itself is optional.",
+            "type": "BlankStringAttributeValueForOptionalAttribute",
+            "info": "The value of the attribute 'name' is blank. The attribute is unset as it is optional.",
             "location": "Junction: junctionId=5",
             "incidentSeverity": "WARNING",
-            "wasHealed": true,
+            "wasFixed": true,
+            "infoValues": {
+            },
             "messageSeverity": "WARNING"
         },
         {
-            "type": "EmptyValueForOptionalAttribute",
-            "info": "Attribute 'name' is set with an empty value even though the attribute itself is optional.",
+            "type": "BlankStringAttributeValueForOptionalAttribute",
+            "info": "The value of the attribute 'name' is blank. The attribute is unset as it is optional.",
             "location": "Junction: junctionId=6",
             "incidentSeverity": "WARNING",
-            "wasHealed": true,
+            "wasFixed": true,
+            "infoValues": {
+            },
             "messageSeverity": "WARNING"
         },
         {
-            "type": "EmptyValueForOptionalAttribute",
-            "info": "Attribute 'name' is set with an empty value even though the attribute itself is optional.",
+            "type": "BlankStringAttributeValueForOptionalAttribute",
+            "info": "The value of the attribute 'name' is blank. The attribute is unset as it is optional.",
             "location": "Junction: junctionId=7",
             "incidentSeverity": "WARNING",
-            "wasHealed": true,
+            "wasFixed": true,
+            "infoValues": {
+            },
             "messageSeverity": "WARNING"
         },
         {
-            "type": "EmptyValueForOptionalAttribute",
-            "info": "Attribute 'name' is set with an empty value even though the attribute itself is optional.",
+            "type": "BlankStringAttributeValueForOptionalAttribute",
+            "info": "The value of the attribute 'name' is blank. The attribute is unset as it is optional.",
             "location": "Junction: junctionId=8",
             "incidentSeverity": "WARNING",
-            "wasHealed": true,
+            "wasFixed": true,
+            "infoValues": {
+            },
             "messageSeverity": "WARNING"
         },
         {
-            "type": "EmptyValueForOptionalAttribute",
-            "info": "Attribute 'name' is set with an empty value even though the attribute itself is optional.",
+            "type": "BlankStringAttributeValueForOptionalAttribute",
+            "info": "The value of the attribute 'name' is blank. The attribute is unset as it is optional.",
             "location": "Junction: junctionId=17",
             "incidentSeverity": "WARNING",
-            "wasHealed": true,
+            "wasFixed": true,
+            "infoValues": {
+            },
             "messageSeverity": "WARNING"
         }
     ],
@@ -350,7 +434,9 @@
             "info": "Junctions of type default should only be used when at least three roads are coming in (currently incoming road ids: [3, 42])",
             "location": "Junction: junctionId=1",
             "incidentSeverity": "WARNING",
-            "wasHealed": false,
+            "wasFixed": false,
+            "infoValues": {
+            },
             "messageSeverity": "WARNING"
         },
         {
@@ -358,7 +444,9 @@
             "info": "Junctions of type default should only be used when at least three roads are coming in (currently incoming road ids: [4])",
             "location": "Junction: junctionId=2",
             "incidentSeverity": "WARNING",
-            "wasHealed": false,
+            "wasFixed": false,
+            "infoValues": {
+            },
             "messageSeverity": "WARNING"
         },
         {
@@ -366,7 +454,9 @@
             "info": "Junctions of type default should only be used when at least three roads are coming in (currently incoming road ids: [31, 17])",
             "location": "Junction: junctionId=5",
             "incidentSeverity": "WARNING",
-            "wasHealed": false,
+            "wasFixed": false,
+            "infoValues": {
+            },
             "messageSeverity": "WARNING"
         },
         {
@@ -374,7 +464,9 @@
             "info": "Junctions of type default should only be used when at least three roads are coming in (currently incoming road ids: [32])",
             "location": "Junction: junctionId=6",
             "incidentSeverity": "WARNING",
-            "wasHealed": false,
+            "wasFixed": false,
+            "infoValues": {
+            },
             "messageSeverity": "WARNING"
         },
         {
@@ -382,7 +474,9 @@
             "info": "Junctions of type default should only be used when at least three roads are coming in (currently incoming road ids: [40, 5])",
             "location": "Junction: junctionId=8",
             "incidentSeverity": "WARNING",
-            "wasHealed": false,
+            "wasFixed": false,
+            "infoValues": {
+            },
             "messageSeverity": "WARNING"
         },
         {
@@ -390,7 +484,9 @@
             "info": "Junctions of type default should only be used when at least three roads are coming in (currently incoming road ids: [34, 33])",
             "location": "Junction: junctionId=17",
             "incidentSeverity": "WARNING",
-            "wasHealed": false,
+            "wasFixed": false,
+            "infoValues": {
+            },
             "messageSeverity": "WARNING"
         }
     ],
@@ -400,7 +496,9 @@
             "info": "Junction and junction type is not supported, since only junctions are supported that have connections with an incomingRoad and a connectionRoad.",
             "location": "Junction: junctionId=1",
             "incidentSeverity": "FATAL_ERROR",
-            "wasHealed": false,
+            "wasFixed": false,
+            "infoValues": {
+            },
             "messageSeverity": "FATAL_ERROR"
         },
         {
@@ -408,7 +506,9 @@
             "info": "Junction and junction type is not supported, since only junctions are supported that have connections with an incomingRoad and a connectionRoad.",
             "location": "Junction: junctionId=2",
             "incidentSeverity": "FATAL_ERROR",
-            "wasHealed": false,
+            "wasFixed": false,
+            "infoValues": {
+            },
             "messageSeverity": "FATAL_ERROR"
         },
         {
@@ -416,7 +516,9 @@
             "info": "Junction and junction type is not supported, since only junctions are supported that have connections with an incomingRoad and a connectionRoad.",
             "location": "Junction: junctionId=5",
             "incidentSeverity": "FATAL_ERROR",
-            "wasHealed": false,
+            "wasFixed": false,
+            "infoValues": {
+            },
             "messageSeverity": "FATAL_ERROR"
         },
         {
@@ -424,7 +526,9 @@
             "info": "Junction and junction type is not supported, since only junctions are supported that have connections with an incomingRoad and a connectionRoad.",
             "location": "Junction: junctionId=6",
             "incidentSeverity": "FATAL_ERROR",
-            "wasHealed": false,
+            "wasFixed": false,
+            "infoValues": {
+            },
             "messageSeverity": "FATAL_ERROR"
         }
     ]

@@ -14,7 +14,9 @@
             "info": "Coordinate reference system is not known.",
             "location": "Header element",
             "incidentSeverity": "WARNING",
-            "wasHealed": false,
+            "wasFixed": false,
+            "infoValues": {
+            },
             "messageSeverity": "WARNING"
         }
     ]

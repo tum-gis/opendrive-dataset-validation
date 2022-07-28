@@ -12,7 +12,9 @@
             "info": "Document does not contain any roads.",
             "location": "",
             "incidentSeverity": "FATAL_ERROR",
-            "wasHealed": false,
+            "wasFixed": false,
+            "infoValues": {
+            },
             "messageSeverity": "FATAL_ERROR"
         }
     ],

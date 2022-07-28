@@ -8,19 +8,23 @@
     },
     "basicDataTypePlan": [
         {
-            "type": "EmptyValueForOptionalAttribute",
-            "info": "Attribute 'name' is set with an empty value even though the attribute itself is optional.",
+            "type": "BlankStringAttributeValueForOptionalAttribute",
+            "info": "The value of the attribute 'name' is blank. The attribute is unset as it is optional.",
             "location": "Header element",
             "incidentSeverity": "WARNING",
-            "wasHealed": true,
+            "wasFixed": true,
+            "infoValues": {
+            },
             "messageSeverity": "WARNING"
         },
         {
-            "type": "NonStrictlySortedList",
-            "info": "Ignoring 1 entries of attribute 'shape' which are not placed in strictly ascending order.",
+            "type": "NonStrictlyAscendingSortedList",
+            "info": "The list entries of the attribute 'shape' are not sorted in strictly ascending order. 1 elements are removed to adhere to strictly ascending order.",
             "location": "Road: roadId=1",
             "incidentSeverity": "WARNING",
-            "wasHealed": true,
+            "wasFixed": true,
+            "infoValues": {
+            },
             "messageSeverity": "WARNING"
         }
     ],

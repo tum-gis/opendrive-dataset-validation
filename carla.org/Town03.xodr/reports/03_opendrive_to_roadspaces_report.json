@@ -14,7 +14,9 @@
             "info": "Coordinate reference system is not known.",
             "location": "Header element",
             "incidentSeverity": "WARNING",
-            "wasHealed": false,
+            "wasFixed": false,
+            "infoValues": {
+            },
             "messageSeverity": "WARNING"
         },
         {
@@ -22,7 +24,9 @@
             "info": "Length of road marking is zero (or below tolerance threshold).",
             "location": "Lane road mark: laneRoadMarkIndex=0, laneId=-5, laneSectionIndex=1, roadId=686",
             "incidentSeverity": "WARNING",
-            "wasHealed": true,
+            "wasFixed": true,
+            "infoValues": {
+            },
             "messageSeverity": "WARNING"
         }
     ]

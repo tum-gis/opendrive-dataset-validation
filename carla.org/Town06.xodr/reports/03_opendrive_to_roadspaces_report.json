@@ -14,7 +14,9 @@
             "info": "Coordinate reference system is not known.",
             "location": "Header element",
             "incidentSeverity": "WARNING",
-            "wasHealed": false,
+            "wasFixed": false,
+            "infoValues": {
+            },
             "messageSeverity": "WARNING"
         },
         {
@@ -22,7 +24,9 @@
             "info": "Road mark entries have been removed, as the sOffset is not located within the local curve position domain (Range([0.0..0.5134001791565197])) of the lane section.",
             "location": "Lane road mark: laneRoadMarkIndex=0, laneId=-3, laneSectionIndex=0, roadId=243",
             "incidentSeverity": "WARNING",
-            "wasHealed": true,
+            "wasFixed": true,
+            "infoValues": {
+            },
             "messageSeverity": "WARNING"
         },
         {
@@ -30,7 +34,9 @@
             "info": "Road mark entries have been removed, as the sOffset is not located within the local curve position domain (Range([0.0..0.5134001791565197])) of the lane section.",
             "location": "Lane road mark: laneRoadMarkIndex=0, laneId=-3, laneSectionIndex=0, roadId=252",
             "incidentSeverity": "WARNING",
-            "wasHealed": true,
+            "wasFixed": true,
+            "infoValues": {
+            },
             "messageSeverity": "WARNING"
         },
         {
@@ -38,7 +44,9 @@
             "info": "Road mark entries have been removed, as the sOffset is not located within the local curve position domain (Range([0.0..2.7737166021779558E-5])) of the lane section.",
             "location": "Lane road mark: laneRoadMarkIndex=0, laneId=6, laneSectionIndex=0, roadId=379",
             "incidentSeverity": "WARNING",
-            "wasHealed": true,
+            "wasFixed": true,
+            "infoValues": {
+            },
             "messageSeverity": "WARNING"
         }
     ]

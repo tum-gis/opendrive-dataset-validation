@@ -14,7 +14,9 @@
             "info": "Coordinate reference system is not known.",
             "location": "Header element",
             "incidentSeverity": "WARNING",
-            "wasHealed": false,
+            "wasFixed": false,
+            "infoValues": {
+            },
             "messageSeverity": "WARNING"
         },
         {
@@ -22,7 +24,9 @@
             "info": "Ignoring at least one vertex due to linear redundancy.",
             "location": "Road object outline: outlineId=0, roadObjectId=4000094, roadId=1111000",
             "incidentSeverity": "WARNING",
-            "wasHealed": true,
+            "wasFixed": true,
+            "infoValues": {
+            },
             "messageSeverity": "WARNING"
         }
     ]

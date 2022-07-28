@@ -8,11 +8,13 @@
     },
     "basicDataTypePlan": [
         {
-            "type": "EmptyValueForOptionalAttribute",
-            "info": "Attribute 'name' is set with an empty value even though the attribute itself is optional.",
+            "type": "BlankStringAttributeValueForOptionalAttribute",
+            "info": "The value of the attribute 'name' is blank. The attribute is unset as it is optional.",
             "location": "Header element",
             "incidentSeverity": "WARNING",
-            "wasHealed": true,
+            "wasFixed": true,
+            "infoValues": {
+            },
             "messageSeverity": "WARNING"
         }
     ],
@@ -22,7 +24,9 @@
             "info": "Geometry elements contain a gap from Vector2D(x=-4.898287545106587, y=9.689114665708544) to Vector2D(x=-5.055834468438462, y=9.626035885564079) with an euclidean distance of 0.16970552600270117 above the warning tolerance of 0.001.",
             "location": "Road: roadId=1",
             "incidentSeverity": "WARNING",
-            "wasHealed": false,
+            "wasFixed": false,
+            "infoValues": {
+            },
             "messageSeverity": "WARNING"
         },
         {
@@ -30,7 +34,9 @@
             "info": "Geometry elements contain a gap from Vector2D(x=-4.898287545106587, y=9.689114665708544) to Vector2D(x=-5.055834468438462, y=9.626035885564079) with an angle difference of 0.015745541643173266 above the warning tolerance of 0.001.",
             "location": "Road: roadId=1",
             "incidentSeverity": "WARNING",
-            "wasHealed": false,
+            "wasFixed": false,
+            "infoValues": {
+            },
             "messageSeverity": "WARNING"
         },
         {
@@ -38,7 +44,9 @@
             "info": "Geometry elements contain a gap from Vector2D(x=24.149938120084528, y=12.14719713154896) to Vector2D(x=22.638821023804148, y=12.19375228881836) with an euclidean distance of 1.511834072026168 above the tolerance of 1.0.",
             "location": "Road: roadId=1",
             "incidentSeverity": "FATAL_ERROR",
-            "wasHealed": false,
+            "wasFixed": false,
+            "infoValues": {
+            },
             "messageSeverity": "FATAL_ERROR"
         },
         {
@@ -46,7 +54,9 @@
             "info": "Geometry elements contain a gap from Vector2D(x=24.149938120084528, y=12.14719713154896) to Vector2D(x=22.638821023804148, y=12.19375228881836) with an angle difference of 0.022729119640629847 above the warning tolerance of 0.001.",
             "location": "Road: roadId=1",
             "incidentSeverity": "WARNING",
-            "wasHealed": false,
+            "wasFixed": false,
+            "infoValues": {
+            },
             "messageSeverity": "WARNING"
         },
         {
@@ -54,7 +64,9 @@
             "info": "Geometry elements contain a gap from Vector2D(x=49.664530355835424, y=7.96656026668019) to Vector2D(x=49.41643494345594, y=7.975361054900612) with an euclidean distance of 0.24825146025159087 above the warning tolerance of 0.001.",
             "location": "Road: roadId=1",
             "incidentSeverity": "WARNING",
-            "wasHealed": false,
+            "wasFixed": false,
+            "infoValues": {
+            },
             "messageSeverity": "WARNING"
         },
         {
@@ -62,7 +74,9 @@
             "info": "Geometry elements contain a gap from Vector2D(x=49.664530355835424, y=7.96656026668019) to Vector2D(x=49.41643494345594, y=7.975361054900612) with an angle difference of 0.006728397455651347 above the warning tolerance of 0.001.",
             "location": "Road: roadId=1",
             "incidentSeverity": "WARNING",
-            "wasHealed": false,
+            "wasFixed": false,
+            "infoValues": {
+            },
             "messageSeverity": "WARNING"
         }
     ],
