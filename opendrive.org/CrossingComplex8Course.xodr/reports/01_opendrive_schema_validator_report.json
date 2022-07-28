@@ -1,0 +1,571 @@
+{
+    "opendriveVersion": "V_1_2",
+    "validationMessages": [
+        {
+            "description": "cvc-complex-type.3.2.2: Attribute 'laneChange' is not allowed to appear in element 'roadMark'.",
+            "severity": "FATAL_ERROR",
+            "lineNumber": 40,
+            "columnNumber": 166
+        },
+        {
+            "description": "cvc-complex-type.3.2.2: Attribute 'laneChange' is not allowed to appear in element 'roadMark'.",
+            "severity": "FATAL_ERROR",
+            "lineNumber": 41,
+            "columnNumber": 165
+        },
+        {
+            "description": "cvc-complex-type.3.2.2: Attribute 'orientation' is not allowed to appear in element 'signalReference'.",
+            "severity": "FATAL_ERROR",
+            "lineNumber": 87,
+            "columnNumber": 112
+        },
+        {
+            "description": "cvc-complex-type.3.2.2: Attribute 'orientation' is not allowed to appear in element 'signalReference'.",
+            "severity": "FATAL_ERROR",
+            "lineNumber": 88,
+            "columnNumber": 112
+        },
+        {
+            "description": "cvc-complex-type.3.2.2: Attribute 'orientation' is not allowed to appear in element 'signalReference'.",
+            "severity": "FATAL_ERROR",
+            "lineNumber": 89,
+            "columnNumber": 112
+        },
+        {
+            "description": "cvc-complex-type.3.2.2: Attribute 'orientation' is not allowed to appear in element 'signalReference'.",
+            "severity": "FATAL_ERROR",
+            "lineNumber": 90,
+            "columnNumber": 112
+        },
+        {
+            "description": "cvc-complex-type.3.2.2: Attribute 'laneChange' is not allowed to appear in element 'roadMark'.",
+            "severity": "FATAL_ERROR",
+            "lineNumber": 156,
+            "columnNumber": 167
+        },
+        {
+            "description": "cvc-complex-type.3.2.2: Attribute 'laneChange' is not allowed to appear in element 'roadMark'.",
+            "severity": "FATAL_ERROR",
+            "lineNumber": 157,
+            "columnNumber": 166
+        },
+        {
+            "description": "cvc-complex-type.3.2.2: Attribute 'laneChange' is not allowed to appear in element 'roadMark'.",
+            "severity": "FATAL_ERROR",
+            "lineNumber": 239,
+            "columnNumber": 166
+        },
+        {
+            "description": "cvc-complex-type.3.2.2: Attribute 'laneChange' is not allowed to appear in element 'roadMark'.",
+            "severity": "FATAL_ERROR",
+            "lineNumber": 240,
+            "columnNumber": 165
+        },
+        {
+            "description": "cvc-complex-type.3.2.2: Attribute 'laneChange' is not allowed to appear in element 'roadMark'.",
+            "severity": "FATAL_ERROR",
+            "lineNumber": 241,
+            "columnNumber": 164
+        },
+        {
+            "description": "cvc-complex-type.3.2.2: Attribute 'laneChange' is not allowed to appear in element 'roadMark'.",
+            "severity": "FATAL_ERROR",
+            "lineNumber": 242,
+            "columnNumber": 165
+        },
+        {
+            "description": "cvc-complex-type.3.2.2: Attribute 'orientation' is not allowed to appear in element 'signalReference'.",
+            "severity": "FATAL_ERROR",
+            "lineNumber": 277,
+            "columnNumber": 112
+        },
+        {
+            "description": "cvc-complex-type.3.2.2: Attribute 'orientation' is not allowed to appear in element 'signalReference'.",
+            "severity": "FATAL_ERROR",
+            "lineNumber": 278,
+            "columnNumber": 112
+        },
+        {
+            "description": "cvc-complex-type.3.2.2: Attribute 'orientation' is not allowed to appear in element 'signalReference'.",
+            "severity": "FATAL_ERROR",
+            "lineNumber": 279,
+            "columnNumber": 112
+        },
+        {
+            "description": "cvc-complex-type.3.2.2: Attribute 'orientation' is not allowed to appear in element 'signalReference'.",
+            "severity": "FATAL_ERROR",
+            "lineNumber": 280,
+            "columnNumber": 112
+        },
+        {
+            "description": "cvc-complex-type.3.2.2: Attribute 'laneChange' is not allowed to appear in element 'roadMark'.",
+            "severity": "FATAL_ERROR",
+            "lineNumber": 310,
+            "columnNumber": 165
+        },
+        {
+            "description": "cvc-complex-type.3.2.2: Attribute 'laneChange' is not allowed to appear in element 'roadMark'.",
+            "severity": "FATAL_ERROR",
+            "lineNumber": 311,
+            "columnNumber": 167
+        },
+        {
+            "description": "cvc-complex-type.3.2.2: Attribute 'laneChange' is not allowed to appear in element 'roadMark'.",
+            "severity": "FATAL_ERROR",
+            "lineNumber": 312,
+            "columnNumber": 165
+        },
+        {
+            "description": "cvc-complex-type.3.2.2: Attribute 'laneChange' is not allowed to appear in element 'roadMark'.",
+            "severity": "FATAL_ERROR",
+            "lineNumber": 377,
+            "columnNumber": 165
+        },
+        {
+            "description": "cvc-complex-type.3.2.2: Attribute 'laneChange' is not allowed to appear in element 'roadMark'.",
+            "severity": "FATAL_ERROR",
+            "lineNumber": 378,
+            "columnNumber": 167
+        },
+        {
+            "description": "cvc-complex-type.3.2.2: Attribute 'laneChange' is not allowed to appear in element 'roadMark'.",
+            "severity": "FATAL_ERROR",
+            "lineNumber": 379,
+            "columnNumber": 165
+        },
+        {
+            "description": "cvc-complex-type.3.2.2: Attribute 'laneChange' is not allowed to appear in element 'roadMark'.",
+            "severity": "FATAL_ERROR",
+            "lineNumber": 466,
+            "columnNumber": 165
+        },
+        {
+            "description": "cvc-complex-type.3.2.2: Attribute 'orientation' is not allowed to appear in element 'signalReference'.",
+            "severity": "FATAL_ERROR",
+            "lineNumber": 511,
+            "columnNumber": 112
+        },
+        {
+            "description": "cvc-complex-type.3.2.2: Attribute 'orientation' is not allowed to appear in element 'signalReference'.",
+            "severity": "FATAL_ERROR",
+            "lineNumber": 512,
+            "columnNumber": 111
+        },
+        {
+            "description": "cvc-complex-type.3.2.2: Attribute 'orientation' is not allowed to appear in element 'signalReference'.",
+            "severity": "FATAL_ERROR",
+            "lineNumber": 515,
+            "columnNumber": 112
+        },
+        {
+            "description": "cvc-complex-type.3.2.2: Attribute 'orientation' is not allowed to appear in element 'signalReference'.",
+            "severity": "FATAL_ERROR",
+            "lineNumber": 516,
+            "columnNumber": 112
+        },
+        {
+            "description": "cvc-complex-type.3.2.2: Attribute 'laneChange' is not allowed to appear in element 'roadMark'.",
+            "severity": "FATAL_ERROR",
+            "lineNumber": 562,
+            "columnNumber": 165
+        },
+        {
+            "description": "cvc-complex-type.3.2.2: Attribute 'laneChange' is not allowed to appear in element 'roadMark'.",
+            "severity": "FATAL_ERROR",
+            "lineNumber": 563,
+            "columnNumber": 164
+        },
+        {
+            "description": "cvc-complex-type.3.2.2: Attribute 'laneChange' is not allowed to appear in element 'roadMark'.",
+            "severity": "FATAL_ERROR",
+            "lineNumber": 564,
+            "columnNumber": 165
+        },
+        {
+            "description": "cvc-complex-type.3.2.2: Attribute 'orientation' is not allowed to appear in element 'signalReference'.",
+            "severity": "FATAL_ERROR",
+            "lineNumber": 599,
+            "columnNumber": 112
+        },
+        {
+            "description": "cvc-complex-type.3.2.2: Attribute 'orientation' is not allowed to appear in element 'signalReference'.",
+            "severity": "FATAL_ERROR",
+            "lineNumber": 600,
+            "columnNumber": 112
+        },
+        {
+            "description": "cvc-complex-type.3.2.2: Attribute 'orientation' is not allowed to appear in element 'signalReference'.",
+            "severity": "FATAL_ERROR",
+            "lineNumber": 601,
+            "columnNumber": 112
+        },
+        {
+            "description": "cvc-complex-type.3.2.2: Attribute 'orientation' is not allowed to appear in element 'signalReference'.",
+            "severity": "FATAL_ERROR",
+            "lineNumber": 602,
+            "columnNumber": 112
+        },
+        {
+            "description": "cvc-complex-type.3.2.2: Attribute 'laneChange' is not allowed to appear in element 'roadMark'.",
+            "severity": "FATAL_ERROR",
+            "lineNumber": 642,
+            "columnNumber": 165
+        },
+        {
+            "description": "cvc-complex-type.3.2.2: Attribute 'orientation' is not allowed to appear in element 'signalReference'.",
+            "severity": "FATAL_ERROR",
+            "lineNumber": 687,
+            "columnNumber": 112
+        },
+        {
+            "description": "cvc-complex-type.3.2.2: Attribute 'orientation' is not allowed to appear in element 'signalReference'.",
+            "severity": "FATAL_ERROR",
+            "lineNumber": 688,
+            "columnNumber": 112
+        },
+        {
+            "description": "cvc-complex-type.3.2.2: Attribute 'orientation' is not allowed to appear in element 'signalReference'.",
+            "severity": "FATAL_ERROR",
+            "lineNumber": 689,
+            "columnNumber": 112
+        },
+        {
+            "description": "cvc-complex-type.3.2.2: Attribute 'orientation' is not allowed to appear in element 'signalReference'.",
+            "severity": "FATAL_ERROR",
+            "lineNumber": 690,
+            "columnNumber": 112
+        },
+        {
+            "description": "cvc-complex-type.3.2.2: Attribute 'laneChange' is not allowed to appear in element 'roadMark'.",
+            "severity": "FATAL_ERROR",
+            "lineNumber": 727,
+            "columnNumber": 166
+        },
+        {
+            "description": "cvc-complex-type.3.2.2: Attribute 'laneChange' is not allowed to appear in element 'roadMark'.",
+            "severity": "FATAL_ERROR",
+            "lineNumber": 728,
+            "columnNumber": 165
+        },
+        {
+            "description": "cvc-complex-type.3.2.2: Attribute 'orientation' is not allowed to appear in element 'signalReference'.",
+            "severity": "FATAL_ERROR",
+            "lineNumber": 774,
+            "columnNumber": 112
+        },
+        {
+            "description": "cvc-complex-type.3.2.2: Attribute 'orientation' is not allowed to appear in element 'signalReference'.",
+            "severity": "FATAL_ERROR",
+            "lineNumber": 775,
+            "columnNumber": 112
+        },
+        {
+            "description": "cvc-complex-type.3.2.2: Attribute 'orientation' is not allowed to appear in element 'signalReference'.",
+            "severity": "FATAL_ERROR",
+            "lineNumber": 776,
+            "columnNumber": 112
+        },
+        {
+            "description": "cvc-complex-type.3.2.2: Attribute 'orientation' is not allowed to appear in element 'signalReference'.",
+            "severity": "FATAL_ERROR",
+            "lineNumber": 777,
+            "columnNumber": 112
+        },
+        {
+            "description": "cvc-complex-type.3.2.2: Attribute 'laneChange' is not allowed to appear in element 'roadMark'.",
+            "severity": "FATAL_ERROR",
+            "lineNumber": 815,
+            "columnNumber": 165
+        },
+        {
+            "description": "cvc-complex-type.3.2.2: Attribute 'laneChange' is not allowed to appear in element 'roadMark'.",
+            "severity": "FATAL_ERROR",
+            "lineNumber": 816,
+            "columnNumber": 164
+        },
+        {
+            "description": "cvc-complex-type.3.2.2: Attribute 'laneChange' is not allowed to appear in element 'roadMark'.",
+            "severity": "FATAL_ERROR",
+            "lineNumber": 817,
+            "columnNumber": 165
+        },
+        {
+            "description": "cvc-complex-type.3.2.2: Attribute 'orientation' is not allowed to appear in element 'signalReference'.",
+            "severity": "FATAL_ERROR",
+            "lineNumber": 853,
+            "columnNumber": 112
+        },
+        {
+            "description": "cvc-complex-type.3.2.2: Attribute 'orientation' is not allowed to appear in element 'signalReference'.",
+            "severity": "FATAL_ERROR",
+            "lineNumber": 854,
+            "columnNumber": 112
+        },
+        {
+            "description": "cvc-complex-type.3.2.2: Attribute 'orientation' is not allowed to appear in element 'signalReference'.",
+            "severity": "FATAL_ERROR",
+            "lineNumber": 855,
+            "columnNumber": 112
+        },
+        {
+            "description": "cvc-complex-type.3.2.2: Attribute 'orientation' is not allowed to appear in element 'signalReference'.",
+            "severity": "FATAL_ERROR",
+            "lineNumber": 856,
+            "columnNumber": 112
+        },
+        {
+            "description": "cvc-complex-type.3.2.2: Attribute 'laneChange' is not allowed to appear in element 'roadMark'.",
+            "severity": "FATAL_ERROR",
+            "lineNumber": 893,
+            "columnNumber": 166
+        },
+        {
+            "description": "cvc-complex-type.3.2.2: Attribute 'laneChange' is not allowed to appear in element 'roadMark'.",
+            "severity": "FATAL_ERROR",
+            "lineNumber": 894,
+            "columnNumber": 165
+        },
+        {
+            "description": "cvc-complex-type.3.2.2: Attribute 'laneChange' is not allowed to appear in element 'roadMark'.",
+            "severity": "FATAL_ERROR",
+            "lineNumber": 996,
+            "columnNumber": 166
+        },
+        {
+            "description": "cvc-complex-type.3.2.2: Attribute 'laneChange' is not allowed to appear in element 'roadMark'.",
+            "severity": "FATAL_ERROR",
+            "lineNumber": 997,
+            "columnNumber": 167
+        },
+        {
+            "description": "cvc-complex-type.3.2.2: Attribute 'laneChange' is not allowed to appear in element 'roadMark'.",
+            "severity": "FATAL_ERROR",
+            "lineNumber": 1088,
+            "columnNumber": 165
+        },
+        {
+            "description": "cvc-complex-type.3.2.2: Attribute 'laneChange' is not allowed to appear in element 'roadMark'.",
+            "severity": "FATAL_ERROR",
+            "lineNumber": 1089,
+            "columnNumber": 164
+        },
+        {
+            "description": "cvc-complex-type.3.2.2: Attribute 'laneChange' is not allowed to appear in element 'roadMark'.",
+            "severity": "FATAL_ERROR",
+            "lineNumber": 1090,
+            "columnNumber": 165
+        },
+        {
+            "description": "cvc-complex-type.3.2.2: Attribute 'orientation' is not allowed to appear in element 'signalReference'.",
+            "severity": "FATAL_ERROR",
+            "lineNumber": 1125,
+            "columnNumber": 112
+        },
+        {
+            "description": "cvc-complex-type.3.2.2: Attribute 'orientation' is not allowed to appear in element 'signalReference'.",
+            "severity": "FATAL_ERROR",
+            "lineNumber": 1126,
+            "columnNumber": 111
+        },
+        {
+            "description": "cvc-complex-type.3.2.2: Attribute 'orientation' is not allowed to appear in element 'signalReference'.",
+            "severity": "FATAL_ERROR",
+            "lineNumber": 1129,
+            "columnNumber": 112
+        },
+        {
+            "description": "cvc-complex-type.3.2.2: Attribute 'orientation' is not allowed to appear in element 'signalReference'.",
+            "severity": "FATAL_ERROR",
+            "lineNumber": 1130,
+            "columnNumber": 112
+        },
+        {
+            "description": "cvc-complex-type.3.2.2: Attribute 'laneChange' is not allowed to appear in element 'roadMark'.",
+            "severity": "FATAL_ERROR",
+            "lineNumber": 1167,
+            "columnNumber": 166
+        },
+        {
+            "description": "cvc-complex-type.3.2.2: Attribute 'laneChange' is not allowed to appear in element 'roadMark'.",
+            "severity": "FATAL_ERROR",
+            "lineNumber": 1168,
+            "columnNumber": 165
+        },
+        {
+            "description": "cvc-complex-type.3.2.2: Attribute 'laneChange' is not allowed to appear in element 'roadMark'.",
+            "severity": "FATAL_ERROR",
+            "lineNumber": 1169,
+            "columnNumber": 164
+        },
+        {
+            "description": "cvc-complex-type.3.2.2: Attribute 'laneChange' is not allowed to appear in element 'roadMark'.",
+            "severity": "FATAL_ERROR",
+            "lineNumber": 1170,
+            "columnNumber": 165
+        },
+        {
+            "description": "cvc-complex-type.2.4.a: Invalid content was found starting with element 'laneOffset'. One of '{laneSection}' is expected.",
+            "severity": "FATAL_ERROR",
+            "lineNumber": 1234,
+            "columnNumber": 162
+        },
+        {
+            "description": "unexpected element (uri:\"\", local:\"laneOffset\"). Expected elements are <{}laneSection>",
+            "severity": "ERROR",
+            "lineNumber": 1234,
+            "columnNumber": 162
+        },
+        {
+            "description": "unexpected element (uri:\"\", local:\"laneOffset\"). Expected elements are <{}laneSection>",
+            "severity": "ERROR",
+            "lineNumber": 1235,
+            "columnNumber": 163
+        },
+        {
+            "description": "unexpected element (uri:\"\", local:\"laneOffset\"). Expected elements are <{}laneSection>",
+            "severity": "ERROR",
+            "lineNumber": 1236,
+            "columnNumber": 161
+        },
+        {
+            "description": "cvc-complex-type.3.2.2: Attribute 'laneChange' is not allowed to appear in element 'roadMark'.",
+            "severity": "FATAL_ERROR",
+            "lineNumber": 1315,
+            "columnNumber": 166
+        },
+        {
+            "description": "cvc-complex-type.3.2.2: Attribute 'laneChange' is not allowed to appear in element 'roadMark'.",
+            "severity": "FATAL_ERROR",
+            "lineNumber": 1316,
+            "columnNumber": 167
+        },
+        {
+            "description": "cvc-complex-type.2.4.a: Invalid content was found starting with element 'laneOffset'. One of '{laneSection}' is expected.",
+            "severity": "FATAL_ERROR",
+            "lineNumber": 1382,
+            "columnNumber": 162
+        },
+        {
+            "description": "unexpected element (uri:\"\", local:\"laneOffset\"). Expected elements are <{}laneSection>",
+            "severity": "ERROR",
+            "lineNumber": 1382,
+            "columnNumber": 162
+        },
+        {
+            "description": "unexpected element (uri:\"\", local:\"laneOffset\"). Expected elements are <{}laneSection>",
+            "severity": "ERROR",
+            "lineNumber": 1383,
+            "columnNumber": 163
+        },
+        {
+            "description": "unexpected element (uri:\"\", local:\"laneOffset\"). Expected elements are <{}laneSection>",
+            "severity": "ERROR",
+            "lineNumber": 1384,
+            "columnNumber": 161
+        },
+        {
+            "description": "cvc-complex-type.3.2.2: Attribute 'laneChange' is not allowed to appear in element 'roadMark'.",
+            "severity": "FATAL_ERROR",
+            "lineNumber": 1463,
+            "columnNumber": 166
+        },
+        {
+            "description": "cvc-complex-type.3.2.2: Attribute 'laneChange' is not allowed to appear in element 'roadMark'.",
+            "severity": "FATAL_ERROR",
+            "lineNumber": 1464,
+            "columnNumber": 167
+        },
+        {
+            "description": "cvc-complex-type.3.2.2: Attribute 'laneChange' is not allowed to appear in element 'roadMark'.",
+            "severity": "FATAL_ERROR",
+            "lineNumber": 1596,
+            "columnNumber": 166
+        },
+        {
+            "description": "cvc-complex-type.3.2.2: Attribute 'laneChange' is not allowed to appear in element 'roadMark'.",
+            "severity": "FATAL_ERROR",
+            "lineNumber": 1597,
+            "columnNumber": 167
+        },
+        {
+            "description": "cvc-complex-type.3.2.2: Attribute 'laneChange' is not allowed to appear in element 'roadMark'.",
+            "severity": "FATAL_ERROR",
+            "lineNumber": 1728,
+            "columnNumber": 166
+        },
+        {
+            "description": "cvc-complex-type.3.2.2: Attribute 'laneChange' is not allowed to appear in element 'roadMark'.",
+            "severity": "FATAL_ERROR",
+            "lineNumber": 1729,
+            "columnNumber": 167
+        },
+        {
+            "description": "cvc-complex-type.3.2.2: Attribute 'id' is not allowed to appear in element 'controller'.",
+            "severity": "FATAL_ERROR",
+            "lineNumber": 1778,
+            "columnNumber": 39
+        },
+        {
+            "description": "cvc-complex-type.3.2.2: Attribute 'signalId' is not allowed to appear in element 'control'.",
+            "severity": "FATAL_ERROR",
+            "lineNumber": 1779,
+            "columnNumber": 44
+        },
+        {
+            "description": "cvc-complex-type.3.2.2: Attribute 'signalId' is not allowed to appear in element 'control'.",
+            "severity": "FATAL_ERROR",
+            "lineNumber": 1780,
+            "columnNumber": 44
+        },
+        {
+            "description": "cvc-complex-type.3.2.2: Attribute 'signalId' is not allowed to appear in element 'control'.",
+            "severity": "FATAL_ERROR",
+            "lineNumber": 1781,
+            "columnNumber": 44
+        },
+        {
+            "description": "cvc-complex-type.3.2.2: Attribute 'signalId' is not allowed to appear in element 'control'.",
+            "severity": "FATAL_ERROR",
+            "lineNumber": 1782,
+            "columnNumber": 44
+        },
+        {
+            "description": "cvc-complex-type.3.2.2: Attribute 'signalId' is not allowed to appear in element 'control'.",
+            "severity": "FATAL_ERROR",
+            "lineNumber": 1783,
+            "columnNumber": 44
+        },
+        {
+            "description": "cvc-complex-type.3.2.2: Attribute 'signalId' is not allowed to appear in element 'control'.",
+            "severity": "FATAL_ERROR",
+            "lineNumber": 1784,
+            "columnNumber": 44
+        },
+        {
+            "description": "cvc-complex-type.3.2.2: Attribute 'signalId' is not allowed to appear in element 'control'.",
+            "severity": "FATAL_ERROR",
+            "lineNumber": 1785,
+            "columnNumber": 44
+        },
+        {
+            "description": "cvc-complex-type.3.2.2: Attribute 'signalId' is not allowed to appear in element 'control'.",
+            "severity": "FATAL_ERROR",
+            "lineNumber": 1786,
+            "columnNumber": 44
+        },
+        {
+            "description": "cvc-complex-type.3.2.2: Attribute 'signalId' is not allowed to appear in element 'control'.",
+            "severity": "FATAL_ERROR",
+            "lineNumber": 1787,
+            "columnNumber": 44
+        },
+        {
+            "description": "cvc-complex-type.3.2.2: Attribute 'signalId' is not allowed to appear in element 'control'.",
+            "severity": "FATAL_ERROR",
+            "lineNumber": 1788,
+            "columnNumber": 44
+        }
+    ],
+    "completedSuccessfully": true,
+    "validationAbortMessage": ""
+}

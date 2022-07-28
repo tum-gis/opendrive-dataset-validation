@@ -1,0 +1,207 @@
+{
+    "parameters": {
+        "numberTolerance": 1.0E-7,
+        "planViewGeometryDistanceTolerance": 1.0,
+        "planViewGeometryDistanceWarningTolerance": 0.001,
+        "planViewGeometryAngleTolerance": 1.0,
+        "planViewGeometryAngleWarningTolerance": 0.001
+    },
+    "basicDataTypePlan": [
+        {
+            "type": "EmptyValueForOptionalAttribute",
+            "info": "Attribute 'name' is set with an empty value even though the attribute itself is optional.",
+            "location": "Header element",
+            "incidentSeverity": "WARNING",
+            "wasHealed": true,
+            "messageSeverity": "WARNING"
+        }
+    ],
+    "modelingRulesPlan": [
+        {
+            "type": "GapBetweenPlanViewGeometryElements",
+            "info": "Geometry elements contain a gap from Vector2D(x=-21.694399547054662, y=-144.33895050937804) to Vector2D(x=-21.695487118314418, y=-144.33894795855176) with an euclidean distance of 0.0010875742511488474 above the warning tolerance of 0.001.",
+            "location": "Road: roadId=184",
+            "incidentSeverity": "WARNING",
+            "wasHealed": false,
+            "messageSeverity": "WARNING"
+        },
+        {
+            "type": "GapBetweenPlanViewGeometryElements",
+            "info": "Geometry elements contain a gap from Vector2D(x=-21.201829634088845, y=-140.84009617261148) to Vector2D(x=-21.202929199209976, y=-140.8400935936544) with an euclidean distance of 0.0010995681455125816 above the warning tolerance of 0.001.",
+            "location": "Road: roadId=193",
+            "incidentSeverity": "WARNING",
+            "wasHealed": false,
+            "messageSeverity": "WARNING"
+        },
+        {
+            "type": "",
+            "info": "Junctions of type default should only be used when at least three roads are coming in (currently incoming road ids: [1, 0])",
+            "location": "Junction: junctionId=79",
+            "incidentSeverity": "WARNING",
+            "wasHealed": false,
+            "messageSeverity": "WARNING"
+        },
+        {
+            "type": "",
+            "info": "Junctions of type default should only be used when at least three roads are coming in (currently incoming road ids: [36, 5])",
+            "location": "Junction: junctionId=196",
+            "incidentSeverity": "WARNING",
+            "wasHealed": false,
+            "messageSeverity": "WARNING"
+        },
+        {
+            "type": "",
+            "info": "Junctions of type default should only be used when at least three roads are coming in (currently incoming road ids: [3, 34])",
+            "location": "Junction: junctionId=208",
+            "incidentSeverity": "WARNING",
+            "wasHealed": false,
+            "messageSeverity": "WARNING"
+        },
+        {
+            "type": "",
+            "info": "Junctions of type default should only be used when at least three roads are coming in (currently incoming road ids: [6, 44])",
+            "location": "Junction: junctionId=218",
+            "incidentSeverity": "WARNING",
+            "wasHealed": false,
+            "messageSeverity": "WARNING"
+        },
+        {
+            "type": "",
+            "info": "Junctions of type default should only be used when at least three roads are coming in (currently incoming road ids: [23])",
+            "location": "Junction: junctionId=230",
+            "incidentSeverity": "WARNING",
+            "wasHealed": false,
+            "messageSeverity": "WARNING"
+        },
+        {
+            "type": "",
+            "info": "Junctions of type default should only be used when at least three roads are coming in (currently incoming road ids: [59])",
+            "location": "Junction: junctionId=241",
+            "incidentSeverity": "WARNING",
+            "wasHealed": false,
+            "messageSeverity": "WARNING"
+        },
+        {
+            "type": "",
+            "info": "Junctions of type default should only be used when at least three roads are coming in (currently incoming road ids: [19])",
+            "location": "Junction: junctionId=262",
+            "incidentSeverity": "WARNING",
+            "wasHealed": false,
+            "messageSeverity": "WARNING"
+        },
+        {
+            "type": "",
+            "info": "Junctions of type default should only be used when at least three roads are coming in (currently incoming road ids: [41])",
+            "location": "Junction: junctionId=273",
+            "incidentSeverity": "WARNING",
+            "wasHealed": false,
+            "messageSeverity": "WARNING"
+        },
+        {
+            "type": "",
+            "info": "Junctions of type default should only be used when at least three roads are coming in (currently incoming road ids: [50, 61])",
+            "location": "Junction: junctionId=360",
+            "incidentSeverity": "WARNING",
+            "wasHealed": false,
+            "messageSeverity": "WARNING"
+        },
+        {
+            "type": "",
+            "info": "Junctions of type default should only be used when at least three roads are coming in (currently incoming road ids: [31, 51])",
+            "location": "Junction: junctionId=371",
+            "incidentSeverity": "WARNING",
+            "wasHealed": false,
+            "messageSeverity": "WARNING"
+        },
+        {
+            "type": "",
+            "info": "Junctions of type default should only be used when at least three roads are coming in (currently incoming road ids: [39, 69])",
+            "location": "Junction: junctionId=382",
+            "incidentSeverity": "WARNING",
+            "wasHealed": false,
+            "messageSeverity": "WARNING"
+        },
+        {
+            "type": "",
+            "info": "Junctions of type default should only be used when at least three roads are coming in (currently incoming road ids: [12, 76])",
+            "location": "Junction: junctionId=393",
+            "incidentSeverity": "WARNING",
+            "wasHealed": false,
+            "messageSeverity": "WARNING"
+        },
+        {
+            "type": "",
+            "info": "Junctions of type default should only be used when at least three roads are coming in (currently incoming road ids: [15])",
+            "location": "Junction: junctionId=481",
+            "incidentSeverity": "WARNING",
+            "wasHealed": false,
+            "messageSeverity": "WARNING"
+        },
+        {
+            "type": "",
+            "info": "Junctions of type default should only be used when at least three roads are coming in (currently incoming road ids: [18, 49])",
+            "location": "Junction: junctionId=497",
+            "incidentSeverity": "WARNING",
+            "wasHealed": false,
+            "messageSeverity": "WARNING"
+        },
+        {
+            "type": "",
+            "info": "Junctions of type default should only be used when at least three roads are coming in (currently incoming road ids: [43])",
+            "location": "Junction: junctionId=636",
+            "incidentSeverity": "WARNING",
+            "wasHealed": false,
+            "messageSeverity": "WARNING"
+        },
+        {
+            "type": "",
+            "info": "Junctions of type default should only be used when at least three roads are coming in (currently incoming road ids: [33])",
+            "location": "Junction: junctionId=647",
+            "incidentSeverity": "WARNING",
+            "wasHealed": false,
+            "messageSeverity": "WARNING"
+        },
+        {
+            "type": "",
+            "info": "Junctions of type default should only be used when at least three roads are coming in (currently incoming road ids: [24, 67])",
+            "location": "Junction: junctionId=657",
+            "incidentSeverity": "WARNING",
+            "wasHealed": false,
+            "messageSeverity": "WARNING"
+        },
+        {
+            "type": "",
+            "info": "Junctions of type default should only be used when at least three roads are coming in (currently incoming road ids: [42, 75])",
+            "location": "Junction: junctionId=669",
+            "incidentSeverity": "WARNING",
+            "wasHealed": false,
+            "messageSeverity": "WARNING"
+        },
+        {
+            "type": "",
+            "info": "Junctions of type default should only be used when at least three roads are coming in (currently incoming road ids: [56, 37])",
+            "location": "Junction: junctionId=680",
+            "incidentSeverity": "WARNING",
+            "wasHealed": false,
+            "messageSeverity": "WARNING"
+        },
+        {
+            "type": "",
+            "info": "Junctions of type default should only be used when at least three roads are coming in (currently incoming road ids: [45])",
+            "location": "Junction: junctionId=693",
+            "incidentSeverity": "WARNING",
+            "wasHealed": false,
+            "messageSeverity": "WARNING"
+        },
+        {
+            "type": "",
+            "info": "Junctions of type default should only be used when at least three roads are coming in (currently incoming road ids: [53, 30])",
+            "location": "Junction: junctionId=704",
+            "incidentSeverity": "WARNING",
+            "wasHealed": false,
+            "messageSeverity": "WARNING"
+        }
+    ],
+    "conversionRequirementsPlan": [
+    ]
+}

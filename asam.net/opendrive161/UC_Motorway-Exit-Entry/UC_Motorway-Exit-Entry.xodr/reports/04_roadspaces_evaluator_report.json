@@ -1,0 +1,24 @@
+{
+    "parameters": {
+        "numberTolerance": 1.0E-7,
+        "laneTransitionDistanceTolerance": 0.001
+    },
+    "modelingRulesEvaluation": [
+        {
+            "type": "",
+            "info": "Right boundary of lane should be connected to its successive lane (euclidean distance: 0.0021814022635536605 successor: true).",
+            "location": "from LaneIdentifier(laneId=-1, laneSectionId=0, roadId=37) to LaneIdentifier(laneId=-1, laneSectionId=0, roadId=42)",
+            "incidentSeverity": "WARNING",
+            "wasHealed": false,
+            "messageSeverity": "WARNING"
+        },
+        {
+            "type": "",
+            "info": "Right boundary of lane should be connected to its successive lane (euclidean distance: 0.004359324059781209 successor: true).",
+            "location": "from LaneIdentifier(laneId=-1, laneSectionId=0, roadId=27) to LaneIdentifier(laneId=-1, laneSectionId=0, roadId=17)",
+            "incidentSeverity": "WARNING",
+            "wasHealed": false,
+            "messageSeverity": "WARNING"
+        }
+    ]
+}

@@ -1,0 +1,553 @@
+{
+    "opendriveVersion": "V_1_5",
+    "validationMessages": [
+        {
+            "description": "cvc-datatype-valid.1.2.3: 'DE' is not a valid value of union type 'e_countryCode'.",
+            "severity": "FATAL_ERROR",
+            "lineNumber": 10,
+            "columnNumber": 68
+        },
+        {
+            "description": "cvc-attribute.3: The value 'DE' of attribute 'country' on element 'type' is not valid with respect to its type, 'e_countryCode'.",
+            "severity": "FATAL_ERROR",
+            "lineNumber": 10,
+            "columnNumber": 68
+        },
+        {
+            "description": "cvc-datatype-valid.1.2.3: 'DE' is not a valid value of union type 'e_countryCode'.",
+            "severity": "FATAL_ERROR",
+            "lineNumber": 93,
+            "columnNumber": 68
+        },
+        {
+            "description": "cvc-attribute.3: The value 'DE' of attribute 'country' on element 'type' is not valid with respect to its type, 'e_countryCode'.",
+            "severity": "FATAL_ERROR",
+            "lineNumber": 93,
+            "columnNumber": 68
+        },
+        {
+            "description": "cvc-datatype-valid.1.2.3: 'DE' is not a valid value of union type 'e_countryCode'.",
+            "severity": "FATAL_ERROR",
+            "lineNumber": 169,
+            "columnNumber": 68
+        },
+        {
+            "description": "cvc-attribute.3: The value 'DE' of attribute 'country' on element 'type' is not valid with respect to its type, 'e_countryCode'.",
+            "severity": "FATAL_ERROR",
+            "lineNumber": 169,
+            "columnNumber": 68
+        },
+        {
+            "description": "cvc-datatype-valid.1.2.3: 'DE' is not a valid value of union type 'e_countryCode'.",
+            "severity": "FATAL_ERROR",
+            "lineNumber": 245,
+            "columnNumber": 68
+        },
+        {
+            "description": "cvc-attribute.3: The value 'DE' of attribute 'country' on element 'type' is not valid with respect to its type, 'e_countryCode'.",
+            "severity": "FATAL_ERROR",
+            "lineNumber": 245,
+            "columnNumber": 68
+        },
+        {
+            "description": "cvc-datatype-valid.1.2.3: 'DE' is not a valid value of union type 'e_countryCode'.",
+            "severity": "FATAL_ERROR",
+            "lineNumber": 316,
+            "columnNumber": 68
+        },
+        {
+            "description": "cvc-attribute.3: The value 'DE' of attribute 'country' on element 'type' is not valid with respect to its type, 'e_countryCode'.",
+            "severity": "FATAL_ERROR",
+            "lineNumber": 316,
+            "columnNumber": 68
+        },
+        {
+            "description": "cvc-datatype-valid.1.2.3: 'DE' is not a valid value of union type 'e_countryCode'.",
+            "severity": "FATAL_ERROR",
+            "lineNumber": 387,
+            "columnNumber": 68
+        },
+        {
+            "description": "cvc-attribute.3: The value 'DE' of attribute 'country' on element 'type' is not valid with respect to its type, 'e_countryCode'.",
+            "severity": "FATAL_ERROR",
+            "lineNumber": 387,
+            "columnNumber": 68
+        },
+        {
+            "description": "cvc-datatype-valid.1.2.3: 'DE' is not a valid value of union type 'e_countryCode'.",
+            "severity": "FATAL_ERROR",
+            "lineNumber": 459,
+            "columnNumber": 68
+        },
+        {
+            "description": "cvc-attribute.3: The value 'DE' of attribute 'country' on element 'type' is not valid with respect to its type, 'e_countryCode'.",
+            "severity": "FATAL_ERROR",
+            "lineNumber": 459,
+            "columnNumber": 68
+        },
+        {
+            "description": "cvc-complex-type.4: Attribute 'dynamic' must appear on element 'object'.",
+            "severity": "FATAL_ERROR",
+            "lineNumber": 625,
+            "columnNumber": 157
+        },
+        {
+            "description": "cvc-complex-type.4: Attribute 'validLength' must appear on element 'object'.",
+            "severity": "FATAL_ERROR",
+            "lineNumber": 625,
+            "columnNumber": 157
+        },
+        {
+            "description": "cvc-complex-type.4: Attribute 'height' must appear on element 'object'.",
+            "severity": "FATAL_ERROR",
+            "lineNumber": 625,
+            "columnNumber": 157
+        },
+        {
+            "description": "cvc-complex-type.4: Attribute 'fillType' must appear on element 'outline'.",
+            "severity": "FATAL_ERROR",
+            "lineNumber": 627,
+            "columnNumber": 42
+        },
+        {
+            "description": "cvc-complex-type.4: Attribute 'closed' must appear on element 'outline'.",
+            "severity": "FATAL_ERROR",
+            "lineNumber": 627,
+            "columnNumber": 42
+        },
+        {
+            "description": "cvc-complex-type.4: Attribute 'laneType' must appear on element 'outline'.",
+            "severity": "FATAL_ERROR",
+            "lineNumber": 627,
+            "columnNumber": 42
+        },
+        {
+            "description": "cvc-complex-type.4: Attribute 'id' must appear on element 'cornerLocal'.",
+            "severity": "FATAL_ERROR",
+            "lineNumber": 628,
+            "columnNumber": 68
+        },
+        {
+            "description": "cvc-complex-type.4: Attribute 'id' must appear on element 'cornerLocal'.",
+            "severity": "FATAL_ERROR",
+            "lineNumber": 629,
+            "columnNumber": 70
+        },
+        {
+            "description": "cvc-complex-type.4: Attribute 'id' must appear on element 'cornerLocal'.",
+            "severity": "FATAL_ERROR",
+            "lineNumber": 630,
+            "columnNumber": 69
+        },
+        {
+            "description": "cvc-complex-type.4: Attribute 'id' must appear on element 'cornerLocal'.",
+            "severity": "FATAL_ERROR",
+            "lineNumber": 631,
+            "columnNumber": 69
+        },
+        {
+            "description": "cvc-complex-type.4: Attribute 'id' must appear on element 'cornerLocal'.",
+            "severity": "FATAL_ERROR",
+            "lineNumber": 632,
+            "columnNumber": 71
+        },
+        {
+            "description": "cvc-complex-type.4: Attribute 'id' must appear on element 'cornerLocal'.",
+            "severity": "FATAL_ERROR",
+            "lineNumber": 633,
+            "columnNumber": 71
+        },
+        {
+            "description": "cvc-complex-type.4: Attribute 'id' must appear on element 'cornerLocal'.",
+            "severity": "FATAL_ERROR",
+            "lineNumber": 634,
+            "columnNumber": 71
+        },
+        {
+            "description": "cvc-complex-type.4: Attribute 'id' must appear on element 'cornerLocal'.",
+            "severity": "FATAL_ERROR",
+            "lineNumber": 635,
+            "columnNumber": 72
+        },
+        {
+            "description": "cvc-complex-type.4: Attribute 'id' must appear on element 'cornerLocal'.",
+            "severity": "FATAL_ERROR",
+            "lineNumber": 636,
+            "columnNumber": 70
+        },
+        {
+            "description": "cvc-complex-type.4: Attribute 'id' must appear on element 'cornerLocal'.",
+            "severity": "FATAL_ERROR",
+            "lineNumber": 637,
+            "columnNumber": 69
+        },
+        {
+            "description": "cvc-complex-type.4: Attribute 'id' must appear on element 'cornerLocal'.",
+            "severity": "FATAL_ERROR",
+            "lineNumber": 638,
+            "columnNumber": 67
+        },
+        {
+            "description": "cvc-complex-type.4: Attribute 'closed' must appear on element 'outline'.",
+            "severity": "FATAL_ERROR",
+            "lineNumber": 640,
+            "columnNumber": 63
+        },
+        {
+            "description": "cvc-complex-type.4: Attribute 'laneType' must appear on element 'outline'.",
+            "severity": "FATAL_ERROR",
+            "lineNumber": 640,
+            "columnNumber": 63
+        },
+        {
+            "description": "cvc-complex-type.4: Attribute 'id' must appear on element 'cornerLocal'.",
+            "severity": "FATAL_ERROR",
+            "lineNumber": 641,
+            "columnNumber": 71
+        },
+        {
+            "description": "cvc-complex-type.4: Attribute 'id' must appear on element 'cornerLocal'.",
+            "severity": "FATAL_ERROR",
+            "lineNumber": 642,
+            "columnNumber": 71
+        },
+        {
+            "description": "cvc-complex-type.4: Attribute 'id' must appear on element 'cornerLocal'.",
+            "severity": "FATAL_ERROR",
+            "lineNumber": 643,
+            "columnNumber": 71
+        },
+        {
+            "description": "cvc-complex-type.4: Attribute 'id' must appear on element 'cornerLocal'.",
+            "severity": "FATAL_ERROR",
+            "lineNumber": 644,
+            "columnNumber": 71
+        },
+        {
+            "description": "cvc-complex-type.4: Attribute 'closed' must appear on element 'outline'.",
+            "severity": "FATAL_ERROR",
+            "lineNumber": 646,
+            "columnNumber": 64
+        },
+        {
+            "description": "cvc-complex-type.4: Attribute 'laneType' must appear on element 'outline'.",
+            "severity": "FATAL_ERROR",
+            "lineNumber": 646,
+            "columnNumber": 64
+        },
+        {
+            "description": "cvc-complex-type.4: Attribute 'id' must appear on element 'cornerLocal'.",
+            "severity": "FATAL_ERROR",
+            "lineNumber": 647,
+            "columnNumber": 68
+        },
+        {
+            "description": "cvc-complex-type.4: Attribute 'id' must appear on element 'cornerLocal'.",
+            "severity": "FATAL_ERROR",
+            "lineNumber": 648,
+            "columnNumber": 70
+        },
+        {
+            "description": "cvc-complex-type.4: Attribute 'id' must appear on element 'cornerLocal'.",
+            "severity": "FATAL_ERROR",
+            "lineNumber": 649,
+            "columnNumber": 69
+        },
+        {
+            "description": "cvc-complex-type.4: Attribute 'id' must appear on element 'cornerLocal'.",
+            "severity": "FATAL_ERROR",
+            "lineNumber": 650,
+            "columnNumber": 69
+        },
+        {
+            "description": "cvc-complex-type.4: Attribute 'id' must appear on element 'cornerLocal'.",
+            "severity": "FATAL_ERROR",
+            "lineNumber": 651,
+            "columnNumber": 72
+        },
+        {
+            "description": "cvc-complex-type.4: Attribute 'id' must appear on element 'cornerLocal'.",
+            "severity": "FATAL_ERROR",
+            "lineNumber": 652,
+            "columnNumber": 70
+        },
+        {
+            "description": "cvc-complex-type.4: Attribute 'id' must appear on element 'cornerLocal'.",
+            "severity": "FATAL_ERROR",
+            "lineNumber": 653,
+            "columnNumber": 69
+        },
+        {
+            "description": "cvc-complex-type.4: Attribute 'id' must appear on element 'cornerLocal'.",
+            "severity": "FATAL_ERROR",
+            "lineNumber": 654,
+            "columnNumber": 67
+        },
+        {
+            "description": "cvc-complex-type.4: Attribute 'closed' must appear on element 'outline'.",
+            "severity": "FATAL_ERROR",
+            "lineNumber": 656,
+            "columnNumber": 81
+        },
+        {
+            "description": "cvc-complex-type.2.4.b: The content of element 'border' is not complete. One of '{cornerReference}' is expected.",
+            "severity": "FATAL_ERROR",
+            "lineNumber": 664,
+            "columnNumber": 90
+        },
+        {
+            "description": "cvc-complex-type.2.4.b: The content of element 'border' is not complete. One of '{cornerReference}' is expected.",
+            "severity": "FATAL_ERROR",
+            "lineNumber": 665,
+            "columnNumber": 90
+        },
+        {
+            "description": "cvc-identity-constraint.4.3: Key 'r_road_objects_object_borders_border' with value '1' not found for identity constraint of element 'object'.",
+            "severity": "FATAL_ERROR",
+            "lineNumber": 675,
+            "columnNumber": 14
+        },
+        {
+            "description": "cvc-datatype-valid.1.2.3: 'DE' is not a valid value of union type 'e_countryCode'.",
+            "severity": "FATAL_ERROR",
+            "lineNumber": 693,
+            "columnNumber": 68
+        },
+        {
+            "description": "cvc-attribute.3: The value 'DE' of attribute 'country' on element 'type' is not valid with respect to its type, 'e_countryCode'.",
+            "severity": "FATAL_ERROR",
+            "lineNumber": 693,
+            "columnNumber": 68
+        },
+        {
+            "description": "cvc-complex-type.4: Attribute 'dynamic' must appear on element 'object'.",
+            "severity": "FATAL_ERROR",
+            "lineNumber": 776,
+            "columnNumber": 153
+        },
+        {
+            "description": "cvc-complex-type.4: Attribute 'validLength' must appear on element 'object'.",
+            "severity": "FATAL_ERROR",
+            "lineNumber": 776,
+            "columnNumber": 153
+        },
+        {
+            "description": "cvc-complex-type.4: Attribute 'height' must appear on element 'object'.",
+            "severity": "FATAL_ERROR",
+            "lineNumber": 776,
+            "columnNumber": 153
+        },
+        {
+            "description": "cvc-complex-type.4: Attribute 'fillType' must appear on element 'outline'.",
+            "severity": "FATAL_ERROR",
+            "lineNumber": 778,
+            "columnNumber": 35
+        },
+        {
+            "description": "cvc-complex-type.4: Attribute 'outer' must appear on element 'outline'.",
+            "severity": "FATAL_ERROR",
+            "lineNumber": 778,
+            "columnNumber": 35
+        },
+        {
+            "description": "cvc-complex-type.4: Attribute 'closed' must appear on element 'outline'.",
+            "severity": "FATAL_ERROR",
+            "lineNumber": 778,
+            "columnNumber": 35
+        },
+        {
+            "description": "cvc-complex-type.4: Attribute 'laneType' must appear on element 'outline'.",
+            "severity": "FATAL_ERROR",
+            "lineNumber": 778,
+            "columnNumber": 35
+        },
+        {
+            "description": "cvc-complex-type.4: Attribute 'side' must appear on element 'marking'.",
+            "severity": "FATAL_ERROR",
+            "lineNumber": 786,
+            "columnNumber": 139
+        },
+        {
+            "description": "cvc-complex-type.4: Attribute 'weight' must appear on element 'marking'.",
+            "severity": "FATAL_ERROR",
+            "lineNumber": 786,
+            "columnNumber": 139
+        },
+        {
+            "description": "cvc-complex-type.4: Attribute 'side' must appear on element 'marking'.",
+            "severity": "FATAL_ERROR",
+            "lineNumber": 790,
+            "columnNumber": 139
+        },
+        {
+            "description": "cvc-complex-type.4: Attribute 'weight' must appear on element 'marking'.",
+            "severity": "FATAL_ERROR",
+            "lineNumber": 790,
+            "columnNumber": 139
+        },
+        {
+            "description": "cvc-datatype-valid.1.2.3: 'DE' is not a valid value of union type 'e_countryCode'.",
+            "severity": "FATAL_ERROR",
+            "lineNumber": 815,
+            "columnNumber": 68
+        },
+        {
+            "description": "cvc-attribute.3: The value 'DE' of attribute 'country' on element 'type' is not valid with respect to its type, 'e_countryCode'.",
+            "severity": "FATAL_ERROR",
+            "lineNumber": 815,
+            "columnNumber": 68
+        },
+        {
+            "description": "cvc-datatype-valid.1.2.3: 'DE' is not a valid value of union type 'e_countryCode'.",
+            "severity": "FATAL_ERROR",
+            "lineNumber": 983,
+            "columnNumber": 68
+        },
+        {
+            "description": "cvc-attribute.3: The value 'DE' of attribute 'country' on element 'type' is not valid with respect to its type, 'e_countryCode'.",
+            "severity": "FATAL_ERROR",
+            "lineNumber": 983,
+            "columnNumber": 68
+        },
+        {
+            "description": "cvc-datatype-valid.1.2.3: 'DE' is not a valid value of union type 'e_countryCode'.",
+            "severity": "FATAL_ERROR",
+            "lineNumber": 1154,
+            "columnNumber": 68
+        },
+        {
+            "description": "cvc-attribute.3: The value 'DE' of attribute 'country' on element 'type' is not valid with respect to its type, 'e_countryCode'.",
+            "severity": "FATAL_ERROR",
+            "lineNumber": 1154,
+            "columnNumber": 68
+        },
+        {
+            "description": "cvc-datatype-valid.1.2.3: 'DE' is not a valid value of union type 'e_countryCode'.",
+            "severity": "FATAL_ERROR",
+            "lineNumber": 1255,
+            "columnNumber": 68
+        },
+        {
+            "description": "cvc-attribute.3: The value 'DE' of attribute 'country' on element 'type' is not valid with respect to its type, 'e_countryCode'.",
+            "severity": "FATAL_ERROR",
+            "lineNumber": 1255,
+            "columnNumber": 68
+        },
+        {
+            "description": "cvc-datatype-valid.1.2.3: 'DE' is not a valid value of union type 'e_countryCode'.",
+            "severity": "FATAL_ERROR",
+            "lineNumber": 1256,
+            "columnNumber": 68
+        },
+        {
+            "description": "cvc-attribute.3: The value 'DE' of attribute 'country' on element 'type' is not valid with respect to its type, 'e_countryCode'.",
+            "severity": "FATAL_ERROR",
+            "lineNumber": 1256,
+            "columnNumber": 68
+        },
+        {
+            "description": "cvc-datatype-valid.1.2.3: 'DE' is not a valid value of union type 'e_countryCode'.",
+            "severity": "FATAL_ERROR",
+            "lineNumber": 1356,
+            "columnNumber": 68
+        },
+        {
+            "description": "cvc-attribute.3: The value 'DE' of attribute 'country' on element 'type' is not valid with respect to its type, 'e_countryCode'.",
+            "severity": "FATAL_ERROR",
+            "lineNumber": 1356,
+            "columnNumber": 68
+        },
+        {
+            "description": "cvc-datatype-valid.1.2.3: 'DE' is not a valid value of union type 'e_countryCode'.",
+            "severity": "FATAL_ERROR",
+            "lineNumber": 1441,
+            "columnNumber": 68
+        },
+        {
+            "description": "cvc-attribute.3: The value 'DE' of attribute 'country' on element 'type' is not valid with respect to its type, 'e_countryCode'.",
+            "severity": "FATAL_ERROR",
+            "lineNumber": 1441,
+            "columnNumber": 68
+        },
+        {
+            "description": "cvc-complex-type.4: Attribute 'dynamic' must appear on element 'object'.",
+            "severity": "FATAL_ERROR",
+            "lineNumber": 1515,
+            "columnNumber": 153
+        },
+        {
+            "description": "cvc-complex-type.4: Attribute 'validLength' must appear on element 'object'.",
+            "severity": "FATAL_ERROR",
+            "lineNumber": 1515,
+            "columnNumber": 153
+        },
+        {
+            "description": "cvc-complex-type.4: Attribute 'height' must appear on element 'object'.",
+            "severity": "FATAL_ERROR",
+            "lineNumber": 1515,
+            "columnNumber": 153
+        },
+        {
+            "description": "cvc-complex-type.4: Attribute 'fillType' must appear on element 'outline'.",
+            "severity": "FATAL_ERROR",
+            "lineNumber": 1517,
+            "columnNumber": 35
+        },
+        {
+            "description": "cvc-complex-type.4: Attribute 'outer' must appear on element 'outline'.",
+            "severity": "FATAL_ERROR",
+            "lineNumber": 1517,
+            "columnNumber": 35
+        },
+        {
+            "description": "cvc-complex-type.4: Attribute 'closed' must appear on element 'outline'.",
+            "severity": "FATAL_ERROR",
+            "lineNumber": 1517,
+            "columnNumber": 35
+        },
+        {
+            "description": "cvc-complex-type.4: Attribute 'laneType' must appear on element 'outline'.",
+            "severity": "FATAL_ERROR",
+            "lineNumber": 1517,
+            "columnNumber": 35
+        },
+        {
+            "description": "cvc-complex-type.4: Attribute 'side' must appear on element 'marking'.",
+            "severity": "FATAL_ERROR",
+            "lineNumber": 1525,
+            "columnNumber": 139
+        },
+        {
+            "description": "cvc-complex-type.4: Attribute 'weight' must appear on element 'marking'.",
+            "severity": "FATAL_ERROR",
+            "lineNumber": 1525,
+            "columnNumber": 139
+        },
+        {
+            "description": "cvc-complex-type.4: Attribute 'side' must appear on element 'marking'.",
+            "severity": "FATAL_ERROR",
+            "lineNumber": 1529,
+            "columnNumber": 139
+        },
+        {
+            "description": "cvc-complex-type.4: Attribute 'weight' must appear on element 'marking'.",
+            "severity": "FATAL_ERROR",
+            "lineNumber": 1529,
+            "columnNumber": 139
+        },
+        {
+            "description": "cvc-datatype-valid.1.2.3: 'DE' is not a valid value of union type 'e_countryCode'.",
+            "severity": "FATAL_ERROR",
+            "lineNumber": 1549,
+            "columnNumber": 68
+        },
+        {
+            "description": "cvc-attribute.3: The value 'DE' of attribute 'country' on element 'type' is not valid with respect to its type, 'e_countryCode'.",
+            "severity": "FATAL_ERROR",
+            "lineNumber": 1549,
+            "columnNumber": 68
+        }
+    ],
+    "completedSuccessfully": true,
+    "validationAbortMessage": ""
+}

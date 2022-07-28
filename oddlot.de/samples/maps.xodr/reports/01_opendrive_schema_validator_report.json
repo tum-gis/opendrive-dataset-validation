@@ -1,0 +1,115 @@
+{
+    "opendriveVersion": "V_1_2",
+    "validationMessages": [
+        {
+            "description": "cvc-complex-type.2.4.a: Invalid content was found starting with element 'center'. One of '{userData, include}' is expected.",
+            "severity": "FATAL_ERROR",
+            "lineNumber": 89,
+            "columnNumber": 21
+        },
+        {
+            "description": "cvc-complex-type.3.2.2: Attribute 'laneChange' is not allowed to appear in element 'roadMark'.",
+            "severity": "FATAL_ERROR",
+            "lineNumber": 91,
+            "columnNumber": 122
+        },
+        {
+            "description": "cvc-complex-type.2.4.a: Invalid content was found starting with element 'center'. One of '{userData, include}' is expected.",
+            "severity": "FATAL_ERROR",
+            "lineNumber": 116,
+            "columnNumber": 21
+        },
+        {
+            "description": "cvc-complex-type.3.2.2: Attribute 'laneChange' is not allowed to appear in element 'roadMark'.",
+            "severity": "FATAL_ERROR",
+            "lineNumber": 118,
+            "columnNumber": 122
+        },
+        {
+            "description": "cvc-complex-type.2.4.a: Invalid content was found starting with element 'center'. One of '{userData, include}' is expected.",
+            "severity": "FATAL_ERROR",
+            "lineNumber": 143,
+            "columnNumber": 21
+        },
+        {
+            "description": "cvc-complex-type.3.2.2: Attribute 'laneChange' is not allowed to appear in element 'roadMark'.",
+            "severity": "FATAL_ERROR",
+            "lineNumber": 145,
+            "columnNumber": 122
+        },
+        {
+            "description": "cvc-complex-type.2.4.a: Invalid content was found starting with element 'center'. One of '{userData, include}' is expected.",
+            "severity": "FATAL_ERROR",
+            "lineNumber": 170,
+            "columnNumber": 21
+        },
+        {
+            "description": "cvc-complex-type.3.2.2: Attribute 'laneChange' is not allowed to appear in element 'roadMark'.",
+            "severity": "FATAL_ERROR",
+            "lineNumber": 172,
+            "columnNumber": 122
+        },
+        {
+            "description": "cvc-complex-type.2.4.a: Invalid content was found starting with element 'center'. One of '{userData, include}' is expected.",
+            "severity": "FATAL_ERROR",
+            "lineNumber": 197,
+            "columnNumber": 21
+        },
+        {
+            "description": "cvc-complex-type.3.2.2: Attribute 'laneChange' is not allowed to appear in element 'roadMark'.",
+            "severity": "FATAL_ERROR",
+            "lineNumber": 199,
+            "columnNumber": 122
+        },
+        {
+            "description": "cvc-complex-type.2.4.a: Invalid content was found starting with element 'center'. One of '{userData, include}' is expected.",
+            "severity": "FATAL_ERROR",
+            "lineNumber": 224,
+            "columnNumber": 21
+        },
+        {
+            "description": "cvc-complex-type.3.2.2: Attribute 'laneChange' is not allowed to appear in element 'roadMark'.",
+            "severity": "FATAL_ERROR",
+            "lineNumber": 226,
+            "columnNumber": 122
+        },
+        {
+            "description": "cvc-complex-type.2.4.a: Invalid content was found starting with element 'center'. One of '{userData, include}' is expected.",
+            "severity": "FATAL_ERROR",
+            "lineNumber": 251,
+            "columnNumber": 21
+        },
+        {
+            "description": "cvc-complex-type.3.2.2: Attribute 'laneChange' is not allowed to appear in element 'roadMark'.",
+            "severity": "FATAL_ERROR",
+            "lineNumber": 253,
+            "columnNumber": 122
+        },
+        {
+            "description": "cvc-complex-type.2.4.a: Invalid content was found starting with element 'type'. One of '{objects, signals, surface}' is expected.",
+            "severity": "FATAL_ERROR",
+            "lineNumber": 268,
+            "columnNumber": 36
+        },
+        {
+            "description": "cvc-complex-type.2.4.a: Invalid content was found starting with element 'scenery'. One of '{road, controller, junction}' is expected.",
+            "severity": "FATAL_ERROR",
+            "lineNumber": 276,
+            "columnNumber": 13
+        },
+        {
+            "description": "unexpected element (uri:\"\", local:\"scenery\"). Expected elements are <{}junction>,<{}controller>,<{}road>,<{}header>",
+            "severity": "ERROR",
+            "lineNumber": 276,
+            "columnNumber": 13
+        },
+        {
+            "description": "unexpected element (uri:\"\", local:\"scenery\"). Expected elements are <{}junction>,<{}controller>,<{}road>,<{}header>",
+            "severity": "ERROR",
+            "lineNumber": 279,
+            "columnNumber": 13
+        }
+    ],
+    "completedSuccessfully": true,
+    "validationAbortMessage": ""
+}

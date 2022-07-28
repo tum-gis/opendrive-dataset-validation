@@ -1,0 +1,215 @@
+{
+    "parameters": {
+        "numberTolerance": 1.0E-7,
+        "planViewGeometryDistanceTolerance": 1.0,
+        "planViewGeometryDistanceWarningTolerance": 0.001,
+        "planViewGeometryAngleTolerance": 1.0,
+        "planViewGeometryAngleWarningTolerance": 0.001
+    },
+    "basicDataTypePlan": [
+        {
+            "type": "EmptyValueForOptionalAttribute",
+            "info": "Attribute 'name' is set with an empty value even though the attribute itself is optional.",
+            "location": "Header element",
+            "incidentSeverity": "WARNING",
+            "wasHealed": true,
+            "messageSeverity": "WARNING"
+        }
+    ],
+    "modelingRulesPlan": [
+        {
+            "type": "",
+            "info": "The length of lane sections shall be greater than zero.",
+            "location": "Road: roadId=125",
+            "incidentSeverity": "FATAL_ERROR",
+            "wasHealed": false,
+            "messageSeverity": "FATAL_ERROR"
+        },
+        {
+            "type": "",
+            "info": "The length of lane sections shall be greater than zero.",
+            "location": "Road: roadId=126",
+            "incidentSeverity": "FATAL_ERROR",
+            "wasHealed": false,
+            "messageSeverity": "FATAL_ERROR"
+        },
+        {
+            "type": "",
+            "info": "The length of lane sections shall be greater than zero.",
+            "location": "Road: roadId=258",
+            "incidentSeverity": "FATAL_ERROR",
+            "wasHealed": false,
+            "messageSeverity": "FATAL_ERROR"
+        },
+        {
+            "type": "",
+            "info": "The length of lane sections shall be greater than zero.",
+            "location": "Road: roadId=259",
+            "incidentSeverity": "FATAL_ERROR",
+            "wasHealed": false,
+            "messageSeverity": "FATAL_ERROR"
+        },
+        {
+            "type": "",
+            "info": "The length of lane sections shall be greater than zero.",
+            "location": "Road: roadId=363",
+            "incidentSeverity": "FATAL_ERROR",
+            "wasHealed": false,
+            "messageSeverity": "FATAL_ERROR"
+        },
+        {
+            "type": "",
+            "info": "The length of lane sections shall be greater than zero.",
+            "location": "Road: roadId=364",
+            "incidentSeverity": "FATAL_ERROR",
+            "wasHealed": false,
+            "messageSeverity": "FATAL_ERROR"
+        },
+        {
+            "type": "",
+            "info": "The length of lane sections shall be greater than zero.",
+            "location": "Road: roadId=523",
+            "incidentSeverity": "FATAL_ERROR",
+            "wasHealed": false,
+            "messageSeverity": "FATAL_ERROR"
+        },
+        {
+            "type": "",
+            "info": "The length of lane sections shall be greater than zero.",
+            "location": "Road: roadId=524",
+            "incidentSeverity": "FATAL_ERROR",
+            "wasHealed": false,
+            "messageSeverity": "FATAL_ERROR"
+        },
+        {
+            "type": "",
+            "info": "The length of lane sections shall be greater than zero.",
+            "location": "Road: roadId=593",
+            "incidentSeverity": "FATAL_ERROR",
+            "wasHealed": false,
+            "messageSeverity": "FATAL_ERROR"
+        },
+        {
+            "type": "",
+            "info": "The length of lane sections shall be greater than zero.",
+            "location": "Road: roadId=594",
+            "incidentSeverity": "FATAL_ERROR",
+            "wasHealed": false,
+            "messageSeverity": "FATAL_ERROR"
+        },
+        {
+            "type": "",
+            "info": "The length of lane sections shall be greater than zero.",
+            "location": "Road: roadId=721",
+            "incidentSeverity": "FATAL_ERROR",
+            "wasHealed": false,
+            "messageSeverity": "FATAL_ERROR"
+        },
+        {
+            "type": "",
+            "info": "The length of lane sections shall be greater than zero.",
+            "location": "Road: roadId=722",
+            "incidentSeverity": "FATAL_ERROR",
+            "wasHealed": false,
+            "messageSeverity": "FATAL_ERROR"
+        },
+        {
+            "type": "",
+            "info": "The length of lane sections shall be greater than zero.",
+            "location": "Road: roadId=125",
+            "incidentSeverity": "FATAL_ERROR",
+            "wasHealed": false,
+            "messageSeverity": "FATAL_ERROR"
+        },
+        {
+            "type": "",
+            "info": "The length of lane sections shall be greater than zero.",
+            "location": "Road: roadId=126",
+            "incidentSeverity": "FATAL_ERROR",
+            "wasHealed": false,
+            "messageSeverity": "FATAL_ERROR"
+        },
+        {
+            "type": "",
+            "info": "The length of lane sections shall be greater than zero.",
+            "location": "Road: roadId=258",
+            "incidentSeverity": "FATAL_ERROR",
+            "wasHealed": false,
+            "messageSeverity": "FATAL_ERROR"
+        },
+        {
+            "type": "",
+            "info": "The length of lane sections shall be greater than zero.",
+            "location": "Road: roadId=259",
+            "incidentSeverity": "FATAL_ERROR",
+            "wasHealed": false,
+            "messageSeverity": "FATAL_ERROR"
+        },
+        {
+            "type": "",
+            "info": "The length of lane sections shall be greater than zero.",
+            "location": "Road: roadId=363",
+            "incidentSeverity": "FATAL_ERROR",
+            "wasHealed": false,
+            "messageSeverity": "FATAL_ERROR"
+        },
+        {
+            "type": "",
+            "info": "The length of lane sections shall be greater than zero.",
+            "location": "Road: roadId=364",
+            "incidentSeverity": "FATAL_ERROR",
+            "wasHealed": false,
+            "messageSeverity": "FATAL_ERROR"
+        },
+        {
+            "type": "",
+            "info": "The length of lane sections shall be greater than zero.",
+            "location": "Road: roadId=523",
+            "incidentSeverity": "FATAL_ERROR",
+            "wasHealed": false,
+            "messageSeverity": "FATAL_ERROR"
+        },
+        {
+            "type": "",
+            "info": "The length of lane sections shall be greater than zero.",
+            "location": "Road: roadId=524",
+            "incidentSeverity": "FATAL_ERROR",
+            "wasHealed": false,
+            "messageSeverity": "FATAL_ERROR"
+        },
+        {
+            "type": "",
+            "info": "The length of lane sections shall be greater than zero.",
+            "location": "Road: roadId=593",
+            "incidentSeverity": "FATAL_ERROR",
+            "wasHealed": false,
+            "messageSeverity": "FATAL_ERROR"
+        },
+        {
+            "type": "",
+            "info": "The length of lane sections shall be greater than zero.",
+            "location": "Road: roadId=594",
+            "incidentSeverity": "FATAL_ERROR",
+            "wasHealed": false,
+            "messageSeverity": "FATAL_ERROR"
+        },
+        {
+            "type": "",
+            "info": "The length of lane sections shall be greater than zero.",
+            "location": "Road: roadId=721",
+            "incidentSeverity": "FATAL_ERROR",
+            "wasHealed": false,
+            "messageSeverity": "FATAL_ERROR"
+        },
+        {
+            "type": "",
+            "info": "The length of lane sections shall be greater than zero.",
+            "location": "Road: roadId=722",
+            "incidentSeverity": "FATAL_ERROR",
+            "wasHealed": false,
+            "messageSeverity": "FATAL_ERROR"
+        }
+    ],
+    "conversionRequirementsPlan": [
+    ]
+}

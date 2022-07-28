@@ -1,0 +1,279 @@
+{
+    "parameters": {
+        "numberTolerance": 1.0E-7,
+        "planViewGeometryDistanceTolerance": 1.0,
+        "planViewGeometryDistanceWarningTolerance": 0.001,
+        "planViewGeometryAngleTolerance": 1.0,
+        "planViewGeometryAngleWarningTolerance": 0.001
+    },
+    "basicDataTypePlan": [
+        {
+            "type": "EmptyValueForOptionalAttribute",
+            "info": "Attribute 'name' is set with an empty value even though the attribute itself is optional.",
+            "location": "Header element",
+            "incidentSeverity": "WARNING",
+            "wasHealed": true,
+            "messageSeverity": "WARNING"
+        },
+        {
+            "type": "UnexpectedValue",
+            "info": "Unexpected value for attribute 't'",
+            "location": "Road signal: roadSignalId=4, roadId=100",
+            "incidentSeverity": "WARNING",
+            "wasHealed": true,
+            "messageSeverity": "WARNING"
+        },
+        {
+            "type": "UnexpectedValue",
+            "info": "Unexpected value for attribute 'unit'",
+            "location": "Road signal: roadSignalId=4, roadId=100",
+            "incidentSeverity": "WARNING",
+            "wasHealed": true,
+            "messageSeverity": "WARNING"
+        },
+        {
+            "type": "UnexpectedValue",
+            "info": "Unexpected value for attribute 't'",
+            "location": "Road signal: roadSignalId=3, roadId=100",
+            "incidentSeverity": "WARNING",
+            "wasHealed": true,
+            "messageSeverity": "WARNING"
+        },
+        {
+            "type": "UnexpectedValue",
+            "info": "Unexpected value for attribute 'unit'",
+            "location": "Road signal: roadSignalId=3, roadId=100",
+            "incidentSeverity": "WARNING",
+            "wasHealed": true,
+            "messageSeverity": "WARNING"
+        },
+        {
+            "type": "UnexpectedValue",
+            "info": "Unexpected value for attribute 'unit'",
+            "location": "Road signal: roadSignalId=1, roadId=100",
+            "incidentSeverity": "WARNING",
+            "wasHealed": true,
+            "messageSeverity": "WARNING"
+        },
+        {
+            "type": "UnexpectedValue",
+            "info": "Unexpected value for attribute 'unit'",
+            "location": "Road signal: roadSignalId=2, roadId=100",
+            "incidentSeverity": "WARNING",
+            "wasHealed": true,
+            "messageSeverity": "WARNING"
+        },
+        {
+            "type": "UnexpectedValue",
+            "info": "Unexpected value for attribute 't'",
+            "location": "Road signal: roadSignalId=44, roadId=102",
+            "incidentSeverity": "WARNING",
+            "wasHealed": true,
+            "messageSeverity": "WARNING"
+        },
+        {
+            "type": "UnexpectedValue",
+            "info": "Unexpected value for attribute 'unit'",
+            "location": "Road signal: roadSignalId=44, roadId=102",
+            "incidentSeverity": "WARNING",
+            "wasHealed": true,
+            "messageSeverity": "WARNING"
+        },
+        {
+            "type": "UnexpectedValue",
+            "info": "Unexpected value for attribute 't'",
+            "location": "Road signal: roadSignalId=43, roadId=102",
+            "incidentSeverity": "WARNING",
+            "wasHealed": true,
+            "messageSeverity": "WARNING"
+        },
+        {
+            "type": "UnexpectedValue",
+            "info": "Unexpected value for attribute 'unit'",
+            "location": "Road signal: roadSignalId=43, roadId=102",
+            "incidentSeverity": "WARNING",
+            "wasHealed": true,
+            "messageSeverity": "WARNING"
+        },
+        {
+            "type": "UnexpectedValue",
+            "info": "Unexpected value for attribute 'unit'",
+            "location": "Road signal: roadSignalId=41, roadId=102",
+            "incidentSeverity": "WARNING",
+            "wasHealed": true,
+            "messageSeverity": "WARNING"
+        },
+        {
+            "type": "UnexpectedValue",
+            "info": "Unexpected value for attribute 'unit'",
+            "location": "Road signal: roadSignalId=42, roadId=102",
+            "incidentSeverity": "WARNING",
+            "wasHealed": true,
+            "messageSeverity": "WARNING"
+        },
+        {
+            "type": "UnexpectedValue",
+            "info": "Unexpected value for attribute 't'",
+            "location": "Road signal: roadSignalId=54, roadId=107",
+            "incidentSeverity": "WARNING",
+            "wasHealed": true,
+            "messageSeverity": "WARNING"
+        },
+        {
+            "type": "UnexpectedValue",
+            "info": "Unexpected value for attribute 'unit'",
+            "location": "Road signal: roadSignalId=54, roadId=107",
+            "incidentSeverity": "WARNING",
+            "wasHealed": true,
+            "messageSeverity": "WARNING"
+        },
+        {
+            "type": "UnexpectedValue",
+            "info": "Unexpected value for attribute 't'",
+            "location": "Road signal: roadSignalId=53, roadId=107",
+            "incidentSeverity": "WARNING",
+            "wasHealed": true,
+            "messageSeverity": "WARNING"
+        },
+        {
+            "type": "UnexpectedValue",
+            "info": "Unexpected value for attribute 'unit'",
+            "location": "Road signal: roadSignalId=53, roadId=107",
+            "incidentSeverity": "WARNING",
+            "wasHealed": true,
+            "messageSeverity": "WARNING"
+        },
+        {
+            "type": "UnexpectedValue",
+            "info": "Unexpected value for attribute 'unit'",
+            "location": "Road signal: roadSignalId=51, roadId=107",
+            "incidentSeverity": "WARNING",
+            "wasHealed": true,
+            "messageSeverity": "WARNING"
+        },
+        {
+            "type": "UnexpectedValue",
+            "info": "Unexpected value for attribute 'unit'",
+            "location": "Road signal: roadSignalId=52, roadId=107",
+            "incidentSeverity": "WARNING",
+            "wasHealed": true,
+            "messageSeverity": "WARNING"
+        },
+        {
+            "type": "UnexpectedValue",
+            "info": "Unexpected value for attribute 't'",
+            "location": "Road signal: roadSignalId=64, roadId=110",
+            "incidentSeverity": "WARNING",
+            "wasHealed": true,
+            "messageSeverity": "WARNING"
+        },
+        {
+            "type": "UnexpectedValue",
+            "info": "Unexpected value for attribute 'unit'",
+            "location": "Road signal: roadSignalId=64, roadId=110",
+            "incidentSeverity": "WARNING",
+            "wasHealed": true,
+            "messageSeverity": "WARNING"
+        },
+        {
+            "type": "UnexpectedValue",
+            "info": "Unexpected value for attribute 't'",
+            "location": "Road signal: roadSignalId=63, roadId=110",
+            "incidentSeverity": "WARNING",
+            "wasHealed": true,
+            "messageSeverity": "WARNING"
+        },
+        {
+            "type": "UnexpectedValue",
+            "info": "Unexpected value for attribute 'unit'",
+            "location": "Road signal: roadSignalId=63, roadId=110",
+            "incidentSeverity": "WARNING",
+            "wasHealed": true,
+            "messageSeverity": "WARNING"
+        },
+        {
+            "type": "UnexpectedValue",
+            "info": "Unexpected value for attribute 'unit'",
+            "location": "Road signal: roadSignalId=61, roadId=110",
+            "incidentSeverity": "WARNING",
+            "wasHealed": true,
+            "messageSeverity": "WARNING"
+        },
+        {
+            "type": "UnexpectedValue",
+            "info": "Unexpected value for attribute 'unit'",
+            "location": "Road signal: roadSignalId=62, roadId=110",
+            "incidentSeverity": "WARNING",
+            "wasHealed": true,
+            "messageSeverity": "WARNING"
+        },
+        {
+            "type": "EmptyValueForOptionalAttribute",
+            "info": "Attribute 'name' is set with an empty value even though the attribute itself is optional.",
+            "location": "Junction: junctionId=43",
+            "incidentSeverity": "WARNING",
+            "wasHealed": true,
+            "messageSeverity": "WARNING"
+        },
+        {
+            "type": "EmptyValueForOptionalAttribute",
+            "info": "Attribute 'name' is set with an empty value even though the attribute itself is optional.",
+            "location": "Junction: junctionId=44",
+            "incidentSeverity": "WARNING",
+            "wasHealed": true,
+            "messageSeverity": "WARNING"
+        },
+        {
+            "type": "EmptyValueForOptionalAttribute",
+            "info": "Attribute 'name' is set with an empty value even though the attribute itself is optional.",
+            "location": "Junction: junctionId=45",
+            "incidentSeverity": "WARNING",
+            "wasHealed": true,
+            "messageSeverity": "WARNING"
+        },
+        {
+            "type": "EmptyValueForOptionalAttribute",
+            "info": "Attribute 'name' is set with an empty value even though the attribute itself is optional.",
+            "location": "Junction: junctionId=46",
+            "incidentSeverity": "WARNING",
+            "wasHealed": true,
+            "messageSeverity": "WARNING"
+        }
+    ],
+    "modelingRulesPlan": [
+        {
+            "type": "",
+            "info": "Junctions of type default should only be used when at least three roads are coming in (currently incoming road ids: [108, 115])",
+            "location": "Junction: junctionId=43",
+            "incidentSeverity": "WARNING",
+            "wasHealed": false,
+            "messageSeverity": "WARNING"
+        },
+        {
+            "type": "",
+            "info": "Junctions of type default should only be used when at least three roads are coming in (currently incoming road ids: [101, 117])",
+            "location": "Junction: junctionId=44",
+            "incidentSeverity": "WARNING",
+            "wasHealed": false,
+            "messageSeverity": "WARNING"
+        },
+        {
+            "type": "",
+            "info": "Junctions of type default should only be used when at least three roads are coming in (currently incoming road ids: [119, 116])",
+            "location": "Junction: junctionId=45",
+            "incidentSeverity": "WARNING",
+            "wasHealed": false,
+            "messageSeverity": "WARNING"
+        },
+        {
+            "type": "",
+            "info": "Junctions of type default should only be used when at least three roads are coming in (currently incoming road ids: [113, 114])",
+            "location": "Junction: junctionId=46",
+            "incidentSeverity": "WARNING",
+            "wasHealed": false,
+            "messageSeverity": "WARNING"
+        }
+    ],
+    "conversionRequirementsPlan": [
+    ]
+}

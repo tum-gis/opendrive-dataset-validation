@@ -1,0 +1,119 @@
+{
+    "parameters": {
+        "numberTolerance": 1.0E-7,
+        "planViewGeometryDistanceTolerance": 1.0,
+        "planViewGeometryDistanceWarningTolerance": 0.001,
+        "planViewGeometryAngleTolerance": 1.0,
+        "planViewGeometryAngleWarningTolerance": 0.001
+    },
+    "basicDataTypePlan": [
+        {
+            "type": "EmptyValueForOptionalAttribute",
+            "info": "Attribute 'name' is set with an empty value even though the attribute itself is optional.",
+            "location": "Header element",
+            "incidentSeverity": "WARNING",
+            "wasHealed": true,
+            "messageSeverity": "WARNING"
+        },
+        {
+            "type": "UnexpectedValue",
+            "info": "Unexpected value for attribute 't'",
+            "location": "Road signal: roadSignalId=2, roadId=9",
+            "incidentSeverity": "WARNING",
+            "wasHealed": true,
+            "messageSeverity": "WARNING"
+        },
+        {
+            "type": "UnexpectedValue",
+            "info": "Unexpected value for attribute 't'",
+            "location": "Road signal: roadSignalId=1204, roadId=9",
+            "incidentSeverity": "WARNING",
+            "wasHealed": true,
+            "messageSeverity": "WARNING"
+        },
+        {
+            "type": "UnexpectedValue",
+            "info": "Unexpected value for attribute 't'",
+            "location": "Road signal: roadSignalId=3, roadId=14",
+            "incidentSeverity": "WARNING",
+            "wasHealed": true,
+            "messageSeverity": "WARNING"
+        },
+        {
+            "type": "UnexpectedValue",
+            "info": "Unexpected value for attribute 't'",
+            "location": "Road signal: roadSignalId=6, roadId=14",
+            "incidentSeverity": "WARNING",
+            "wasHealed": true,
+            "messageSeverity": "WARNING"
+        },
+        {
+            "type": "UnexpectedValue",
+            "info": "Unexpected value for attribute 't'",
+            "location": "Road signal: roadSignalId=1, roadId=15",
+            "incidentSeverity": "WARNING",
+            "wasHealed": true,
+            "messageSeverity": "WARNING"
+        },
+        {
+            "type": "UnexpectedValue",
+            "info": "Unexpected value for attribute 't'",
+            "location": "Road signal: roadSignalId=7, roadId=15",
+            "incidentSeverity": "WARNING",
+            "wasHealed": true,
+            "messageSeverity": "WARNING"
+        },
+        {
+            "type": "EmptyValueForOptionalAttribute",
+            "info": "Attribute 'name' is set with an empty value even though the attribute itself is optional.",
+            "location": "Junction: junctionId=42",
+            "incidentSeverity": "WARNING",
+            "wasHealed": true,
+            "messageSeverity": "WARNING"
+        },
+        {
+            "type": "EmptyValueForOptionalAttribute",
+            "info": "Attribute 'name' is set with an empty value even though the attribute itself is optional.",
+            "location": "Junction: junctionId=43",
+            "incidentSeverity": "WARNING",
+            "wasHealed": true,
+            "messageSeverity": "WARNING"
+        },
+        {
+            "type": "EmptyValueForOptionalAttribute",
+            "info": "Attribute 'name' is set with an empty value even though the attribute itself is optional.",
+            "location": "Junction: junctionId=44",
+            "incidentSeverity": "WARNING",
+            "wasHealed": true,
+            "messageSeverity": "WARNING"
+        }
+    ],
+    "modelingRulesPlan": [
+        {
+            "type": "",
+            "info": "Junctions of type default should only be used when at least three roads are coming in (currently incoming road ids: [11, 2])",
+            "location": "Junction: junctionId=42",
+            "incidentSeverity": "WARNING",
+            "wasHealed": false,
+            "messageSeverity": "WARNING"
+        },
+        {
+            "type": "",
+            "info": "Junctions of type default should only be used when at least three roads are coming in (currently incoming road ids: [3, 8])",
+            "location": "Junction: junctionId=43",
+            "incidentSeverity": "WARNING",
+            "wasHealed": false,
+            "messageSeverity": "WARNING"
+        },
+        {
+            "type": "",
+            "info": "Junctions of type default should only be used when at least three roads are coming in (currently incoming road ids: [1, 12])",
+            "location": "Junction: junctionId=44",
+            "incidentSeverity": "WARNING",
+            "wasHealed": false,
+            "messageSeverity": "WARNING"
+        }
+    ],
+    "conversionRequirementsPlan": [
+    ]
+}

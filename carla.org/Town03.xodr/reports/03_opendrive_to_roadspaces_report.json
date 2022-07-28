@@ -1,0 +1,29 @@
+{
+    "parameters": {
+        "concurrentProcessing": false,
+        "numberTolerance": 1.0E-7,
+        "planViewGeometryDistanceTolerance": 1.0,
+        "planViewGeometryAngleTolerance": 1.0,
+        "attributesPrefix": "opendrive_",
+        "crsEpsg": 0,
+        "extrapolateLateralRoadShapes": false
+    },
+    "conversion": [
+        {
+            "type": "UnknownCoordinateReferenceSystem",
+            "info": "Coordinate reference system is not known.",
+            "location": "Header element",
+            "incidentSeverity": "WARNING",
+            "wasHealed": false,
+            "messageSeverity": "WARNING"
+        },
+        {
+            "type": "",
+            "info": "Length of road marking is zero (or below tolerance threshold).",
+            "location": "Lane road mark: laneRoadMarkIndex=0, laneId=-5, laneSectionIndex=1, roadId=686",
+            "incidentSeverity": "WARNING",
+            "wasHealed": true,
+            "messageSeverity": "WARNING"
+        }
+    ]
+}

@@ -1,0 +1,29 @@
+{
+    "parameters": {
+        "concurrentProcessing": false,
+        "numberTolerance": 1.0E-7,
+        "planViewGeometryDistanceTolerance": 1.0,
+        "planViewGeometryAngleTolerance": 1.0,
+        "attributesPrefix": "opendrive_",
+        "crsEpsg": 0,
+        "extrapolateLateralRoadShapes": false
+    },
+    "conversion": [
+        {
+            "type": "",
+            "info": "Road mark entries have been removed, as the sOffset is not located within the local curve position domain (Range([0.0..257.68490719436477])) of the lane section.",
+            "location": "Lane road mark: laneRoadMarkIndex=0, laneId=-1, laneSectionIndex=0, roadId=17",
+            "incidentSeverity": "WARNING",
+            "wasHealed": true,
+            "messageSeverity": "WARNING"
+        },
+        {
+            "type": "",
+            "info": "Road mark entries have been removed, as the sOffset is not located within the local curve position domain (Range([0.0..257.68490719436477])) of the lane section.",
+            "location": "Lane road mark: laneRoadMarkIndex=0, laneId=0, laneSectionIndex=0, roadId=17",
+            "incidentSeverity": "WARNING",
+            "wasHealed": true,
+            "messageSeverity": "WARNING"
+        }
+    ]
+}

@@ -1,0 +1,103 @@
+{
+    "opendriveVersion": "V_1_6",
+    "validationMessages": [
+        {
+            "description": "cvc-enumeration-valid: Value 'roadmark' is not facet-valid with respect to enumeration '[none, obstacle, car, pole, tree, vegetation, barrier, building, parkingSpace, patch, railing, trafficIsland, crosswalk, streetLamp, gantry, soundBarrier, van, bus, trailer, bike, motorbike, tram, train, pedestrian, wind, roadMark]'. It must be a value from the enumeration.",
+            "severity": "FATAL_ERROR",
+            "lineNumber": 3110,
+            "columnNumber": 323
+        },
+        {
+            "description": "cvc-attribute.3: The value 'roadmark' of attribute 'type' on element 'object' is not valid with respect to its type, 'e_objectType'.",
+            "severity": "FATAL_ERROR",
+            "lineNumber": 3110,
+            "columnNumber": 323
+        },
+        {
+            "description": "cvc-enumeration-valid: Value 'roadmark' is not facet-valid with respect to enumeration '[none, obstacle, car, pole, tree, vegetation, barrier, building, parkingSpace, patch, railing, trafficIsland, crosswalk, streetLamp, gantry, soundBarrier, van, bus, trailer, bike, motorbike, tram, train, pedestrian, wind, roadMark]'. It must be a value from the enumeration.",
+            "severity": "FATAL_ERROR",
+            "lineNumber": 3111,
+            "columnNumber": 324
+        },
+        {
+            "description": "cvc-attribute.3: The value 'roadmark' of attribute 'type' on element 'object' is not valid with respect to its type, 'e_objectType'.",
+            "severity": "FATAL_ERROR",
+            "lineNumber": 3111,
+            "columnNumber": 324
+        },
+        {
+            "description": "cvc-enumeration-valid: Value 'roadmark' is not facet-valid with respect to enumeration '[none, obstacle, car, pole, tree, vegetation, barrier, building, parkingSpace, patch, railing, trafficIsland, crosswalk, streetLamp, gantry, soundBarrier, van, bus, trailer, bike, motorbike, tram, train, pedestrian, wind, roadMark]'. It must be a value from the enumeration.",
+            "severity": "FATAL_ERROR",
+            "lineNumber": 5616,
+            "columnNumber": 324
+        },
+        {
+            "description": "cvc-attribute.3: The value 'roadmark' of attribute 'type' on element 'object' is not valid with respect to its type, 'e_objectType'.",
+            "severity": "FATAL_ERROR",
+            "lineNumber": 5616,
+            "columnNumber": 324
+        },
+        {
+            "description": "cvc-enumeration-valid: Value 'roadmark' is not facet-valid with respect to enumeration '[none, obstacle, car, pole, tree, vegetation, barrier, building, parkingSpace, patch, railing, trafficIsland, crosswalk, streetLamp, gantry, soundBarrier, van, bus, trailer, bike, motorbike, tram, train, pedestrian, wind, roadMark]'. It must be a value from the enumeration.",
+            "severity": "FATAL_ERROR",
+            "lineNumber": 5617,
+            "columnNumber": 324
+        },
+        {
+            "description": "cvc-attribute.3: The value 'roadmark' of attribute 'type' on element 'object' is not valid with respect to its type, 'e_objectType'.",
+            "severity": "FATAL_ERROR",
+            "lineNumber": 5617,
+            "columnNumber": 324
+        },
+        {
+            "description": "cvc-enumeration-valid: Value 'roadmark' is not facet-valid with respect to enumeration '[none, obstacle, car, pole, tree, vegetation, barrier, building, parkingSpace, patch, railing, trafficIsland, crosswalk, streetLamp, gantry, soundBarrier, van, bus, trailer, bike, motorbike, tram, train, pedestrian, wind, roadMark]'. It must be a value from the enumeration.",
+            "severity": "FATAL_ERROR",
+            "lineNumber": 5618,
+            "columnNumber": 326
+        },
+        {
+            "description": "cvc-attribute.3: The value 'roadmark' of attribute 'type' on element 'object' is not valid with respect to its type, 'e_objectType'.",
+            "severity": "FATAL_ERROR",
+            "lineNumber": 5618,
+            "columnNumber": 326
+        },
+        {
+            "description": "cvc-enumeration-valid: Value 'roadmark' is not facet-valid with respect to enumeration '[none, obstacle, car, pole, tree, vegetation, barrier, building, parkingSpace, patch, railing, trafficIsland, crosswalk, streetLamp, gantry, soundBarrier, van, bus, trailer, bike, motorbike, tram, train, pedestrian, wind, roadMark]'. It must be a value from the enumeration.",
+            "severity": "FATAL_ERROR",
+            "lineNumber": 5619,
+            "columnNumber": 322
+        },
+        {
+            "description": "cvc-attribute.3: The value 'roadmark' of attribute 'type' on element 'object' is not valid with respect to its type, 'e_objectType'.",
+            "severity": "FATAL_ERROR",
+            "lineNumber": 5619,
+            "columnNumber": 322
+        },
+        {
+            "description": "cvc-enumeration-valid: Value 'roadmark' is not facet-valid with respect to enumeration '[none, obstacle, car, pole, tree, vegetation, barrier, building, parkingSpace, patch, railing, trafficIsland, crosswalk, streetLamp, gantry, soundBarrier, van, bus, trailer, bike, motorbike, tram, train, pedestrian, wind, roadMark]'. It must be a value from the enumeration.",
+            "severity": "FATAL_ERROR",
+            "lineNumber": 17239,
+            "columnNumber": 324
+        },
+        {
+            "description": "cvc-attribute.3: The value 'roadmark' of attribute 'type' on element 'object' is not valid with respect to its type, 'e_objectType'.",
+            "severity": "FATAL_ERROR",
+            "lineNumber": 17239,
+            "columnNumber": 324
+        },
+        {
+            "description": "cvc-enumeration-valid: Value '-1' is not facet-valid with respect to enumeration '[none, obstacle, car, pole, tree, vegetation, barrier, building, parkingSpace, patch, railing, trafficIsland, crosswalk, streetLamp, gantry, soundBarrier, van, bus, trailer, bike, motorbike, tram, train, pedestrian, wind, roadMark]'. It must be a value from the enumeration.",
+            "severity": "FATAL_ERROR",
+            "lineNumber": 93107,
+            "columnNumber": 255
+        },
+        {
+            "description": "cvc-attribute.3: The value '-1' of attribute 'type' on element 'object' is not valid with respect to its type, 'e_objectType'.",
+            "severity": "FATAL_ERROR",
+            "lineNumber": 93107,
+            "columnNumber": 255
+        }
+    ],
+    "completedSuccessfully": true,
+    "validationAbortMessage": ""
+}

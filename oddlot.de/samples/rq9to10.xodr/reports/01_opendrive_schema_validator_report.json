@@ -1,0 +1,49 @@
+{
+    "opendriveVersion": "V_1_2",
+    "validationMessages": [
+        {
+            "description": "cvc-complex-type.2.4.a: Invalid content was found starting with element 'center'. One of '{userData, include}' is expected.",
+            "severity": "FATAL_ERROR",
+            "lineNumber": 43,
+            "columnNumber": 21
+        },
+        {
+            "description": "cvc-complex-type.3.2.2: Attribute 'laneChange' is not allowed to appear in element 'roadMark'.",
+            "severity": "FATAL_ERROR",
+            "lineNumber": 45,
+            "columnNumber": 122
+        },
+        {
+            "description": "cvc-complex-type.2.4.a: Invalid content was found starting with element 'center'. One of '{userData, include}' is expected.",
+            "severity": "FATAL_ERROR",
+            "lineNumber": 86,
+            "columnNumber": 21
+        },
+        {
+            "description": "cvc-complex-type.3.2.2: Attribute 'laneChange' is not allowed to appear in element 'roadMark'.",
+            "severity": "FATAL_ERROR",
+            "lineNumber": 88,
+            "columnNumber": 122
+        },
+        {
+            "description": "cvc-complex-type.2.4.a: Invalid content was found starting with element 'center'. One of '{userData, include}' is expected.",
+            "severity": "FATAL_ERROR",
+            "lineNumber": 129,
+            "columnNumber": 21
+        },
+        {
+            "description": "cvc-complex-type.3.2.2: Attribute 'laneChange' is not allowed to appear in element 'roadMark'.",
+            "severity": "FATAL_ERROR",
+            "lineNumber": 131,
+            "columnNumber": 122
+        },
+        {
+            "description": "cvc-complex-type.2.4.a: Invalid content was found starting with element 'type'. One of '{objects, signals, surface}' is expected.",
+            "severity": "FATAL_ERROR",
+            "lineNumber": 154,
+            "columnNumber": 36
+        }
+    ],
+    "completedSuccessfully": true,
+    "validationAbortMessage": ""
+}

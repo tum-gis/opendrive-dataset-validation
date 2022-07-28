@@ -1,0 +1,19 @@
+{
+    "opendriveVersion": "V_1_5",
+    "validationMessages": [
+        {
+            "description": "cvc-datatype-valid.1.2.3: 'DE' is not a valid value of union type 'e_countryCode'.",
+            "severity": "FATAL_ERROR",
+            "lineNumber": 8,
+            "columnNumber": 68
+        },
+        {
+            "description": "cvc-attribute.3: The value 'DE' of attribute 'country' on element 'type' is not valid with respect to its type, 'e_countryCode'.",
+            "severity": "FATAL_ERROR",
+            "lineNumber": 8,
+            "columnNumber": 68
+        }
+    ],
+    "completedSuccessfully": true,
+    "validationAbortMessage": ""
+}

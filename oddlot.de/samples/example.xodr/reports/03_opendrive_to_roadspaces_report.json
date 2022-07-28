@@ -1,0 +1,13 @@
+{
+    "parameters": {
+        "concurrentProcessing": false,
+        "numberTolerance": 1.0E-7,
+        "planViewGeometryDistanceTolerance": 1.0,
+        "planViewGeometryAngleTolerance": 1.0,
+        "attributesPrefix": "opendrive_",
+        "crsEpsg": 0,
+        "extrapolateLateralRoadShapes": false
+    },
+    "conversion": [
+    ]
+}

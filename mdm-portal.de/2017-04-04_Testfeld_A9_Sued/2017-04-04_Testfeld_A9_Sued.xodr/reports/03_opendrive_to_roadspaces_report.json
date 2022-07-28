@@ -1,0 +1,29 @@
+{
+    "parameters": {
+        "concurrentProcessing": false,
+        "numberTolerance": 1.0E-7,
+        "planViewGeometryDistanceTolerance": 1.0,
+        "planViewGeometryAngleTolerance": 1.0,
+        "attributesPrefix": "opendrive_",
+        "crsEpsg": 0,
+        "extrapolateLateralRoadShapes": false
+    },
+    "conversion": [
+        {
+            "type": "UnknownCoordinateReferenceSystem",
+            "info": "Coordinate reference system is not known.",
+            "location": "Header element",
+            "incidentSeverity": "WARNING",
+            "wasHealed": false,
+            "messageSeverity": "WARNING"
+        },
+        {
+            "type": "",
+            "info": "Ignoring at least one vertex due to linear redundancy.",
+            "location": "Road object outline: outlineId=0, roadObjectId=4000094, roadId=1111000",
+            "incidentSeverity": "WARNING",
+            "wasHealed": true,
+            "messageSeverity": "WARNING"
+        }
+    ]
+}

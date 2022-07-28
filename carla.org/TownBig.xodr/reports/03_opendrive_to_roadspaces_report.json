@@ -1,0 +1,461 @@
+{
+    "parameters": {
+        "concurrentProcessing": false,
+        "numberTolerance": 1.0E-7,
+        "planViewGeometryDistanceTolerance": 1.0,
+        "planViewGeometryAngleTolerance": 1.0,
+        "attributesPrefix": "opendrive_",
+        "crsEpsg": 0,
+        "extrapolateLateralRoadShapes": false
+    },
+    "conversion": [
+        {
+            "type": "UnknownCoordinateReferenceSystem",
+            "info": "Coordinate reference system is not known.",
+            "location": "Header element",
+            "incidentSeverity": "WARNING",
+            "wasHealed": false,
+            "messageSeverity": "WARNING"
+        },
+        {
+            "type": "",
+            "info": "A linear ring requires at least three valid vertices.",
+            "location": "Road object outline: outlineId=0, roadObjectId=6614, roadId=28",
+            "incidentSeverity": "WARNING",
+            "wasHealed": true,
+            "messageSeverity": "WARNING"
+        },
+        {
+            "type": "",
+            "info": "A linear ring requires at least three valid vertices.",
+            "location": "Road object outline: outlineId=0, roadObjectId=6613, roadId=73",
+            "incidentSeverity": "WARNING",
+            "wasHealed": true,
+            "messageSeverity": "WARNING"
+        },
+        {
+            "type": "",
+            "info": "A linear ring requires at least three valid vertices.",
+            "location": "Road object outline: outlineId=0, roadObjectId=6595, roadId=80",
+            "incidentSeverity": "WARNING",
+            "wasHealed": true,
+            "messageSeverity": "WARNING"
+        },
+        {
+            "type": "",
+            "info": "A linear ring requires at least three valid vertices.",
+            "location": "Road object outline: outlineId=0, roadObjectId=6600, roadId=173",
+            "incidentSeverity": "WARNING",
+            "wasHealed": true,
+            "messageSeverity": "WARNING"
+        },
+        {
+            "type": "",
+            "info": "A linear ring requires at least three valid vertices.",
+            "location": "Road object outline: outlineId=0, roadObjectId=6601, roadId=174",
+            "incidentSeverity": "WARNING",
+            "wasHealed": true,
+            "messageSeverity": "WARNING"
+        },
+        {
+            "type": "",
+            "info": "A linear ring requires at least three valid vertices.",
+            "location": "Road object outline: outlineId=0, roadObjectId=6573, roadId=207",
+            "incidentSeverity": "WARNING",
+            "wasHealed": true,
+            "messageSeverity": "WARNING"
+        },
+        {
+            "type": "",
+            "info": "A linear ring requires at least three valid vertices.",
+            "location": "Road object outline: outlineId=0, roadObjectId=6576, roadId=208",
+            "incidentSeverity": "WARNING",
+            "wasHealed": true,
+            "messageSeverity": "WARNING"
+        },
+        {
+            "type": "",
+            "info": "A linear ring requires at least three valid vertices.",
+            "location": "Road object outline: outlineId=0, roadObjectId=6606, roadId=230",
+            "incidentSeverity": "WARNING",
+            "wasHealed": true,
+            "messageSeverity": "WARNING"
+        },
+        {
+            "type": "",
+            "info": "A linear ring requires at least three valid vertices.",
+            "location": "Road object outline: outlineId=0, roadObjectId=6610, roadId=253",
+            "incidentSeverity": "WARNING",
+            "wasHealed": true,
+            "messageSeverity": "WARNING"
+        },
+        {
+            "type": "",
+            "info": "A linear ring requires at least three valid vertices.",
+            "location": "Road object outline: outlineId=0, roadObjectId=6594, roadId=352",
+            "incidentSeverity": "WARNING",
+            "wasHealed": true,
+            "messageSeverity": "WARNING"
+        },
+        {
+            "type": "",
+            "info": "A linear ring requires at least three valid vertices.",
+            "location": "Road object outline: outlineId=0, roadObjectId=6566, roadId=367",
+            "incidentSeverity": "WARNING",
+            "wasHealed": true,
+            "messageSeverity": "WARNING"
+        },
+        {
+            "type": "",
+            "info": "A linear ring requires at least three valid vertices.",
+            "location": "Road object outline: outlineId=0, roadObjectId=6583, roadId=368",
+            "incidentSeverity": "WARNING",
+            "wasHealed": true,
+            "messageSeverity": "WARNING"
+        },
+        {
+            "type": "",
+            "info": "A linear ring requires at least three valid vertices.",
+            "location": "Road object outline: outlineId=0, roadObjectId=6582, roadId=369",
+            "incidentSeverity": "WARNING",
+            "wasHealed": true,
+            "messageSeverity": "WARNING"
+        },
+        {
+            "type": "",
+            "info": "A linear ring requires at least three valid vertices.",
+            "location": "Road object outline: outlineId=0, roadObjectId=6588, roadId=372",
+            "incidentSeverity": "WARNING",
+            "wasHealed": true,
+            "messageSeverity": "WARNING"
+        },
+        {
+            "type": "",
+            "info": "A linear ring requires at least three valid vertices.",
+            "location": "Road object outline: outlineId=0, roadObjectId=6607, roadId=401",
+            "incidentSeverity": "WARNING",
+            "wasHealed": true,
+            "messageSeverity": "WARNING"
+        },
+        {
+            "type": "",
+            "info": "A linear ring requires at least three valid vertices.",
+            "location": "Road object outline: outlineId=0, roadObjectId=6604, roadId=454",
+            "incidentSeverity": "WARNING",
+            "wasHealed": true,
+            "messageSeverity": "WARNING"
+        },
+        {
+            "type": "",
+            "info": "A linear ring requires at least three valid vertices.",
+            "location": "Road object outline: outlineId=0, roadObjectId=6603, roadId=455",
+            "incidentSeverity": "WARNING",
+            "wasHealed": true,
+            "messageSeverity": "WARNING"
+        },
+        {
+            "type": "",
+            "info": "A linear ring requires at least three valid vertices.",
+            "location": "Road object outline: outlineId=0, roadObjectId=6596, roadId=457",
+            "incidentSeverity": "WARNING",
+            "wasHealed": true,
+            "messageSeverity": "WARNING"
+        },
+        {
+            "type": "",
+            "info": "A linear ring requires at least three valid vertices.",
+            "location": "Road object outline: outlineId=0, roadObjectId=6574, roadId=695",
+            "incidentSeverity": "WARNING",
+            "wasHealed": true,
+            "messageSeverity": "WARNING"
+        },
+        {
+            "type": "",
+            "info": "A linear ring requires at least three valid vertices.",
+            "location": "Road object outline: outlineId=0, roadObjectId=6575, roadId=711",
+            "incidentSeverity": "WARNING",
+            "wasHealed": true,
+            "messageSeverity": "WARNING"
+        },
+        {
+            "type": "",
+            "info": "A linear ring requires at least three valid vertices.",
+            "location": "Road object outline: outlineId=0, roadObjectId=6609, roadId=1027",
+            "incidentSeverity": "WARNING",
+            "wasHealed": true,
+            "messageSeverity": "WARNING"
+        },
+        {
+            "type": "",
+            "info": "A linear ring requires at least three valid vertices.",
+            "location": "Road object outline: outlineId=0, roadObjectId=6593, roadId=1138",
+            "incidentSeverity": "WARNING",
+            "wasHealed": true,
+            "messageSeverity": "WARNING"
+        },
+        {
+            "type": "",
+            "info": "A linear ring requires at least three valid vertices.",
+            "location": "Road object outline: outlineId=0, roadObjectId=6570, roadId=1167",
+            "incidentSeverity": "WARNING",
+            "wasHealed": true,
+            "messageSeverity": "WARNING"
+        },
+        {
+            "type": "",
+            "info": "A linear ring requires at least three valid vertices.",
+            "location": "Road object outline: outlineId=0, roadObjectId=6597, roadId=1523",
+            "incidentSeverity": "WARNING",
+            "wasHealed": true,
+            "messageSeverity": "WARNING"
+        },
+        {
+            "type": "",
+            "info": "A linear ring requires at least three valid vertices.",
+            "location": "Road object outline: outlineId=0, roadObjectId=6586, roadId=1526",
+            "incidentSeverity": "WARNING",
+            "wasHealed": true,
+            "messageSeverity": "WARNING"
+        },
+        {
+            "type": "",
+            "info": "A linear ring requires at least three valid vertices.",
+            "location": "Road object outline: outlineId=0, roadObjectId=6585, roadId=1528",
+            "incidentSeverity": "WARNING",
+            "wasHealed": true,
+            "messageSeverity": "WARNING"
+        },
+        {
+            "type": "",
+            "info": "A linear ring requires at least three valid vertices.",
+            "location": "Road object outline: outlineId=0, roadObjectId=6584, roadId=1535",
+            "incidentSeverity": "WARNING",
+            "wasHealed": true,
+            "messageSeverity": "WARNING"
+        },
+        {
+            "type": "",
+            "info": "A linear ring requires at least three valid vertices.",
+            "location": "Road object outline: outlineId=0, roadObjectId=6564, roadId=1579",
+            "incidentSeverity": "WARNING",
+            "wasHealed": true,
+            "messageSeverity": "WARNING"
+        },
+        {
+            "type": "",
+            "info": "A linear ring requires at least three valid vertices.",
+            "location": "Road object outline: outlineId=0, roadObjectId=6608, roadId=1696",
+            "incidentSeverity": "WARNING",
+            "wasHealed": true,
+            "messageSeverity": "WARNING"
+        },
+        {
+            "type": "",
+            "info": "A linear ring requires at least three valid vertices.",
+            "location": "Road object outline: outlineId=0, roadObjectId=6598, roadId=1746",
+            "incidentSeverity": "WARNING",
+            "wasHealed": true,
+            "messageSeverity": "WARNING"
+        },
+        {
+            "type": "",
+            "info": "A linear ring requires at least three valid vertices.",
+            "location": "Road object outline: outlineId=0, roadObjectId=6563, roadId=2039",
+            "incidentSeverity": "WARNING",
+            "wasHealed": true,
+            "messageSeverity": "WARNING"
+        },
+        {
+            "type": "",
+            "info": "A linear ring requires at least three valid vertices.",
+            "location": "Road object outline: outlineId=0, roadObjectId=6590, roadId=2182",
+            "incidentSeverity": "WARNING",
+            "wasHealed": true,
+            "messageSeverity": "WARNING"
+        },
+        {
+            "type": "",
+            "info": "A linear ring requires at least three valid vertices.",
+            "location": "Road object outline: outlineId=0, roadObjectId=6571, roadId=2319",
+            "incidentSeverity": "WARNING",
+            "wasHealed": true,
+            "messageSeverity": "WARNING"
+        },
+        {
+            "type": "",
+            "info": "A linear ring requires at least three valid vertices.",
+            "location": "Road object outline: outlineId=0, roadObjectId=6572, roadId=2333",
+            "incidentSeverity": "WARNING",
+            "wasHealed": true,
+            "messageSeverity": "WARNING"
+        },
+        {
+            "type": "",
+            "info": "A linear ring requires at least three valid vertices.",
+            "location": "Road object outline: outlineId=0, roadObjectId=6617, roadId=2909",
+            "incidentSeverity": "WARNING",
+            "wasHealed": true,
+            "messageSeverity": "WARNING"
+        },
+        {
+            "type": "",
+            "info": "A linear ring requires at least three valid vertices.",
+            "location": "Road object outline: outlineId=0, roadObjectId=6591, roadId=3296",
+            "incidentSeverity": "WARNING",
+            "wasHealed": true,
+            "messageSeverity": "WARNING"
+        },
+        {
+            "type": "",
+            "info": "A linear ring requires at least three valid vertices.",
+            "location": "Road object outline: outlineId=0, roadObjectId=6578, roadId=3688",
+            "incidentSeverity": "WARNING",
+            "wasHealed": true,
+            "messageSeverity": "WARNING"
+        },
+        {
+            "type": "",
+            "info": "A linear ring requires at least three valid vertices.",
+            "location": "Road object outline: outlineId=0, roadObjectId=6577, roadId=3692",
+            "incidentSeverity": "WARNING",
+            "wasHealed": true,
+            "messageSeverity": "WARNING"
+        },
+        {
+            "type": "",
+            "info": "A linear ring requires at least three valid vertices.",
+            "location": "Road object outline: outlineId=0, roadObjectId=6579, roadId=3713",
+            "incidentSeverity": "WARNING",
+            "wasHealed": true,
+            "messageSeverity": "WARNING"
+        },
+        {
+            "type": "",
+            "info": "A linear ring requires at least three valid vertices.",
+            "location": "Road object outline: outlineId=0, roadObjectId=6581, roadId=3718",
+            "incidentSeverity": "WARNING",
+            "wasHealed": true,
+            "messageSeverity": "WARNING"
+        },
+        {
+            "type": "",
+            "info": "A linear ring requires at least three valid vertices.",
+            "location": "Road object outline: outlineId=0, roadObjectId=6580, roadId=3730",
+            "incidentSeverity": "WARNING",
+            "wasHealed": true,
+            "messageSeverity": "WARNING"
+        },
+        {
+            "type": "",
+            "info": "A linear ring requires at least three valid vertices.",
+            "location": "Road object outline: outlineId=0, roadObjectId=6602, roadId=3821",
+            "incidentSeverity": "WARNING",
+            "wasHealed": true,
+            "messageSeverity": "WARNING"
+        },
+        {
+            "type": "",
+            "info": "A linear ring requires at least three valid vertices.",
+            "location": "Road object outline: outlineId=0, roadObjectId=6611, roadId=4033",
+            "incidentSeverity": "WARNING",
+            "wasHealed": true,
+            "messageSeverity": "WARNING"
+        },
+        {
+            "type": "",
+            "info": "A linear ring requires at least three valid vertices.",
+            "location": "Road object outline: outlineId=0, roadObjectId=6616, roadId=4074",
+            "incidentSeverity": "WARNING",
+            "wasHealed": true,
+            "messageSeverity": "WARNING"
+        },
+        {
+            "type": "",
+            "info": "A linear ring requires at least three valid vertices.",
+            "location": "Road object outline: outlineId=0, roadObjectId=6615, roadId=4094",
+            "incidentSeverity": "WARNING",
+            "wasHealed": true,
+            "messageSeverity": "WARNING"
+        },
+        {
+            "type": "",
+            "info": "A linear ring requires at least three valid vertices.",
+            "location": "Road object outline: outlineId=0, roadObjectId=6592, roadId=4132",
+            "incidentSeverity": "WARNING",
+            "wasHealed": true,
+            "messageSeverity": "WARNING"
+        },
+        {
+            "type": "",
+            "info": "A linear ring requires at least three valid vertices.",
+            "location": "Road object outline: outlineId=0, roadObjectId=6612, roadId=4171",
+            "incidentSeverity": "WARNING",
+            "wasHealed": true,
+            "messageSeverity": "WARNING"
+        },
+        {
+            "type": "",
+            "info": "A linear ring requires at least three valid vertices.",
+            "location": "Road object outline: outlineId=0, roadObjectId=6605, roadId=4809",
+            "incidentSeverity": "WARNING",
+            "wasHealed": true,
+            "messageSeverity": "WARNING"
+        },
+        {
+            "type": "",
+            "info": "A linear ring requires at least three valid vertices.",
+            "location": "Road object outline: outlineId=0, roadObjectId=6587, roadId=5122",
+            "incidentSeverity": "WARNING",
+            "wasHealed": true,
+            "messageSeverity": "WARNING"
+        },
+        {
+            "type": "",
+            "info": "A linear ring requires at least three valid vertices.",
+            "location": "Road object outline: outlineId=0, roadObjectId=6565, roadId=5412",
+            "incidentSeverity": "WARNING",
+            "wasHealed": true,
+            "messageSeverity": "WARNING"
+        },
+        {
+            "type": "",
+            "info": "A linear ring requires at least three valid vertices.",
+            "location": "Road object outline: outlineId=0, roadObjectId=6589, roadId=5484",
+            "incidentSeverity": "WARNING",
+            "wasHealed": true,
+            "messageSeverity": "WARNING"
+        },
+        {
+            "type": "",
+            "info": "A linear ring requires at least three valid vertices.",
+            "location": "Road object outline: outlineId=0, roadObjectId=6599, roadId=5633",
+            "incidentSeverity": "WARNING",
+            "wasHealed": true,
+            "messageSeverity": "WARNING"
+        },
+        {
+            "type": "",
+            "info": "A linear ring requires at least three valid vertices.",
+            "location": "Road object outline: outlineId=0, roadObjectId=6569, roadId=5669",
+            "incidentSeverity": "WARNING",
+            "wasHealed": true,
+            "messageSeverity": "WARNING"
+        },
+        {
+            "type": "",
+            "info": "A linear ring requires at least three valid vertices.",
+            "location": "Road object outline: outlineId=0, roadObjectId=6568, roadId=5671",
+            "incidentSeverity": "WARNING",
+            "wasHealed": true,
+            "messageSeverity": "WARNING"
+        },
+        {
+            "type": "",
+            "info": "A linear ring requires at least three valid vertices.",
+            "location": "Road object outline: outlineId=0, roadObjectId=6567, roadId=5675",
+            "incidentSeverity": "WARNING",
+            "wasHealed": true,
+            "messageSeverity": "WARNING"
+        }
+    ]
+}

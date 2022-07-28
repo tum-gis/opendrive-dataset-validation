@@ -1,0 +1,61 @@
+{
+    "opendriveVersion": "V_1_2",
+    "validationMessages": [
+        {
+            "description": "cvc-complex-type.2.4.a: Invalid content was found starting with element 'center'. One of '{userData, include}' is expected.",
+            "severity": "FATAL_ERROR",
+            "lineNumber": 65,
+            "columnNumber": 21
+        },
+        {
+            "description": "cvc-complex-type.3.2.2: Attribute 'laneChange' is not allowed to appear in element 'roadMark'.",
+            "severity": "FATAL_ERROR",
+            "lineNumber": 67,
+            "columnNumber": 122
+        },
+        {
+            "description": "cvc-complex-type.2.4.a: Invalid content was found starting with element 'center'. One of '{userData, include}' is expected.",
+            "severity": "FATAL_ERROR",
+            "lineNumber": 92,
+            "columnNumber": 21
+        },
+        {
+            "description": "cvc-complex-type.3.2.2: Attribute 'laneChange' is not allowed to appear in element 'roadMark'.",
+            "severity": "FATAL_ERROR",
+            "lineNumber": 94,
+            "columnNumber": 122
+        },
+        {
+            "description": "cvc-complex-type.2.4.a: Invalid content was found starting with element 'center'. One of '{userData, include}' is expected.",
+            "severity": "FATAL_ERROR",
+            "lineNumber": 119,
+            "columnNumber": 21
+        },
+        {
+            "description": "cvc-complex-type.3.2.2: Attribute 'laneChange' is not allowed to appear in element 'roadMark'.",
+            "severity": "FATAL_ERROR",
+            "lineNumber": 121,
+            "columnNumber": 122
+        },
+        {
+            "description": "cvc-complex-type.2.4.a: Invalid content was found starting with element 'center'. One of '{userData, include}' is expected.",
+            "severity": "FATAL_ERROR",
+            "lineNumber": 146,
+            "columnNumber": 21
+        },
+        {
+            "description": "cvc-complex-type.3.2.2: Attribute 'laneChange' is not allowed to appear in element 'roadMark'.",
+            "severity": "FATAL_ERROR",
+            "lineNumber": 148,
+            "columnNumber": 122
+        },
+        {
+            "description": "cvc-complex-type.2.4.a: Invalid content was found starting with element 'type'. One of '{objects, signals, surface}' is expected.",
+            "severity": "FATAL_ERROR",
+            "lineNumber": 163,
+            "columnNumber": 36
+        }
+    ],
+    "completedSuccessfully": true,
+    "validationAbortMessage": ""
+}

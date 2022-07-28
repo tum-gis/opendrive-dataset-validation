@@ -1,0 +1,7 @@
+{
+    "opendriveVersion": "V_1_1",
+    "validationMessages": [
+    ],
+    "completedSuccessfully": false,
+    "validationAbortMessage": "Fatal error during schema validation: java.lang.NumberFormatException: For input string: \"border\""
+}

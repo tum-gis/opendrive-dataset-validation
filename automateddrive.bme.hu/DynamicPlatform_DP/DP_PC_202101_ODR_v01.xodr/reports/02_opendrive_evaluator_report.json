@@ -1,0 +1,439 @@
+{
+    "parameters": {
+        "numberTolerance": 1.0E-7,
+        "planViewGeometryDistanceTolerance": 1.0,
+        "planViewGeometryDistanceWarningTolerance": 0.001,
+        "planViewGeometryAngleTolerance": 1.0,
+        "planViewGeometryAngleWarningTolerance": 0.001
+    },
+    "basicDataTypePlan": [
+        {
+            "type": "EmptyValueForOptionalAttribute",
+            "info": "Attribute 'name' is set with an empty value even though the attribute itself is optional.",
+            "location": "Header element",
+            "incidentSeverity": "WARNING",
+            "wasHealed": true,
+            "messageSeverity": "WARNING"
+        }
+    ],
+    "modelingRulesPlan": [
+        {
+            "type": "",
+            "info": "Length attribute (length=11.06695484622321) of the last geometry element (s=0.323931444799749) does not match the total road length (length=11.391848156926315).",
+            "location": "Road: roadId=1",
+            "incidentSeverity": "WARNING",
+            "wasHealed": true,
+            "messageSeverity": "WARNING"
+        },
+        {
+            "type": "",
+            "info": "Length attribute (length=12.20658893682867) of the last geometry element (s=8.25951622382833) does not match the total road length (length=20.467098462320322).",
+            "location": "Road: roadId=10",
+            "incidentSeverity": "WARNING",
+            "wasHealed": true,
+            "messageSeverity": "WARNING"
+        },
+        {
+            "type": "",
+            "info": "Length attribute (length=9.649668221611027) of the last geometry element (s=1.1538015775384025) does not match the total road length (length=10.804575313907709).",
+            "location": "Road: roadId=11",
+            "incidentSeverity": "WARNING",
+            "wasHealed": true,
+            "messageSeverity": "WARNING"
+        },
+        {
+            "type": "",
+            "info": "Plan view contains geometry elements with a length of zero (below tolerance threshold), which are removed.",
+            "location": "Road: roadId=12",
+            "incidentSeverity": "WARNING",
+            "wasHealed": true,
+            "messageSeverity": "WARNING"
+        },
+        {
+            "type": "",
+            "info": "Length attribute (length=12.635806168536273) of the last geometry element (s=4.11314215500426) does not match the total road length (length=16.74981275252508).",
+            "location": "Road: roadId=19",
+            "incidentSeverity": "WARNING",
+            "wasHealed": true,
+            "messageSeverity": "WARNING"
+        },
+        {
+            "type": "",
+            "info": "Plan view contains geometry elements with a length of zero (below tolerance threshold), which are removed.",
+            "location": "Road: roadId=34",
+            "incidentSeverity": "WARNING",
+            "wasHealed": true,
+            "messageSeverity": "WARNING"
+        },
+        {
+            "type": "",
+            "info": "Plan view contains geometry elements with a length of zero (below tolerance threshold), which are removed.",
+            "location": "Road: roadId=35",
+            "incidentSeverity": "WARNING",
+            "wasHealed": true,
+            "messageSeverity": "WARNING"
+        },
+        {
+            "type": "",
+            "info": "Plan view contains geometry elements with a length of zero (below tolerance threshold), which are removed.",
+            "location": "Road: roadId=38",
+            "incidentSeverity": "WARNING",
+            "wasHealed": true,
+            "messageSeverity": "WARNING"
+        },
+        {
+            "type": "",
+            "info": "Length attribute (length=65.31322343428167) of the geometry element (s=88.64811184236639) does not match the start position (s=153.961367574632) of the next geometry element.",
+            "location": "Road: roadId=38",
+            "incidentSeverity": "WARNING",
+            "wasHealed": true,
+            "messageSeverity": "WARNING"
+        },
+        {
+            "type": "",
+            "info": "Length attribute (length=28.90721097498316) of the last geometry element (s=24.143039162349545) does not match the total road length (length=53.05175350530495).",
+            "location": "Road: roadId=41",
+            "incidentSeverity": "WARNING",
+            "wasHealed": true,
+            "messageSeverity": "WARNING"
+        },
+        {
+            "type": "GapBetweenPlanViewGeometryElements",
+            "info": "Geometry elements contain a gap from Vector2D(x=-90.81936269937017, y=-102.68061326115854) to Vector2D(x=-90.81938593989912, y=-102.67919536738493) with an euclidean distance of 0.0014180842271942305 above the warning tolerance of 0.001.",
+            "location": "Road: roadId=43",
+            "incidentSeverity": "WARNING",
+            "wasHealed": false,
+            "messageSeverity": "WARNING"
+        },
+        {
+            "type": "GapBetweenPlanViewGeometryElements",
+            "info": "Geometry elements contain a gap from Vector2D(x=-76.88489312345304, y=-129.44192172591843) to Vector2D(x=-76.88487855050933, y=-129.4453078664441) with an euclidean distance of 0.003386171884329811 above the warning tolerance of 0.001.",
+            "location": "Road: roadId=51",
+            "incidentSeverity": "WARNING",
+            "wasHealed": false,
+            "messageSeverity": "WARNING"
+        },
+        {
+            "type": "GapBetweenPlanViewGeometryElements",
+            "info": "Geometry elements contain a gap from Vector2D(x=-90.38831422722937, y=-129.2495593807968) to Vector2D(x=-90.38828063872478, y=-129.25072710592062) with an euclidean distance of 0.0011682080946662924 above the warning tolerance of 0.001.",
+            "location": "Road: roadId=51",
+            "incidentSeverity": "WARNING",
+            "wasHealed": false,
+            "messageSeverity": "WARNING"
+        },
+        {
+            "type": "",
+            "info": "Length attribute (length=0.3716130216476614) of the geometry element (s=24.337529099612993) does not match the start position (s=24.710986051117068) of the next geometry element.",
+            "location": "Road: roadId=56",
+            "incidentSeverity": "WARNING",
+            "wasHealed": true,
+            "messageSeverity": "WARNING"
+        },
+        {
+            "type": "GapBetweenPlanViewGeometryElements",
+            "info": "Geometry elements contain a gap from Vector2D(x=-90.81936269937017, y=-102.68061326115854) to Vector2D(x=-90.81938594086614, y=-102.6791953422383) with an euclidean distance of 0.001418109386298465 above the warning tolerance of 0.001.",
+            "location": "Road: roadId=56",
+            "incidentSeverity": "WARNING",
+            "wasHealed": false,
+            "messageSeverity": "WARNING"
+        },
+        {
+            "type": "GapBetweenPlanViewGeometryElements",
+            "info": "Geometry elements contain a gap from Vector2D(x=-77.33073680844767, y=-103.9881977152519) to Vector2D(x=-77.33070347182239, y=-103.99009353661904) with an euclidean distance of 0.001896114444515166 above the warning tolerance of 0.001.",
+            "location": "Road: roadId=56",
+            "incidentSeverity": "WARNING",
+            "wasHealed": false,
+            "messageSeverity": "WARNING"
+        },
+        {
+            "type": "GapBetweenPlanViewGeometryElements",
+            "info": "Geometry elements contain a gap from Vector2D(x=-76.88837305186844, y=-129.21187986939233) to Vector2D(x=-76.88835984263817, y=-129.2151917219983) with an euclidean distance of 0.0033118789481907853 above the warning tolerance of 0.001.",
+            "location": "Road: roadId=61",
+            "incidentSeverity": "WARNING",
+            "wasHealed": false,
+            "messageSeverity": "WARNING"
+        },
+        {
+            "type": "GapBetweenPlanViewGeometryElements",
+            "info": "Geometry elements contain a gap from Vector2D(x=-76.90807738535169, y=-127.88192232196998) to Vector2D(x=-76.90806567337555, y=-127.88531976177819) with an euclidean distance of 0.0033974599954673247 above the warning tolerance of 0.001.",
+            "location": "Road: roadId=66",
+            "incidentSeverity": "WARNING",
+            "wasHealed": false,
+            "messageSeverity": "WARNING"
+        },
+        {
+            "type": "",
+            "info": "Length attribute (length=9.354839297254072) of the last geometry element (s=15.081015984497066) does not match the total road length (length=24.436792292776055).",
+            "location": "Road: roadId=78",
+            "incidentSeverity": "WARNING",
+            "wasHealed": true,
+            "messageSeverity": "WARNING"
+        },
+        {
+            "type": "GapBetweenPlanViewGeometryElements",
+            "info": "Geometry elements contain a gap from Vector2D(x=81.16336264721681, y=165.3203538729573) to Vector2D(x=81.16359289860469, y=165.31904103913294) with an euclidean distance of 0.0013328722189302616 above the warning tolerance of 0.001.",
+            "location": "Road: roadId=85",
+            "incidentSeverity": "WARNING",
+            "wasHealed": false,
+            "messageSeverity": "WARNING"
+        },
+        {
+            "type": "MissingValue",
+            "info": "Missing value for attribute 'id'.",
+            "location": "Road object: roadObjectId=219, roadId=0",
+            "incidentSeverity": "FATAL_ERROR",
+            "wasHealed": true,
+            "messageSeverity": "ERROR"
+        },
+        {
+            "type": "",
+            "info": "Road object contains a polyhedron with non-zero height, but the height of the road object element is Option.None.",
+            "location": "Road object: roadObjectId=219, roadId=0",
+            "incidentSeverity": "WARNING",
+            "wasHealed": false,
+            "messageSeverity": "WARNING"
+        },
+        {
+            "type": "MissingValue",
+            "info": "Missing value for attribute 'id'.",
+            "location": "Road object: roadObjectId=225, roadId=0",
+            "incidentSeverity": "FATAL_ERROR",
+            "wasHealed": true,
+            "messageSeverity": "ERROR"
+        },
+        {
+            "type": "",
+            "info": "Road object contains a polyhedron with non-zero height, but the height of the road object element is Option.None.",
+            "location": "Road object: roadObjectId=225, roadId=0",
+            "incidentSeverity": "WARNING",
+            "wasHealed": false,
+            "messageSeverity": "WARNING"
+        },
+        {
+            "type": "MissingValue",
+            "info": "Missing value for attribute 'id'.",
+            "location": "Road object: roadObjectId=218, roadId=5",
+            "incidentSeverity": "FATAL_ERROR",
+            "wasHealed": true,
+            "messageSeverity": "ERROR"
+        },
+        {
+            "type": "",
+            "info": "Road object contains a polyhedron with non-zero height, but the height of the road object element is Option.None.",
+            "location": "Road object: roadObjectId=218, roadId=5",
+            "incidentSeverity": "WARNING",
+            "wasHealed": false,
+            "messageSeverity": "WARNING"
+        },
+        {
+            "type": "MissingValue",
+            "info": "Missing value for attribute 'id'.",
+            "location": "Road object: roadObjectId=209, roadId=5",
+            "incidentSeverity": "FATAL_ERROR",
+            "wasHealed": true,
+            "messageSeverity": "ERROR"
+        },
+        {
+            "type": "",
+            "info": "Road object contains a polyhedron with non-zero height, but the height of the road object element is Option.None.",
+            "location": "Road object: roadObjectId=209, roadId=5",
+            "incidentSeverity": "WARNING",
+            "wasHealed": false,
+            "messageSeverity": "WARNING"
+        },
+        {
+            "type": "MissingValue",
+            "info": "Missing value for attribute 'id'.",
+            "location": "Road object: roadObjectId=301, roadId=7",
+            "incidentSeverity": "FATAL_ERROR",
+            "wasHealed": true,
+            "messageSeverity": "ERROR"
+        },
+        {
+            "type": "",
+            "info": "Road object contains a polyhedron with non-zero height, but the height of the road object element is Option.None.",
+            "location": "Road object: roadObjectId=301, roadId=7",
+            "incidentSeverity": "WARNING",
+            "wasHealed": false,
+            "messageSeverity": "WARNING"
+        },
+        {
+            "type": "MissingValue",
+            "info": "Missing value for attribute 'id'.",
+            "location": "Road object: roadObjectId=302, roadId=7",
+            "incidentSeverity": "FATAL_ERROR",
+            "wasHealed": true,
+            "messageSeverity": "ERROR"
+        },
+        {
+            "type": "",
+            "info": "Road object contains a polyhedron with non-zero height, but the height of the road object element is Option.None.",
+            "location": "Road object: roadObjectId=302, roadId=7",
+            "incidentSeverity": "WARNING",
+            "wasHealed": false,
+            "messageSeverity": "WARNING"
+        },
+        {
+            "type": "MissingValue",
+            "info": "Missing value for attribute 'id'.",
+            "location": "Road object: roadObjectId=134, roadId=13",
+            "incidentSeverity": "FATAL_ERROR",
+            "wasHealed": true,
+            "messageSeverity": "ERROR"
+        },
+        {
+            "type": "",
+            "info": "Road object contains a polyhedron with non-zero height, but the height of the road object element is Option.None.",
+            "location": "Road object: roadObjectId=134, roadId=13",
+            "incidentSeverity": "WARNING",
+            "wasHealed": false,
+            "messageSeverity": "WARNING"
+        },
+        {
+            "type": "MissingValue",
+            "info": "Missing value for attribute 'id'.",
+            "location": "Road object: roadObjectId=207, roadId=13",
+            "incidentSeverity": "FATAL_ERROR",
+            "wasHealed": true,
+            "messageSeverity": "ERROR"
+        },
+        {
+            "type": "",
+            "info": "Road object contains a polyhedron with non-zero height, but the height of the road object element is Option.None.",
+            "location": "Road object: roadObjectId=207, roadId=13",
+            "incidentSeverity": "WARNING",
+            "wasHealed": false,
+            "messageSeverity": "WARNING"
+        },
+        {
+            "type": "MissingValue",
+            "info": "Missing value for attribute 'id'.",
+            "location": "Road object: roadObjectId=208, roadId=13",
+            "incidentSeverity": "FATAL_ERROR",
+            "wasHealed": true,
+            "messageSeverity": "ERROR"
+        },
+        {
+            "type": "",
+            "info": "Road object contains a polyhedron with non-zero height, but the height of the road object element is Option.None.",
+            "location": "Road object: roadObjectId=208, roadId=13",
+            "incidentSeverity": "WARNING",
+            "wasHealed": false,
+            "messageSeverity": "WARNING"
+        },
+        {
+            "type": "MissingValue",
+            "info": "Missing value for attribute 'id'.",
+            "location": "Road object: roadObjectId=305, roadId=36",
+            "incidentSeverity": "FATAL_ERROR",
+            "wasHealed": true,
+            "messageSeverity": "ERROR"
+        },
+        {
+            "type": "",
+            "info": "Road object contains a polyhedron with non-zero height, but the height of the road object element is Option.None.",
+            "location": "Road object: roadObjectId=305, roadId=36",
+            "incidentSeverity": "WARNING",
+            "wasHealed": false,
+            "messageSeverity": "WARNING"
+        },
+        {
+            "type": "MissingValue",
+            "info": "Missing value for attribute 'id'.",
+            "location": "Road object: roadObjectId=226, roadId=48",
+            "incidentSeverity": "FATAL_ERROR",
+            "wasHealed": true,
+            "messageSeverity": "ERROR"
+        },
+        {
+            "type": "",
+            "info": "Road object contains a polyhedron with non-zero height, but the height of the road object element is Option.None.",
+            "location": "Road object: roadObjectId=226, roadId=48",
+            "incidentSeverity": "WARNING",
+            "wasHealed": false,
+            "messageSeverity": "WARNING"
+        },
+        {
+            "type": "MissingValue",
+            "info": "Missing value for attribute 'id'.",
+            "location": "Road object: roadObjectId=308, roadId=48",
+            "incidentSeverity": "FATAL_ERROR",
+            "wasHealed": true,
+            "messageSeverity": "ERROR"
+        },
+        {
+            "type": "",
+            "info": "Road object contains a polyhedron with non-zero height, but the height of the road object element is Option.None.",
+            "location": "Road object: roadObjectId=308, roadId=48",
+            "incidentSeverity": "WARNING",
+            "wasHealed": false,
+            "messageSeverity": "WARNING"
+        },
+        {
+            "type": "MissingValue",
+            "info": "Missing value for attribute 'id'.",
+            "location": "Road object: roadObjectId=309, roadId=51",
+            "incidentSeverity": "FATAL_ERROR",
+            "wasHealed": true,
+            "messageSeverity": "ERROR"
+        },
+        {
+            "type": "",
+            "info": "Road object contains a polyhedron with non-zero height, but the height of the road object element is Option.None.",
+            "location": "Road object: roadObjectId=309, roadId=51",
+            "incidentSeverity": "WARNING",
+            "wasHealed": false,
+            "messageSeverity": "WARNING"
+        },
+        {
+            "type": "MissingValue",
+            "info": "Missing value for attribute 'id'.",
+            "location": "Road object: roadObjectId=311, roadId=56",
+            "incidentSeverity": "FATAL_ERROR",
+            "wasHealed": true,
+            "messageSeverity": "ERROR"
+        },
+        {
+            "type": "",
+            "info": "Road object contains a polyhedron with non-zero height, but the height of the road object element is Option.None.",
+            "location": "Road object: roadObjectId=311, roadId=56",
+            "incidentSeverity": "WARNING",
+            "wasHealed": false,
+            "messageSeverity": "WARNING"
+        },
+        {
+            "type": "MissingValue",
+            "info": "Missing value for attribute 'id'.",
+            "location": "Road object: roadObjectId=310, roadId=66",
+            "incidentSeverity": "FATAL_ERROR",
+            "wasHealed": true,
+            "messageSeverity": "ERROR"
+        },
+        {
+            "type": "",
+            "info": "Road object contains a polyhedron with non-zero height, but the height of the road object element is Option.None.",
+            "location": "Road object: roadObjectId=310, roadId=66",
+            "incidentSeverity": "WARNING",
+            "wasHealed": false,
+            "messageSeverity": "WARNING"
+        },
+        {
+            "type": "",
+            "info": "Junctions of type default should only be used when at least three roads are coming in (currently incoming road ids: [1, 16])",
+            "location": "Junction: junctionId=20",
+            "incidentSeverity": "WARNING",
+            "wasHealed": false,
+            "messageSeverity": "WARNING"
+        },
+        {
+            "type": "",
+            "info": "Junctions of type default should only be used when at least three roads are coming in (currently incoming road ids: [10, 7])",
+            "location": "Junction: junctionId=70",
+            "incidentSeverity": "WARNING",
+            "wasHealed": false,
+            "messageSeverity": "WARNING"
+        }
+    ],
+    "conversionRequirementsPlan": [
+    ]
+}

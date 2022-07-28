@@ -1,0 +1,13 @@
+{
+    "opendriveVersion": "V_1_2",
+    "validationMessages": [
+        {
+            "description": "cvc-complex-type.2.4.b: The content of element 'OpenDRIVE' is not complete. One of '{road}' is expected.",
+            "severity": "FATAL_ERROR",
+            "lineNumber": 4,
+            "columnNumber": 13
+        }
+    ],
+    "completedSuccessfully": true,
+    "validationAbortMessage": ""
+}
